@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TimeOryx;assembly=TimeOryx"
+             x:DataType="local:TodoListPage"
              x:Class="TimeOryx.TodoListPage">
     <ContentPage.Resources>
         <ResourceDictionary>
@@ -19,21 +20,7 @@
         <ToolbarItem Order="Primary" Text="Настройки"></ToolbarItem>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
-        <StackLayout>
-            <ListView HasUnevenRows="True" x:DataType="local:TodoListPage" ItemsSource="{Binding ToDoLists}">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <ViewCell.View>
-                                <StackLayout>
-                                   <Label x:DataType="local:DoList" Text="{Binding Name}"></Label>
-                                    <Label x:DataType="local:DoList" Text="{Binding Description}"></Label>
-                                </StackLayout>
-                            </ViewCell.View>
-                        </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
+        <StackLayout x:Name="StackLayout">
             <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand" BackgroundColor="#7b7b7b">
         <StackLayout Orientation="Horizontal" Spacing="8" BackgroundColor="#7b7b7b">
             <Label Text="П" Style="{StaticResource Lablestyle}"></Label>

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -21,8 +22,7 @@ namespace TimeOryx
             StreamWriter teStreamWriter;
             _tempdolist[0] = Entry.Text;
             _tempdolist[1] = Editor.Text;
-            _tempdolist[2] = Convert.ToString(DatePicker.Date);
-            _tempdolist[3] = Convert.ToString(TimePicker.Time);
+           
             if (Box.IsChecked)
             {
                 _tempdolist[4] = Convert.ToString(DatePickerEnd.Date);
@@ -35,6 +35,13 @@ namespace TimeOryx
                 teStreamWriter.WriteLine(i);
             }
             teStreamWriter.Close();
+            DoList temp= new DoList();
+            temp.Name = _tempdolist[0];
+            temp.Description = _tempdolist[1];
+            temp.Date = _tempdolist[2];
+            temp.Time = _tempdolist[3];
+            temp.DateEnd = _tempdolist[4];
+            TodoListPage.AddTask(temp);
             Navigation.PopModalAsync();
         }
 
@@ -52,6 +59,16 @@ namespace TimeOryx
         private void Cancel_OnClicked(object sender, EventArgs e)
         {
             Navigation.PopModalAsync();
+        }
+
+        private void DatePicker_OnDateSelected(object sender, DateChangedEventArgs e)
+        {
+            _tempdolist[2] = e.NewDate.ToString("dd/MM/yyyy");
+        }
+
+        private void TimePicker_OnPropertyChanged(object sender, PropertyChangedEventArgs e)
+        {
+            _tempdolist[3] = TimePicker.Time.ToString("c");
         }
     }
 }

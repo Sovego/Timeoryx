@@ -9,13 +9,13 @@
                 <Editor Placeholder="Введите описание цели" x:Name="Editor"></Editor>
                 <Label Text="Выберите дату" FontSize="20"></Label>
                 
-                <DatePicker x:Name="DatePicker"></DatePicker>
+                <DatePicker x:Name="DatePicker" DateSelected="DatePicker_OnDateSelected"></DatePicker>
                 <StackLayout Orientation="Horizontal">
                     <CheckBox CheckedChanged="CBox_OnCheckedChanged" x:Name="Box"></CheckBox>
                     <Label Text="Выбрать дату окончания" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="14"></Label>
                 </StackLayout>
-                <DatePicker x:Name="DatePickerEnd" IsVisible="False"></DatePicker>
-                <TimePicker x:Name="TimePicker"></TimePicker>
+                <DatePicker x:Name="DatePickerEnd" IsVisible="False" Format=""></DatePicker>
+                <TimePicker x:Name="TimePicker" Format="hh.mm" PropertyChanged="TimePicker_OnPropertyChanged"></TimePicker>
             </StackLayout>
             <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal">
                 <Button x:Name="Save" Text="Сохранить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" Clicked="Save_OnClicked"></Button>
