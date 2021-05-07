@@ -14,8 +14,8 @@
                     <CheckBox CheckedChanged="CBox_OnCheckedChanged" x:Name="Box"></CheckBox>
                     <Label Text="Выбрать дату окончания" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="14"></Label>
                 </StackLayout>
-                <DatePicker x:Name="DatePickerEnd" IsVisible="False" Format=""></DatePicker>
-                <TimePicker x:Name="TimePicker" Format="hh.mm" PropertyChanged="TimePicker_OnPropertyChanged"></TimePicker>
+                <DatePicker x:Name="DatePickerEnd" IsVisible="False" Date="11/11/1111"></DatePicker>
+                <TimePicker x:Name="TimePicker" Format="hh.mm" PropertyChanged="TimePicker_OnPropertyChanged" ></TimePicker>
             </StackLayout>
             <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal">
                 <Button x:Name="Save" Text="Сохранить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" Clicked="Save_OnClicked"></Button>

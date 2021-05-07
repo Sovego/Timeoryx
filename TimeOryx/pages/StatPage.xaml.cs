@@ -7,21 +7,14 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace TimeOryx
+namespace TimeOryx.pages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Achivment_master : ContentPage
+    public partial class StatPage : ContentPage
     {
-        public Achivment_master()
+        public StatPage()
         {
             InitializeComponent();
-        }
-
-        protected override void OnAppearing()
-        {
-            base.OnAppearing();
-
-            UpdateChildrenLayout();
         }
     }
 }

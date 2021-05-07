@@ -2,10 +2,16 @@
 <Shell xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:views="clr-namespace:TimeOryx;assembly=TimeOryx"
-             x:Class="TimeOryx.MainPage"
-             CurrentItem="{x:Reference ToDo}"
+             x:Class="TimeOryx.MainPage" 
+             
              BackgroundColor="#7b7b7b">
     
+    <FlyoutItem Title="Календарь">
+        <Tab>
+            <ShellContent ContentTemplate="{DataTemplate views:CalendarPage}"></ShellContent>
+        </Tab>
+    </FlyoutItem>
+
     <FlyoutItem Title="Список дел">
         <Tab>
         <ShellContent x:Name="ToDo" ContentTemplate="{DataTemplate views:TodoListPage}">
@@ -14,4 +20,5 @@
         </Tab>
         
     </FlyoutItem>
+    
 </Shell>

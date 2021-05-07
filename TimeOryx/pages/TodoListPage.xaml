@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TimeOryx;assembly=TimeOryx"
+             x:DataType="local:TodoListPage"
+             x:Class="TimeOryx.TodoListPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="Lablestyle" TargetType="Label">
+                <Setter Property="TextColor" Value="AliceBlue"></Setter>
+                <Setter Property="FontSize" Value="24"></Setter>
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"></Setter>
+                <Setter Property="HorizontalTextAlignment" Value="Center"></Setter>
+                <Setter Property="VerticalTextAlignment" Value="Center"></Setter>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Order="Secondary" Text="Добавить цель" Clicked="MenuItem_OnClicked"></ToolbarItem>
+        <ToolbarItem Order="Primary" Text="Настройки"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout x:Name="StackLayout">
+            <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand" BackgroundColor="#7b7b7b" >
+                <local:CalendarMini ></local:CalendarMini> 
+            </StackLayout>
+    </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

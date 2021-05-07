@@ -25,6 +25,53 @@ namespace TimeOryx.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar1 = global::TimeOryx.Droid.Resource.Drawable.Avatar1;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar10 = global::TimeOryx.Droid.Resource.Drawable.Avatar10;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar11 = global::TimeOryx.Droid.Resource.Drawable.Avatar11;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar12 = global::TimeOryx.Droid.Resource.Drawable.Avatar12;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar13 = global::TimeOryx.Droid.Resource.Drawable.Avatar13;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar14 = global::TimeOryx.Droid.Resource.Drawable.Avatar14;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar15 = global::TimeOryx.Droid.Resource.Drawable.Avatar15;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar16 = global::TimeOryx.Droid.Resource.Drawable.Avatar16;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar17 = global::TimeOryx.Droid.Resource.Drawable.Avatar17;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar18 = global::TimeOryx.Droid.Resource.Drawable.Avatar18;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar19 = global::TimeOryx.Droid.Resource.Drawable.Avatar19;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar2 = global::TimeOryx.Droid.Resource.Drawable.Avatar2;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar20 = global::TimeOryx.Droid.Resource.Drawable.Avatar20;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar21 = global::TimeOryx.Droid.Resource.Drawable.Avatar21;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar22 = global::TimeOryx.Droid.Resource.Drawable.Avatar22;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar23 = global::TimeOryx.Droid.Resource.Drawable.Avatar23;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar24 = global::TimeOryx.Droid.Resource.Drawable.Avatar24;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar25 = global::TimeOryx.Droid.Resource.Drawable.Avatar25;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar26 = global::TimeOryx.Droid.Resource.Drawable.Avatar26;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar27 = global::TimeOryx.Droid.Resource.Drawable.Avatar27;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar28 = global::TimeOryx.Droid.Resource.Drawable.Avatar28;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar29 = global::TimeOryx.Droid.Resource.Drawable.Avatar29;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar3 = global::TimeOryx.Droid.Resource.Drawable.Avatar3;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar30 = global::TimeOryx.Droid.Resource.Drawable.Avatar30;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar4 = global::TimeOryx.Droid.Resource.Drawable.Avatar4;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar5 = global::TimeOryx.Droid.Resource.Drawable.Avatar5;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar6 = global::TimeOryx.Droid.Resource.Drawable.Avatar6;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar7 = global::TimeOryx.Droid.Resource.Drawable.Avatar7;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar8 = global::TimeOryx.Droid.Resource.Drawable.Avatar8;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar9 = global::TimeOryx.Droid.Resource.Drawable.Avatar9;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.input_layout_drop_down_icon = global::TimeOryx.Droid.Resource.Drawable.input_layout_drop_down_icon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::TimeOryx.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::TimeOryx.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.clear_button_icon = global::TimeOryx.Droid.Resource.Drawable.clear_button_icon;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.activity_horizontal_margin = global::TimeOryx.Droid.Resource.Dimension.activity_horizontal_margin;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.activity_vertical_margin = global::TimeOryx.Droid.Resource.Dimension.activity_vertical_margin;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.date_text_size = global::TimeOryx.Droid.Resource.Dimension.date_text_size;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.date_text_tab_size = global::TimeOryx.Droid.Resource.Dimension.date_text_tab_size;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.month_row_size = global::TimeOryx.Droid.Resource.Dimension.month_row_size;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.month_row_tab_size = global::TimeOryx.Droid.Resource.Dimension.month_row_tab_size;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.month_text_size = global::TimeOryx.Droid.Resource.Dimension.month_text_size;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.month_text_tab_size = global::TimeOryx.Droid.Resource.Dimension.month_text_tab_size;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.String.sfcalendar_inlineviewalldaytext = global::TimeOryx.Droid.Resource.String.sfcalendar_inlineviewalldaytext;
+			global::Syncfusion.SfCalendar.XForms.Droid.Resource.String.sfcalendar_inlineviewnoappointmenttext = global::TimeOryx.Droid.Resource.String.sfcalendar_inlineviewnoappointmenttext;
+			global::Syncfusion.ListView.XForms.Android.Resource.String.ApplicationName = global::TimeOryx.Droid.Resource.String.ApplicationName;
+			global::Syncfusion.ListView.XForms.Android.Resource.String.Hello = global::TimeOryx.Droid.Resource.String.Hello;
+			global::Syncfusion.ListView.XForms.Android.Resource.String.Load_More = global::TimeOryx.Droid.Resource.String.Load_More;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::TimeOryx.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::TimeOryx.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::TimeOryx.Droid.Resource.Attribute.fontProviderAuthority;
@@ -7465,6 +7512,1929 @@ namespace TimeOryx.Droid
 			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_gravity_bottom_start = global::TimeOryx.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
 			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_gravity_top_start = global::TimeOryx.Droid.Resource.Xml.standalone_badge_gravity_top_start;
 			global::Xamarin.Forms.Platform.Resource.Xml.standalone_badge_offset = global::TimeOryx.Droid.Resource.Xml.standalone_badge_offset;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_fade_in = global::TimeOryx.Droid.Resource.Animation.abc_fade_in;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_fade_out = global::TimeOryx.Droid.Resource.Animation.abc_fade_out;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_grow_fade_in_from_bottom = global::TimeOryx.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_popup_enter = global::TimeOryx.Droid.Resource.Animation.abc_popup_enter;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_popup_exit = global::TimeOryx.Droid.Resource.Animation.abc_popup_exit;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_shrink_fade_out_from_bottom = global::TimeOryx.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_slide_in_bottom = global::TimeOryx.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_slide_in_top = global::TimeOryx.Droid.Resource.Animation.abc_slide_in_top;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_slide_out_bottom = global::TimeOryx.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.abc_slide_out_top = global::TimeOryx.Droid.Resource.Animation.abc_slide_out_top;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.design_bottom_sheet_slide_in = global::TimeOryx.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.design_bottom_sheet_slide_out = global::TimeOryx.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.design_snackbar_in = global::TimeOryx.Droid.Resource.Animation.design_snackbar_in;
+			global::Xamarin.Plugin.Calendar.Resource.Animation.design_snackbar_out = global::TimeOryx.Droid.Resource.Animation.design_snackbar_out;
+			global::Xamarin.Plugin.Calendar.Resource.Animator.design_appbar_state_list_animator = global::TimeOryx.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarDivider = global::TimeOryx.Droid.Resource.Attribute.actionBarDivider;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarItemBackground = global::TimeOryx.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarPopupTheme = global::TimeOryx.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarSize = global::TimeOryx.Droid.Resource.Attribute.actionBarSize;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarSplitStyle = global::TimeOryx.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarStyle = global::TimeOryx.Droid.Resource.Attribute.actionBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarTabBarStyle = global::TimeOryx.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarTabStyle = global::TimeOryx.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarTabTextStyle = global::TimeOryx.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarTheme = global::TimeOryx.Droid.Resource.Attribute.actionBarTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionBarWidgetTheme = global::TimeOryx.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionButtonStyle = global::TimeOryx.Droid.Resource.Attribute.actionButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionDropDownStyle = global::TimeOryx.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionLayout = global::TimeOryx.Droid.Resource.Attribute.actionLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionMenuTextAppearance = global::TimeOryx.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionMenuTextColor = global::TimeOryx.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeBackground = global::TimeOryx.Droid.Resource.Attribute.actionModeBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeCloseButtonStyle = global::TimeOryx.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeCloseDrawable = global::TimeOryx.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeCopyDrawable = global::TimeOryx.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeCutDrawable = global::TimeOryx.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeFindDrawable = global::TimeOryx.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModePasteDrawable = global::TimeOryx.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModePopupWindowStyle = global::TimeOryx.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeSelectAllDrawable = global::TimeOryx.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeShareDrawable = global::TimeOryx.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeSplitBackground = global::TimeOryx.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeStyle = global::TimeOryx.Droid.Resource.Attribute.actionModeStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionModeWebSearchDrawable = global::TimeOryx.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionOverflowButtonStyle = global::TimeOryx.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionOverflowMenuStyle = global::TimeOryx.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionProviderClass = global::TimeOryx.Droid.Resource.Attribute.actionProviderClass;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.actionViewClass = global::TimeOryx.Droid.Resource.Attribute.actionViewClass;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.activityChooserViewStyle = global::TimeOryx.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.alertDialogButtonGroupStyle = global::TimeOryx.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.alertDialogCenterButtons = global::TimeOryx.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.alertDialogStyle = global::TimeOryx.Droid.Resource.Attribute.alertDialogStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.alertDialogTheme = global::TimeOryx.Droid.Resource.Attribute.alertDialogTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.allowStacking = global::TimeOryx.Droid.Resource.Attribute.allowStacking;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.alpha = global::TimeOryx.Droid.Resource.Attribute.alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.alphabeticModifiers = global::TimeOryx.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.arrowHeadLength = global::TimeOryx.Droid.Resource.Attribute.arrowHeadLength;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.arrowShaftLength = global::TimeOryx.Droid.Resource.Attribute.arrowShaftLength;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.autoCompleteTextViewStyle = global::TimeOryx.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.autoSizeMaxTextSize = global::TimeOryx.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.autoSizeMinTextSize = global::TimeOryx.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.autoSizePresetSizes = global::TimeOryx.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.autoSizeStepGranularity = global::TimeOryx.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.autoSizeTextType = global::TimeOryx.Droid.Resource.Attribute.autoSizeTextType;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.background = global::TimeOryx.Droid.Resource.Attribute.background;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.backgroundSplit = global::TimeOryx.Droid.Resource.Attribute.backgroundSplit;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.backgroundStacked = global::TimeOryx.Droid.Resource.Attribute.backgroundStacked;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.backgroundTint = global::TimeOryx.Droid.Resource.Attribute.backgroundTint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.backgroundTintMode = global::TimeOryx.Droid.Resource.Attribute.backgroundTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.barLength = global::TimeOryx.Droid.Resource.Attribute.barLength;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.behavior_autoHide = global::TimeOryx.Droid.Resource.Attribute.behavior_autoHide;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.behavior_hideable = global::TimeOryx.Droid.Resource.Attribute.behavior_hideable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.behavior_overlapTop = global::TimeOryx.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.behavior_peekHeight = global::TimeOryx.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.behavior_skipCollapsed = global::TimeOryx.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.borderlessButtonStyle = global::TimeOryx.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.borderWidth = global::TimeOryx.Droid.Resource.Attribute.borderWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.bottomSheetDialogTheme = global::TimeOryx.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.bottomSheetStyle = global::TimeOryx.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonBarButtonStyle = global::TimeOryx.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonBarNegativeButtonStyle = global::TimeOryx.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonBarNeutralButtonStyle = global::TimeOryx.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonBarPositiveButtonStyle = global::TimeOryx.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonBarStyle = global::TimeOryx.Droid.Resource.Attribute.buttonBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonGravity = global::TimeOryx.Droid.Resource.Attribute.buttonGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonPanelSideLayout = global::TimeOryx.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonStyle = global::TimeOryx.Droid.Resource.Attribute.buttonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonStyleSmall = global::TimeOryx.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonTint = global::TimeOryx.Droid.Resource.Attribute.buttonTint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.buttonTintMode = global::TimeOryx.Droid.Resource.Attribute.buttonTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.cardBackgroundColor = global::TimeOryx.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.cardCornerRadius = global::TimeOryx.Droid.Resource.Attribute.cardCornerRadius;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.cardElevation = global::TimeOryx.Droid.Resource.Attribute.cardElevation;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.cardMaxElevation = global::TimeOryx.Droid.Resource.Attribute.cardMaxElevation;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.cardPreventCornerOverlap = global::TimeOryx.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.cardUseCompatPadding = global::TimeOryx.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.checkboxStyle = global::TimeOryx.Droid.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.checkedTextViewStyle = global::TimeOryx.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.closeIcon = global::TimeOryx.Droid.Resource.Attribute.closeIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.closeItemLayout = global::TimeOryx.Droid.Resource.Attribute.closeItemLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.collapseContentDescription = global::TimeOryx.Droid.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.collapsedTitleGravity = global::TimeOryx.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.collapsedTitleTextAppearance = global::TimeOryx.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.collapseIcon = global::TimeOryx.Droid.Resource.Attribute.collapseIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.color = global::TimeOryx.Droid.Resource.Attribute.color;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorAccent = global::TimeOryx.Droid.Resource.Attribute.colorAccent;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorBackgroundFloating = global::TimeOryx.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorButtonNormal = global::TimeOryx.Droid.Resource.Attribute.colorButtonNormal;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorControlActivated = global::TimeOryx.Droid.Resource.Attribute.colorControlActivated;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorControlHighlight = global::TimeOryx.Droid.Resource.Attribute.colorControlHighlight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorControlNormal = global::TimeOryx.Droid.Resource.Attribute.colorControlNormal;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorError = global::TimeOryx.Droid.Resource.Attribute.colorError;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorPrimary = global::TimeOryx.Droid.Resource.Attribute.colorPrimary;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorPrimaryDark = global::TimeOryx.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.colorSwitchThumbNormal = global::TimeOryx.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.commitIcon = global::TimeOryx.Droid.Resource.Attribute.commitIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentDescription = global::TimeOryx.Droid.Resource.Attribute.contentDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentInsetEnd = global::TimeOryx.Droid.Resource.Attribute.contentInsetEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentInsetEndWithActions = global::TimeOryx.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentInsetLeft = global::TimeOryx.Droid.Resource.Attribute.contentInsetLeft;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentInsetRight = global::TimeOryx.Droid.Resource.Attribute.contentInsetRight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentInsetStart = global::TimeOryx.Droid.Resource.Attribute.contentInsetStart;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentInsetStartWithNavigation = global::TimeOryx.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentPadding = global::TimeOryx.Droid.Resource.Attribute.contentPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentPaddingBottom = global::TimeOryx.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentPaddingLeft = global::TimeOryx.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentPaddingRight = global::TimeOryx.Droid.Resource.Attribute.contentPaddingRight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentPaddingTop = global::TimeOryx.Droid.Resource.Attribute.contentPaddingTop;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.contentScrim = global::TimeOryx.Droid.Resource.Attribute.contentScrim;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.controlBackground = global::TimeOryx.Droid.Resource.Attribute.controlBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.counterEnabled = global::TimeOryx.Droid.Resource.Attribute.counterEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.counterMaxLength = global::TimeOryx.Droid.Resource.Attribute.counterMaxLength;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.counterOverflowTextAppearance = global::TimeOryx.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.counterTextAppearance = global::TimeOryx.Droid.Resource.Attribute.counterTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.customNavigationLayout = global::TimeOryx.Droid.Resource.Attribute.customNavigationLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.defaultQueryHint = global::TimeOryx.Droid.Resource.Attribute.defaultQueryHint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.dialogPreferredPadding = global::TimeOryx.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.dialogTheme = global::TimeOryx.Droid.Resource.Attribute.dialogTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.displayOptions = global::TimeOryx.Droid.Resource.Attribute.displayOptions;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.divider = global::TimeOryx.Droid.Resource.Attribute.divider;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.dividerHorizontal = global::TimeOryx.Droid.Resource.Attribute.dividerHorizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.dividerPadding = global::TimeOryx.Droid.Resource.Attribute.dividerPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.dividerVertical = global::TimeOryx.Droid.Resource.Attribute.dividerVertical;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.drawableSize = global::TimeOryx.Droid.Resource.Attribute.drawableSize;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.drawerArrowStyle = global::TimeOryx.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.dropdownListPreferredItemHeight = global::TimeOryx.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.dropDownListViewStyle = global::TimeOryx.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.editTextBackground = global::TimeOryx.Droid.Resource.Attribute.editTextBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.editTextColor = global::TimeOryx.Droid.Resource.Attribute.editTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.editTextStyle = global::TimeOryx.Droid.Resource.Attribute.editTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.elevation = global::TimeOryx.Droid.Resource.Attribute.elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.errorEnabled = global::TimeOryx.Droid.Resource.Attribute.errorEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.errorTextAppearance = global::TimeOryx.Droid.Resource.Attribute.errorTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.expandActivityOverflowButtonDrawable = global::TimeOryx.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.expanded = global::TimeOryx.Droid.Resource.Attribute.expanded;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.expandedTitleGravity = global::TimeOryx.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.expandedTitleMargin = global::TimeOryx.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.expandedTitleMarginBottom = global::TimeOryx.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.expandedTitleMarginEnd = global::TimeOryx.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.expandedTitleMarginStart = global::TimeOryx.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.expandedTitleMarginTop = global::TimeOryx.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.expandedTitleTextAppearance = global::TimeOryx.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fabSize = global::TimeOryx.Droid.Resource.Attribute.fabSize;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fastScrollEnabled = global::TimeOryx.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::TimeOryx.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::TimeOryx.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fastScrollVerticalThumbDrawable = global::TimeOryx.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fastScrollVerticalTrackDrawable = global::TimeOryx.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.font = global::TimeOryx.Droid.Resource.Attribute.font;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fontFamily = global::TimeOryx.Droid.Resource.Attribute.fontFamily;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fontProviderAuthority = global::TimeOryx.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fontProviderCerts = global::TimeOryx.Droid.Resource.Attribute.fontProviderCerts;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fontProviderFetchStrategy = global::TimeOryx.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fontProviderFetchTimeout = global::TimeOryx.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fontProviderPackage = global::TimeOryx.Droid.Resource.Attribute.fontProviderPackage;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fontProviderQuery = global::TimeOryx.Droid.Resource.Attribute.fontProviderQuery;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fontStyle = global::TimeOryx.Droid.Resource.Attribute.fontStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.fontWeight = global::TimeOryx.Droid.Resource.Attribute.fontWeight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.foregroundInsidePadding = global::TimeOryx.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.gapBetweenBars = global::TimeOryx.Droid.Resource.Attribute.gapBetweenBars;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.goIcon = global::TimeOryx.Droid.Resource.Attribute.goIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.headerLayout = global::TimeOryx.Droid.Resource.Attribute.headerLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.height = global::TimeOryx.Droid.Resource.Attribute.height;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.hideOnContentScroll = global::TimeOryx.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.hintAnimationEnabled = global::TimeOryx.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.hintEnabled = global::TimeOryx.Droid.Resource.Attribute.hintEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.hintTextAppearance = global::TimeOryx.Droid.Resource.Attribute.hintTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.homeAsUpIndicator = global::TimeOryx.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.homeLayout = global::TimeOryx.Droid.Resource.Attribute.homeLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.icon = global::TimeOryx.Droid.Resource.Attribute.icon;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.iconifiedByDefault = global::TimeOryx.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.iconTint = global::TimeOryx.Droid.Resource.Attribute.iconTint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.iconTintMode = global::TimeOryx.Droid.Resource.Attribute.iconTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.imageButtonStyle = global::TimeOryx.Droid.Resource.Attribute.imageButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.indeterminateProgressStyle = global::TimeOryx.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.initialActivityCount = global::TimeOryx.Droid.Resource.Attribute.initialActivityCount;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.insetForeground = global::TimeOryx.Droid.Resource.Attribute.insetForeground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.isLightTheme = global::TimeOryx.Droid.Resource.Attribute.isLightTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.itemBackground = global::TimeOryx.Droid.Resource.Attribute.itemBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.itemIconTint = global::TimeOryx.Droid.Resource.Attribute.itemIconTint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.itemPadding = global::TimeOryx.Droid.Resource.Attribute.itemPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.itemTextAppearance = global::TimeOryx.Droid.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.itemTextColor = global::TimeOryx.Droid.Resource.Attribute.itemTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.keylines = global::TimeOryx.Droid.Resource.Attribute.keylines;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout = global::TimeOryx.Droid.Resource.Attribute.layout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layoutManager = global::TimeOryx.Droid.Resource.Attribute.layoutManager;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_anchor = global::TimeOryx.Droid.Resource.Attribute.layout_anchor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_anchorGravity = global::TimeOryx.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_behavior = global::TimeOryx.Droid.Resource.Attribute.layout_behavior;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_collapseMode = global::TimeOryx.Droid.Resource.Attribute.layout_collapseMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_collapseParallaxMultiplier = global::TimeOryx.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_dodgeInsetEdges = global::TimeOryx.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_insetEdge = global::TimeOryx.Droid.Resource.Attribute.layout_insetEdge;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_keyline = global::TimeOryx.Droid.Resource.Attribute.layout_keyline;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_scrollFlags = global::TimeOryx.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.layout_scrollInterpolator = global::TimeOryx.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listChoiceBackgroundIndicator = global::TimeOryx.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listDividerAlertDialog = global::TimeOryx.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listItemLayout = global::TimeOryx.Droid.Resource.Attribute.listItemLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listLayout = global::TimeOryx.Droid.Resource.Attribute.listLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listMenuViewStyle = global::TimeOryx.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listPopupWindowStyle = global::TimeOryx.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listPreferredItemHeight = global::TimeOryx.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listPreferredItemHeightLarge = global::TimeOryx.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listPreferredItemHeightSmall = global::TimeOryx.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listPreferredItemPaddingLeft = global::TimeOryx.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.listPreferredItemPaddingRight = global::TimeOryx.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.logo = global::TimeOryx.Droid.Resource.Attribute.logo;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.logoDescription = global::TimeOryx.Droid.Resource.Attribute.logoDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.maxActionInlineWidth = global::TimeOryx.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.maxButtonHeight = global::TimeOryx.Droid.Resource.Attribute.maxButtonHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.measureWithLargestChild = global::TimeOryx.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.menu = global::TimeOryx.Droid.Resource.Attribute.menu;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.multiChoiceItemLayout = global::TimeOryx.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.navigationContentDescription = global::TimeOryx.Droid.Resource.Attribute.navigationContentDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.navigationIcon = global::TimeOryx.Droid.Resource.Attribute.navigationIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.navigationMode = global::TimeOryx.Droid.Resource.Attribute.navigationMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.numericModifiers = global::TimeOryx.Droid.Resource.Attribute.numericModifiers;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.overlapAnchor = global::TimeOryx.Droid.Resource.Attribute.overlapAnchor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.paddingBottomNoButtons = global::TimeOryx.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.paddingEnd = global::TimeOryx.Droid.Resource.Attribute.paddingEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.paddingStart = global::TimeOryx.Droid.Resource.Attribute.paddingStart;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.paddingTopNoTitle = global::TimeOryx.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.panelBackground = global::TimeOryx.Droid.Resource.Attribute.panelBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.panelMenuListTheme = global::TimeOryx.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.panelMenuListWidth = global::TimeOryx.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.passwordToggleContentDescription = global::TimeOryx.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.passwordToggleDrawable = global::TimeOryx.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.passwordToggleEnabled = global::TimeOryx.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.passwordToggleTint = global::TimeOryx.Droid.Resource.Attribute.passwordToggleTint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.passwordToggleTintMode = global::TimeOryx.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.popupMenuStyle = global::TimeOryx.Droid.Resource.Attribute.popupMenuStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.popupTheme = global::TimeOryx.Droid.Resource.Attribute.popupTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.popupWindowStyle = global::TimeOryx.Droid.Resource.Attribute.popupWindowStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.preserveIconSpacing = global::TimeOryx.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.pressedTranslationZ = global::TimeOryx.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.progressBarPadding = global::TimeOryx.Droid.Resource.Attribute.progressBarPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.progressBarStyle = global::TimeOryx.Droid.Resource.Attribute.progressBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.queryBackground = global::TimeOryx.Droid.Resource.Attribute.queryBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.queryHint = global::TimeOryx.Droid.Resource.Attribute.queryHint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.radioButtonStyle = global::TimeOryx.Droid.Resource.Attribute.radioButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.ratingBarStyle = global::TimeOryx.Droid.Resource.Attribute.ratingBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.ratingBarStyleIndicator = global::TimeOryx.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.ratingBarStyleSmall = global::TimeOryx.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.reverseLayout = global::TimeOryx.Droid.Resource.Attribute.reverseLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.rippleColor = global::TimeOryx.Droid.Resource.Attribute.rippleColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.scrimAnimationDuration = global::TimeOryx.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.scrimVisibleHeightTrigger = global::TimeOryx.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.searchHintIcon = global::TimeOryx.Droid.Resource.Attribute.searchHintIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.searchIcon = global::TimeOryx.Droid.Resource.Attribute.searchIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.searchViewStyle = global::TimeOryx.Droid.Resource.Attribute.searchViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.seekBarStyle = global::TimeOryx.Droid.Resource.Attribute.seekBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.selectableItemBackground = global::TimeOryx.Droid.Resource.Attribute.selectableItemBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.selectableItemBackgroundBorderless = global::TimeOryx.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.showAsAction = global::TimeOryx.Droid.Resource.Attribute.showAsAction;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.showDividers = global::TimeOryx.Droid.Resource.Attribute.showDividers;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.showText = global::TimeOryx.Droid.Resource.Attribute.showText;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.showTitle = global::TimeOryx.Droid.Resource.Attribute.showTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.singleChoiceItemLayout = global::TimeOryx.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.spanCount = global::TimeOryx.Droid.Resource.Attribute.spanCount;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.spinBars = global::TimeOryx.Droid.Resource.Attribute.spinBars;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.spinnerDropDownItemStyle = global::TimeOryx.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.spinnerStyle = global::TimeOryx.Droid.Resource.Attribute.spinnerStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.splitTrack = global::TimeOryx.Droid.Resource.Attribute.splitTrack;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.srcCompat = global::TimeOryx.Droid.Resource.Attribute.srcCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.stackFromEnd = global::TimeOryx.Droid.Resource.Attribute.stackFromEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.state_above_anchor = global::TimeOryx.Droid.Resource.Attribute.state_above_anchor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.state_collapsed = global::TimeOryx.Droid.Resource.Attribute.state_collapsed;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.state_collapsible = global::TimeOryx.Droid.Resource.Attribute.state_collapsible;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.statusBarBackground = global::TimeOryx.Droid.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.statusBarScrim = global::TimeOryx.Droid.Resource.Attribute.statusBarScrim;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.subMenuArrow = global::TimeOryx.Droid.Resource.Attribute.subMenuArrow;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.submitBackground = global::TimeOryx.Droid.Resource.Attribute.submitBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.subtitle = global::TimeOryx.Droid.Resource.Attribute.subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.subtitleTextAppearance = global::TimeOryx.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.subtitleTextColor = global::TimeOryx.Droid.Resource.Attribute.subtitleTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.subtitleTextStyle = global::TimeOryx.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.suggestionRowLayout = global::TimeOryx.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.switchMinWidth = global::TimeOryx.Droid.Resource.Attribute.switchMinWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.switchPadding = global::TimeOryx.Droid.Resource.Attribute.switchPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.switchStyle = global::TimeOryx.Droid.Resource.Attribute.switchStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.switchTextAppearance = global::TimeOryx.Droid.Resource.Attribute.switchTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabBackground = global::TimeOryx.Droid.Resource.Attribute.tabBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabContentStart = global::TimeOryx.Droid.Resource.Attribute.tabContentStart;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabGravity = global::TimeOryx.Droid.Resource.Attribute.tabGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabIndicatorColor = global::TimeOryx.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabIndicatorHeight = global::TimeOryx.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabMaxWidth = global::TimeOryx.Droid.Resource.Attribute.tabMaxWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabMinWidth = global::TimeOryx.Droid.Resource.Attribute.tabMinWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabMode = global::TimeOryx.Droid.Resource.Attribute.tabMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabPadding = global::TimeOryx.Droid.Resource.Attribute.tabPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabPaddingBottom = global::TimeOryx.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabPaddingEnd = global::TimeOryx.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabPaddingStart = global::TimeOryx.Droid.Resource.Attribute.tabPaddingStart;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabPaddingTop = global::TimeOryx.Droid.Resource.Attribute.tabPaddingTop;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabSelectedTextColor = global::TimeOryx.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabTextAppearance = global::TimeOryx.Droid.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tabTextColor = global::TimeOryx.Droid.Resource.Attribute.tabTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textAllCaps = global::TimeOryx.Droid.Resource.Attribute.textAllCaps;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textAppearanceLargePopupMenu = global::TimeOryx.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textAppearanceListItem = global::TimeOryx.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textAppearanceListItemSecondary = global::TimeOryx.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textAppearanceListItemSmall = global::TimeOryx.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textAppearancePopupMenuHeader = global::TimeOryx.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textAppearanceSearchResultSubtitle = global::TimeOryx.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textAppearanceSearchResultTitle = global::TimeOryx.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textAppearanceSmallPopupMenu = global::TimeOryx.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textColorAlertDialogListItem = global::TimeOryx.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.textColorSearchUrl = global::TimeOryx.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.theme = global::TimeOryx.Droid.Resource.Attribute.theme;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.thickness = global::TimeOryx.Droid.Resource.Attribute.thickness;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.thumbTextPadding = global::TimeOryx.Droid.Resource.Attribute.thumbTextPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.thumbTint = global::TimeOryx.Droid.Resource.Attribute.thumbTint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.thumbTintMode = global::TimeOryx.Droid.Resource.Attribute.thumbTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tickMark = global::TimeOryx.Droid.Resource.Attribute.tickMark;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tickMarkTint = global::TimeOryx.Droid.Resource.Attribute.tickMarkTint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tickMarkTintMode = global::TimeOryx.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tint = global::TimeOryx.Droid.Resource.Attribute.tint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tintMode = global::TimeOryx.Droid.Resource.Attribute.tintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.title = global::TimeOryx.Droid.Resource.Attribute.title;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleEnabled = global::TimeOryx.Droid.Resource.Attribute.titleEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleMargin = global::TimeOryx.Droid.Resource.Attribute.titleMargin;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleMarginBottom = global::TimeOryx.Droid.Resource.Attribute.titleMarginBottom;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleMarginEnd = global::TimeOryx.Droid.Resource.Attribute.titleMarginEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleMargins = global::TimeOryx.Droid.Resource.Attribute.titleMargins;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleMarginStart = global::TimeOryx.Droid.Resource.Attribute.titleMarginStart;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleMarginTop = global::TimeOryx.Droid.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleTextAppearance = global::TimeOryx.Droid.Resource.Attribute.titleTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleTextColor = global::TimeOryx.Droid.Resource.Attribute.titleTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.titleTextStyle = global::TimeOryx.Droid.Resource.Attribute.titleTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.toolbarId = global::TimeOryx.Droid.Resource.Attribute.toolbarId;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.toolbarNavigationButtonStyle = global::TimeOryx.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.toolbarStyle = global::TimeOryx.Droid.Resource.Attribute.toolbarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tooltipForegroundColor = global::TimeOryx.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tooltipFrameBackground = global::TimeOryx.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.tooltipText = global::TimeOryx.Droid.Resource.Attribute.tooltipText;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.track = global::TimeOryx.Droid.Resource.Attribute.track;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.trackTint = global::TimeOryx.Droid.Resource.Attribute.trackTint;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.trackTintMode = global::TimeOryx.Droid.Resource.Attribute.trackTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.useCompatPadding = global::TimeOryx.Droid.Resource.Attribute.useCompatPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.voiceIcon = global::TimeOryx.Droid.Resource.Attribute.voiceIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowActionBar = global::TimeOryx.Droid.Resource.Attribute.windowActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowActionBarOverlay = global::TimeOryx.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowActionModeOverlay = global::TimeOryx.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowFixedHeightMajor = global::TimeOryx.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowFixedHeightMinor = global::TimeOryx.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowFixedWidthMajor = global::TimeOryx.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowFixedWidthMinor = global::TimeOryx.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowMinWidthMajor = global::TimeOryx.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowMinWidthMinor = global::TimeOryx.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarin.Plugin.Calendar.Resource.Attribute.windowNoTitle = global::TimeOryx.Droid.Resource.Attribute.windowNoTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Boolean.abc_action_bar_embed_tabs = global::TimeOryx.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Plugin.Calendar.Resource.Boolean.abc_allow_stacked_button_bar = global::TimeOryx.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Xamarin.Plugin.Calendar.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::TimeOryx.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_background_cache_hint_selector_material_dark = global::TimeOryx.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_background_cache_hint_selector_material_light = global::TimeOryx.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_btn_colored_borderless_text_material = global::TimeOryx.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_btn_colored_text_material = global::TimeOryx.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_color_highlight_material = global::TimeOryx.Droid.Resource.Color.abc_color_highlight_material;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_hint_foreground_material_dark = global::TimeOryx.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_hint_foreground_material_light = global::TimeOryx.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_primary_text_disable_only_material_dark = global::TimeOryx.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_primary_text_disable_only_material_light = global::TimeOryx.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_primary_text_material_dark = global::TimeOryx.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_primary_text_material_light = global::TimeOryx.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_search_url_text = global::TimeOryx.Droid.Resource.Color.abc_search_url_text;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_search_url_text_normal = global::TimeOryx.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_search_url_text_pressed = global::TimeOryx.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_search_url_text_selected = global::TimeOryx.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_secondary_text_material_dark = global::TimeOryx.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_secondary_text_material_light = global::TimeOryx.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_tint_btn_checkable = global::TimeOryx.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_tint_default = global::TimeOryx.Droid.Resource.Color.abc_tint_default;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_tint_edittext = global::TimeOryx.Droid.Resource.Color.abc_tint_edittext;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_tint_seek_thumb = global::TimeOryx.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_tint_spinner = global::TimeOryx.Droid.Resource.Color.abc_tint_spinner;
+			global::Xamarin.Plugin.Calendar.Resource.Color.abc_tint_switch_track = global::TimeOryx.Droid.Resource.Color.abc_tint_switch_track;
+			global::Xamarin.Plugin.Calendar.Resource.Color.accent_material_dark = global::TimeOryx.Droid.Resource.Color.accent_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.accent_material_light = global::TimeOryx.Droid.Resource.Color.accent_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.background_floating_material_dark = global::TimeOryx.Droid.Resource.Color.background_floating_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.background_floating_material_light = global::TimeOryx.Droid.Resource.Color.background_floating_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.background_material_dark = global::TimeOryx.Droid.Resource.Color.background_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.background_material_light = global::TimeOryx.Droid.Resource.Color.background_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.bright_foreground_disabled_material_dark = global::TimeOryx.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.bright_foreground_disabled_material_light = global::TimeOryx.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.bright_foreground_inverse_material_dark = global::TimeOryx.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.bright_foreground_inverse_material_light = global::TimeOryx.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.bright_foreground_material_dark = global::TimeOryx.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.bright_foreground_material_light = global::TimeOryx.Droid.Resource.Color.bright_foreground_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.button_material_dark = global::TimeOryx.Droid.Resource.Color.button_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.button_material_light = global::TimeOryx.Droid.Resource.Color.button_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.cardview_dark_background = global::TimeOryx.Droid.Resource.Color.cardview_dark_background;
+			global::Xamarin.Plugin.Calendar.Resource.Color.cardview_light_background = global::TimeOryx.Droid.Resource.Color.cardview_light_background;
+			global::Xamarin.Plugin.Calendar.Resource.Color.cardview_shadow_end_color = global::TimeOryx.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.cardview_shadow_start_color = global::TimeOryx.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_bottom_navigation_shadow_color = global::TimeOryx.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_error = global::TimeOryx.Droid.Resource.Color.design_error;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_fab_shadow_end_color = global::TimeOryx.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_fab_shadow_mid_color = global::TimeOryx.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_fab_shadow_start_color = global::TimeOryx.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_fab_stroke_end_inner_color = global::TimeOryx.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_fab_stroke_end_outer_color = global::TimeOryx.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_fab_stroke_top_inner_color = global::TimeOryx.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_fab_stroke_top_outer_color = global::TimeOryx.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.design_snackbar_background_color = global::TimeOryx.Droid.Resource.Color.design_snackbar_background_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.dim_foreground_disabled_material_dark = global::TimeOryx.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.dim_foreground_disabled_material_light = global::TimeOryx.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.dim_foreground_material_dark = global::TimeOryx.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.dim_foreground_material_light = global::TimeOryx.Droid.Resource.Color.dim_foreground_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.foreground_material_dark = global::TimeOryx.Droid.Resource.Color.foreground_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.foreground_material_light = global::TimeOryx.Droid.Resource.Color.foreground_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.highlighted_text_material_dark = global::TimeOryx.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.highlighted_text_material_light = global::TimeOryx.Droid.Resource.Color.highlighted_text_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_blue_grey_800 = global::TimeOryx.Droid.Resource.Color.material_blue_grey_800;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_blue_grey_900 = global::TimeOryx.Droid.Resource.Color.material_blue_grey_900;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_blue_grey_950 = global::TimeOryx.Droid.Resource.Color.material_blue_grey_950;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_deep_teal_200 = global::TimeOryx.Droid.Resource.Color.material_deep_teal_200;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_deep_teal_500 = global::TimeOryx.Droid.Resource.Color.material_deep_teal_500;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_grey_100 = global::TimeOryx.Droid.Resource.Color.material_grey_100;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_grey_300 = global::TimeOryx.Droid.Resource.Color.material_grey_300;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_grey_50 = global::TimeOryx.Droid.Resource.Color.material_grey_50;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_grey_600 = global::TimeOryx.Droid.Resource.Color.material_grey_600;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_grey_800 = global::TimeOryx.Droid.Resource.Color.material_grey_800;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_grey_850 = global::TimeOryx.Droid.Resource.Color.material_grey_850;
+			global::Xamarin.Plugin.Calendar.Resource.Color.material_grey_900 = global::TimeOryx.Droid.Resource.Color.material_grey_900;
+			global::Xamarin.Plugin.Calendar.Resource.Color.notification_action_color_filter = global::TimeOryx.Droid.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Plugin.Calendar.Resource.Color.notification_icon_bg_color = global::TimeOryx.Droid.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.notification_material_background_media_default_color = global::TimeOryx.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Xamarin.Plugin.Calendar.Resource.Color.primary_dark_material_dark = global::TimeOryx.Droid.Resource.Color.primary_dark_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.primary_dark_material_light = global::TimeOryx.Droid.Resource.Color.primary_dark_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.primary_material_dark = global::TimeOryx.Droid.Resource.Color.primary_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.primary_material_light = global::TimeOryx.Droid.Resource.Color.primary_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.primary_text_default_material_dark = global::TimeOryx.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.primary_text_default_material_light = global::TimeOryx.Droid.Resource.Color.primary_text_default_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.primary_text_disabled_material_dark = global::TimeOryx.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.primary_text_disabled_material_light = global::TimeOryx.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.ripple_material_dark = global::TimeOryx.Droid.Resource.Color.ripple_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.ripple_material_light = global::TimeOryx.Droid.Resource.Color.ripple_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.secondary_text_default_material_dark = global::TimeOryx.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.secondary_text_default_material_light = global::TimeOryx.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.secondary_text_disabled_material_dark = global::TimeOryx.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.secondary_text_disabled_material_light = global::TimeOryx.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.switch_thumb_disabled_material_dark = global::TimeOryx.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.switch_thumb_disabled_material_light = global::TimeOryx.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.switch_thumb_material_dark = global::TimeOryx.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.switch_thumb_material_light = global::TimeOryx.Droid.Resource.Color.switch_thumb_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.switch_thumb_normal_material_dark = global::TimeOryx.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.switch_thumb_normal_material_light = global::TimeOryx.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Color.tooltip_background_dark = global::TimeOryx.Droid.Resource.Color.tooltip_background_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Color.tooltip_background_light = global::TimeOryx.Droid.Resource.Color.tooltip_background_light;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_content_inset_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_default_height_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_default_padding_end_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_default_padding_start_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_elevation_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_stacked_max_height = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_button_min_height_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_button_min_width_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_action_button_min_width_overflow_material = global::TimeOryx.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_alert_dialog_button_bar_height = global::TimeOryx.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_button_inset_horizontal_material = global::TimeOryx.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_button_inset_vertical_material = global::TimeOryx.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_button_padding_horizontal_material = global::TimeOryx.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_button_padding_vertical_material = global::TimeOryx.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::TimeOryx.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_config_prefDialogWidth = global::TimeOryx.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_control_corner_material = global::TimeOryx.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_control_inset_material = global::TimeOryx.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_control_padding_material = global::TimeOryx.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_fixed_height_major = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_fixed_height_minor = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_fixed_width_major = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_fixed_width_minor = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_min_width_major = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_min_width_minor = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_padding_material = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_padding_top_material = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dialog_title_divider_material = global::TimeOryx.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_disabled_alpha_material_dark = global::TimeOryx.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_disabled_alpha_material_light = global::TimeOryx.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dropdownitem_icon_width = global::TimeOryx.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dropdownitem_text_padding_left = global::TimeOryx.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_dropdownitem_text_padding_right = global::TimeOryx.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_edit_text_inset_bottom_material = global::TimeOryx.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::TimeOryx.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_edit_text_inset_top_material = global::TimeOryx.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_floating_window_z = global::TimeOryx.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_list_item_padding_horizontal_material = global::TimeOryx.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_panel_menu_list_width = global::TimeOryx.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_progress_bar_height_material = global::TimeOryx.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_search_view_preferred_height = global::TimeOryx.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_search_view_preferred_width = global::TimeOryx.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_seekbar_track_background_height_material = global::TimeOryx.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_seekbar_track_progress_height_material = global::TimeOryx.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_select_dialog_padding_start_material = global::TimeOryx.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_switch_padding = global::TimeOryx.Droid.Resource.Dimension.abc_switch_padding;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_body_1_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_body_2_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_button_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_caption_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_display_1_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_display_2_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_display_3_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_display_4_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_headline_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_large_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_medium_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_menu_header_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_menu_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_small_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_subhead_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_title_material = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.abc_text_size_title_material_toolbar = global::TimeOryx.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.cardview_compat_inset_shadow = global::TimeOryx.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.cardview_default_elevation = global::TimeOryx.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.cardview_default_radius = global::TimeOryx.Droid.Resource.Dimension.cardview_default_radius;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.compat_button_inset_horizontal_material = global::TimeOryx.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.compat_button_inset_vertical_material = global::TimeOryx.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.compat_button_padding_horizontal_material = global::TimeOryx.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.compat_button_padding_vertical_material = global::TimeOryx.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.compat_control_corner_material = global::TimeOryx.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_appbar_elevation = global::TimeOryx.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::TimeOryx.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_navigation_active_text_size = global::TimeOryx.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_navigation_elevation = global::TimeOryx.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_navigation_height = global::TimeOryx.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_navigation_item_max_width = global::TimeOryx.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_navigation_item_min_width = global::TimeOryx.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_navigation_margin = global::TimeOryx.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_navigation_shadow_height = global::TimeOryx.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_navigation_text_size = global::TimeOryx.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_sheet_modal_elevation = global::TimeOryx.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_bottom_sheet_peek_height_min = global::TimeOryx.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_fab_border_width = global::TimeOryx.Droid.Resource.Dimension.design_fab_border_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_fab_elevation = global::TimeOryx.Droid.Resource.Dimension.design_fab_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_fab_image_size = global::TimeOryx.Droid.Resource.Dimension.design_fab_image_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_fab_size_mini = global::TimeOryx.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_fab_size_normal = global::TimeOryx.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_fab_translation_z_pressed = global::TimeOryx.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_navigation_elevation = global::TimeOryx.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_navigation_icon_padding = global::TimeOryx.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_navigation_icon_size = global::TimeOryx.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_navigation_max_width = global::TimeOryx.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_navigation_padding_bottom = global::TimeOryx.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_navigation_separator_vertical_padding = global::TimeOryx.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_action_inline_max_width = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_background_corner_radius = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_elevation = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_max_width = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_min_width = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_padding_horizontal = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_padding_vertical = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_snackbar_text_size = global::TimeOryx.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_tab_max_width = global::TimeOryx.Droid.Resource.Dimension.design_tab_max_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_tab_scrollable_min_width = global::TimeOryx.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_tab_text_size = global::TimeOryx.Droid.Resource.Dimension.design_tab_text_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.design_tab_text_size_2line = global::TimeOryx.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.disabled_alpha_material_dark = global::TimeOryx.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.disabled_alpha_material_light = global::TimeOryx.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.fastscroll_default_thickness = global::TimeOryx.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.fastscroll_margin = global::TimeOryx.Droid.Resource.Dimension.fastscroll_margin;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.fastscroll_minimum_range = global::TimeOryx.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.highlight_alpha_material_colored = global::TimeOryx.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.highlight_alpha_material_dark = global::TimeOryx.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.highlight_alpha_material_light = global::TimeOryx.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.hint_alpha_material_dark = global::TimeOryx.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.hint_alpha_material_light = global::TimeOryx.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.hint_pressed_alpha_material_dark = global::TimeOryx.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.hint_pressed_alpha_material_light = global::TimeOryx.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::TimeOryx.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::TimeOryx.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::TimeOryx.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_action_icon_size = global::TimeOryx.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_action_text_size = global::TimeOryx.Droid.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_big_circle_margin = global::TimeOryx.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_content_margin_start = global::TimeOryx.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_large_icon_height = global::TimeOryx.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_large_icon_width = global::TimeOryx.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_main_column_padding_top = global::TimeOryx.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_media_narrow_margin = global::TimeOryx.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_right_icon_size = global::TimeOryx.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_right_side_padding_top = global::TimeOryx.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_small_icon_background_padding = global::TimeOryx.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_small_icon_size_as_large = global::TimeOryx.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_subtext_size = global::TimeOryx.Droid.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_top_pad = global::TimeOryx.Droid.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.notification_top_pad_large_text = global::TimeOryx.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.tooltip_corner_radius = global::TimeOryx.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.tooltip_horizontal_padding = global::TimeOryx.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.tooltip_margin = global::TimeOryx.Droid.Resource.Dimension.tooltip_margin;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::TimeOryx.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.tooltip_precise_anchor_threshold = global::TimeOryx.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.tooltip_vertical_padding = global::TimeOryx.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.tooltip_y_offset_non_touch = global::TimeOryx.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Xamarin.Plugin.Calendar.Resource.Dimension.tooltip_y_offset_touch = global::TimeOryx.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_action_bar_item_background_material = global::TimeOryx.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_borderless_material = global::TimeOryx.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_check_material = global::TimeOryx.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::TimeOryx.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::TimeOryx.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_colored_material = global::TimeOryx.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_default_mtrl_shape = global::TimeOryx.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_radio_material = global::TimeOryx.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::TimeOryx.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::TimeOryx.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::TimeOryx.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::TimeOryx.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_cab_background_internal_bg = global::TimeOryx.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_cab_background_top_material = global::TimeOryx.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_control_background_material = global::TimeOryx.Droid.Resource.Drawable.abc_control_background_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_dialog_material_background = global::TimeOryx.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_edit_text_material = global::TimeOryx.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_ab_back_material = global::TimeOryx.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::TimeOryx.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_clear_material = global::TimeOryx.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_go_search_api_material = global::TimeOryx.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_menu_overflow_material = global::TimeOryx.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_search_api_material = global::TimeOryx.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_star_black_16dp = global::TimeOryx.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_star_black_36dp = global::TimeOryx.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_star_black_48dp = global::TimeOryx.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_star_half_black_16dp = global::TimeOryx.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_star_half_black_36dp = global::TimeOryx.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_star_half_black_48dp = global::TimeOryx.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ic_voice_search_api_material = global::TimeOryx.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_item_background_holo_dark = global::TimeOryx.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_item_background_holo_light = global::TimeOryx.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_divider_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_focused_holo = global::TimeOryx.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_longpressed_holo = global::TimeOryx.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_pressed_holo_dark = global::TimeOryx.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_pressed_holo_light = global::TimeOryx.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::TimeOryx.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::TimeOryx.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::TimeOryx.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_selector_disabled_holo_light = global::TimeOryx.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_selector_holo_dark = global::TimeOryx.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_list_selector_holo_light = global::TimeOryx.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::TimeOryx.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_popup_background_mtrl_mult = global::TimeOryx.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ratingbar_indicator_material = global::TimeOryx.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ratingbar_material = global::TimeOryx.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_ratingbar_small_material = global::TimeOryx.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::TimeOryx.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::TimeOryx.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_seekbar_thumb_material = global::TimeOryx.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_seekbar_tick_mark_material = global::TimeOryx.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_seekbar_track_material = global::TimeOryx.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_spinner_textfield_background_material = global::TimeOryx.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_switch_thumb_material = global::TimeOryx.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_switch_track_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_tab_indicator_material = global::TimeOryx.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::TimeOryx.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_textfield_search_material = global::TimeOryx.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_text_cursor_material = global::TimeOryx.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::TimeOryx.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::TimeOryx.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::TimeOryx.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::TimeOryx.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::TimeOryx.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::TimeOryx.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.abc_vector_test = global::TimeOryx.Droid.Resource.Drawable.abc_vector_test;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.avd_hide_password = global::TimeOryx.Droid.Resource.Drawable.avd_hide_password;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.avd_show_password = global::TimeOryx.Droid.Resource.Drawable.avd_show_password;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.design_bottom_navigation_item_background = global::TimeOryx.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.design_fab_background = global::TimeOryx.Droid.Resource.Drawable.design_fab_background;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.design_ic_visibility = global::TimeOryx.Droid.Resource.Drawable.design_ic_visibility;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.design_ic_visibility_off = global::TimeOryx.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.design_password_eye = global::TimeOryx.Droid.Resource.Drawable.design_password_eye;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.design_snackbar_background = global::TimeOryx.Droid.Resource.Drawable.design_snackbar_background;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.navigation_empty_icon = global::TimeOryx.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_action_background = global::TimeOryx.Droid.Resource.Drawable.notification_action_background;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_bg = global::TimeOryx.Droid.Resource.Drawable.notification_bg;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_bg_low = global::TimeOryx.Droid.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_bg_low_normal = global::TimeOryx.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_bg_low_pressed = global::TimeOryx.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_bg_normal = global::TimeOryx.Droid.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_bg_normal_pressed = global::TimeOryx.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_icon_background = global::TimeOryx.Droid.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_template_icon_bg = global::TimeOryx.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_template_icon_low_bg = global::TimeOryx.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notification_tile_bg = global::TimeOryx.Droid.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.notify_panel_notification_icon_bg = global::TimeOryx.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.tooltip_frame_dark = global::TimeOryx.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Xamarin.Plugin.Calendar.Resource.Drawable.tooltip_frame_light = global::TimeOryx.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action0 = global::TimeOryx.Droid.Resource.Id.action0;
+			global::Xamarin.Plugin.Calendar.Resource.Id.actions = global::TimeOryx.Droid.Resource.Id.actions;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_bar = global::TimeOryx.Droid.Resource.Id.action_bar;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_bar_activity_content = global::TimeOryx.Droid.Resource.Id.action_bar_activity_content;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_bar_container = global::TimeOryx.Droid.Resource.Id.action_bar_container;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_bar_root = global::TimeOryx.Droid.Resource.Id.action_bar_root;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_bar_spinner = global::TimeOryx.Droid.Resource.Id.action_bar_spinner;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_bar_subtitle = global::TimeOryx.Droid.Resource.Id.action_bar_subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_bar_title = global::TimeOryx.Droid.Resource.Id.action_bar_title;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_container = global::TimeOryx.Droid.Resource.Id.action_container;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_context_bar = global::TimeOryx.Droid.Resource.Id.action_context_bar;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_divider = global::TimeOryx.Droid.Resource.Id.action_divider;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_image = global::TimeOryx.Droid.Resource.Id.action_image;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_menu_divider = global::TimeOryx.Droid.Resource.Id.action_menu_divider;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_menu_presenter = global::TimeOryx.Droid.Resource.Id.action_menu_presenter;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_mode_bar = global::TimeOryx.Droid.Resource.Id.action_mode_bar;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_mode_bar_stub = global::TimeOryx.Droid.Resource.Id.action_mode_bar_stub;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_mode_close_button = global::TimeOryx.Droid.Resource.Id.action_mode_close_button;
+			global::Xamarin.Plugin.Calendar.Resource.Id.action_text = global::TimeOryx.Droid.Resource.Id.action_text;
+			global::Xamarin.Plugin.Calendar.Resource.Id.activity_chooser_view_content = global::TimeOryx.Droid.Resource.Id.activity_chooser_view_content;
+			global::Xamarin.Plugin.Calendar.Resource.Id.add = global::TimeOryx.Droid.Resource.Id.add;
+			global::Xamarin.Plugin.Calendar.Resource.Id.alertTitle = global::TimeOryx.Droid.Resource.Id.alertTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Id.all = global::TimeOryx.Droid.Resource.Id.all;
+			global::Xamarin.Plugin.Calendar.Resource.Id.ALT = global::TimeOryx.Droid.Resource.Id.ALT;
+			global::Xamarin.Plugin.Calendar.Resource.Id.always = global::TimeOryx.Droid.Resource.Id.always;
+			global::Xamarin.Plugin.Calendar.Resource.Id.async = global::TimeOryx.Droid.Resource.Id.async;
+			global::Xamarin.Plugin.Calendar.Resource.Id.auto = global::TimeOryx.Droid.Resource.Id.auto;
+			global::Xamarin.Plugin.Calendar.Resource.Id.beginning = global::TimeOryx.Droid.Resource.Id.beginning;
+			global::Xamarin.Plugin.Calendar.Resource.Id.blocking = global::TimeOryx.Droid.Resource.Id.blocking;
+			global::Xamarin.Plugin.Calendar.Resource.Id.bottom = global::TimeOryx.Droid.Resource.Id.bottom;
+			global::Xamarin.Plugin.Calendar.Resource.Id.buttonPanel = global::TimeOryx.Droid.Resource.Id.buttonPanel;
+			global::Xamarin.Plugin.Calendar.Resource.Id.cancel_action = global::TimeOryx.Droid.Resource.Id.cancel_action;
+			global::Xamarin.Plugin.Calendar.Resource.Id.center = global::TimeOryx.Droid.Resource.Id.center;
+			global::Xamarin.Plugin.Calendar.Resource.Id.center_horizontal = global::TimeOryx.Droid.Resource.Id.center_horizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Id.center_vertical = global::TimeOryx.Droid.Resource.Id.center_vertical;
+			global::Xamarin.Plugin.Calendar.Resource.Id.checkbox = global::TimeOryx.Droid.Resource.Id.checkbox;
+			global::Xamarin.Plugin.Calendar.Resource.Id.chronometer = global::TimeOryx.Droid.Resource.Id.chronometer;
+			global::Xamarin.Plugin.Calendar.Resource.Id.clip_horizontal = global::TimeOryx.Droid.Resource.Id.clip_horizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Id.clip_vertical = global::TimeOryx.Droid.Resource.Id.clip_vertical;
+			global::Xamarin.Plugin.Calendar.Resource.Id.collapseActionView = global::TimeOryx.Droid.Resource.Id.collapseActionView;
+			global::Xamarin.Plugin.Calendar.Resource.Id.container = global::TimeOryx.Droid.Resource.Id.container;
+			global::Xamarin.Plugin.Calendar.Resource.Id.contentPanel = global::TimeOryx.Droid.Resource.Id.contentPanel;
+			global::Xamarin.Plugin.Calendar.Resource.Id.coordinator = global::TimeOryx.Droid.Resource.Id.coordinator;
+			global::Xamarin.Plugin.Calendar.Resource.Id.CTRL = global::TimeOryx.Droid.Resource.Id.CTRL;
+			global::Xamarin.Plugin.Calendar.Resource.Id.custom = global::TimeOryx.Droid.Resource.Id.custom;
+			global::Xamarin.Plugin.Calendar.Resource.Id.customPanel = global::TimeOryx.Droid.Resource.Id.customPanel;
+			global::Xamarin.Plugin.Calendar.Resource.Id.decor_content_parent = global::TimeOryx.Droid.Resource.Id.decor_content_parent;
+			global::Xamarin.Plugin.Calendar.Resource.Id.default_activity_button = global::TimeOryx.Droid.Resource.Id.default_activity_button;
+			global::Xamarin.Plugin.Calendar.Resource.Id.design_bottom_sheet = global::TimeOryx.Droid.Resource.Id.design_bottom_sheet;
+			global::Xamarin.Plugin.Calendar.Resource.Id.design_menu_item_action_area = global::TimeOryx.Droid.Resource.Id.design_menu_item_action_area;
+			global::Xamarin.Plugin.Calendar.Resource.Id.design_menu_item_action_area_stub = global::TimeOryx.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarin.Plugin.Calendar.Resource.Id.design_menu_item_text = global::TimeOryx.Droid.Resource.Id.design_menu_item_text;
+			global::Xamarin.Plugin.Calendar.Resource.Id.design_navigation_view = global::TimeOryx.Droid.Resource.Id.design_navigation_view;
+			global::Xamarin.Plugin.Calendar.Resource.Id.disableHome = global::TimeOryx.Droid.Resource.Id.disableHome;
+			global::Xamarin.Plugin.Calendar.Resource.Id.edit_query = global::TimeOryx.Droid.Resource.Id.edit_query;
+			global::Xamarin.Plugin.Calendar.Resource.Id.end = global::TimeOryx.Droid.Resource.Id.end;
+			global::Xamarin.Plugin.Calendar.Resource.Id.end_padder = global::TimeOryx.Droid.Resource.Id.end_padder;
+			global::Xamarin.Plugin.Calendar.Resource.Id.enterAlways = global::TimeOryx.Droid.Resource.Id.enterAlways;
+			global::Xamarin.Plugin.Calendar.Resource.Id.enterAlwaysCollapsed = global::TimeOryx.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarin.Plugin.Calendar.Resource.Id.exitUntilCollapsed = global::TimeOryx.Droid.Resource.Id.exitUntilCollapsed;
+			global::Xamarin.Plugin.Calendar.Resource.Id.expanded_menu = global::TimeOryx.Droid.Resource.Id.expanded_menu;
+			global::Xamarin.Plugin.Calendar.Resource.Id.expand_activities_button = global::TimeOryx.Droid.Resource.Id.expand_activities_button;
+			global::Xamarin.Plugin.Calendar.Resource.Id.fill = global::TimeOryx.Droid.Resource.Id.fill;
+			global::Xamarin.Plugin.Calendar.Resource.Id.fill_horizontal = global::TimeOryx.Droid.Resource.Id.fill_horizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Id.fill_vertical = global::TimeOryx.Droid.Resource.Id.fill_vertical;
+			global::Xamarin.Plugin.Calendar.Resource.Id.@fixed = global::TimeOryx.Droid.Resource.Id.@fixed;
+			global::Xamarin.Plugin.Calendar.Resource.Id.forever = global::TimeOryx.Droid.Resource.Id.forever;
+			global::Xamarin.Plugin.Calendar.Resource.Id.FUNCTION = global::TimeOryx.Droid.Resource.Id.FUNCTION;
+			global::Xamarin.Plugin.Calendar.Resource.Id.ghost_view = global::TimeOryx.Droid.Resource.Id.ghost_view;
+			global::Xamarin.Plugin.Calendar.Resource.Id.home = global::TimeOryx.Droid.Resource.Id.home;
+			global::Xamarin.Plugin.Calendar.Resource.Id.homeAsUp = global::TimeOryx.Droid.Resource.Id.homeAsUp;
+			global::Xamarin.Plugin.Calendar.Resource.Id.icon = global::TimeOryx.Droid.Resource.Id.icon;
+			global::Xamarin.Plugin.Calendar.Resource.Id.icon_group = global::TimeOryx.Droid.Resource.Id.icon_group;
+			global::Xamarin.Plugin.Calendar.Resource.Id.ifRoom = global::TimeOryx.Droid.Resource.Id.ifRoom;
+			global::Xamarin.Plugin.Calendar.Resource.Id.image = global::TimeOryx.Droid.Resource.Id.image;
+			global::Xamarin.Plugin.Calendar.Resource.Id.info = global::TimeOryx.Droid.Resource.Id.info;
+			global::Xamarin.Plugin.Calendar.Resource.Id.italic = global::TimeOryx.Droid.Resource.Id.italic;
+			global::Xamarin.Plugin.Calendar.Resource.Id.item_touch_helper_previous_elevation = global::TimeOryx.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Id.largeLabel = global::TimeOryx.Droid.Resource.Id.largeLabel;
+			global::Xamarin.Plugin.Calendar.Resource.Id.left = global::TimeOryx.Droid.Resource.Id.left;
+			global::Xamarin.Plugin.Calendar.Resource.Id.line1 = global::TimeOryx.Droid.Resource.Id.line1;
+			global::Xamarin.Plugin.Calendar.Resource.Id.line3 = global::TimeOryx.Droid.Resource.Id.line3;
+			global::Xamarin.Plugin.Calendar.Resource.Id.listMode = global::TimeOryx.Droid.Resource.Id.listMode;
+			global::Xamarin.Plugin.Calendar.Resource.Id.list_item = global::TimeOryx.Droid.Resource.Id.list_item;
+			global::Xamarin.Plugin.Calendar.Resource.Id.masked = global::TimeOryx.Droid.Resource.Id.masked;
+			global::Xamarin.Plugin.Calendar.Resource.Id.media_actions = global::TimeOryx.Droid.Resource.Id.media_actions;
+			global::Xamarin.Plugin.Calendar.Resource.Id.message = global::TimeOryx.Droid.Resource.Id.message;
+			global::Xamarin.Plugin.Calendar.Resource.Id.META = global::TimeOryx.Droid.Resource.Id.META;
+			global::Xamarin.Plugin.Calendar.Resource.Id.middle = global::TimeOryx.Droid.Resource.Id.middle;
+			global::Xamarin.Plugin.Calendar.Resource.Id.mini = global::TimeOryx.Droid.Resource.Id.mini;
+			global::Xamarin.Plugin.Calendar.Resource.Id.multiply = global::TimeOryx.Droid.Resource.Id.multiply;
+			global::Xamarin.Plugin.Calendar.Resource.Id.navigation_header_container = global::TimeOryx.Droid.Resource.Id.navigation_header_container;
+			global::Xamarin.Plugin.Calendar.Resource.Id.never = global::TimeOryx.Droid.Resource.Id.never;
+			global::Xamarin.Plugin.Calendar.Resource.Id.none = global::TimeOryx.Droid.Resource.Id.none;
+			global::Xamarin.Plugin.Calendar.Resource.Id.normal = global::TimeOryx.Droid.Resource.Id.normal;
+			global::Xamarin.Plugin.Calendar.Resource.Id.notification_background = global::TimeOryx.Droid.Resource.Id.notification_background;
+			global::Xamarin.Plugin.Calendar.Resource.Id.notification_main_column = global::TimeOryx.Droid.Resource.Id.notification_main_column;
+			global::Xamarin.Plugin.Calendar.Resource.Id.notification_main_column_container = global::TimeOryx.Droid.Resource.Id.notification_main_column_container;
+			global::Xamarin.Plugin.Calendar.Resource.Id.parallax = global::TimeOryx.Droid.Resource.Id.parallax;
+			global::Xamarin.Plugin.Calendar.Resource.Id.parentPanel = global::TimeOryx.Droid.Resource.Id.parentPanel;
+			global::Xamarin.Plugin.Calendar.Resource.Id.parent_matrix = global::TimeOryx.Droid.Resource.Id.parent_matrix;
+			global::Xamarin.Plugin.Calendar.Resource.Id.pin = global::TimeOryx.Droid.Resource.Id.pin;
+			global::Xamarin.Plugin.Calendar.Resource.Id.progress_circular = global::TimeOryx.Droid.Resource.Id.progress_circular;
+			global::Xamarin.Plugin.Calendar.Resource.Id.progress_horizontal = global::TimeOryx.Droid.Resource.Id.progress_horizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Id.radio = global::TimeOryx.Droid.Resource.Id.radio;
+			global::Xamarin.Plugin.Calendar.Resource.Id.right = global::TimeOryx.Droid.Resource.Id.right;
+			global::Xamarin.Plugin.Calendar.Resource.Id.right_icon = global::TimeOryx.Droid.Resource.Id.right_icon;
+			global::Xamarin.Plugin.Calendar.Resource.Id.right_side = global::TimeOryx.Droid.Resource.Id.right_side;
+			global::Xamarin.Plugin.Calendar.Resource.Id.save_non_transition_alpha = global::TimeOryx.Droid.Resource.Id.save_non_transition_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Id.screen = global::TimeOryx.Droid.Resource.Id.screen;
+			global::Xamarin.Plugin.Calendar.Resource.Id.scroll = global::TimeOryx.Droid.Resource.Id.scroll;
+			global::Xamarin.Plugin.Calendar.Resource.Id.scrollable = global::TimeOryx.Droid.Resource.Id.scrollable;
+			global::Xamarin.Plugin.Calendar.Resource.Id.scrollIndicatorDown = global::TimeOryx.Droid.Resource.Id.scrollIndicatorDown;
+			global::Xamarin.Plugin.Calendar.Resource.Id.scrollIndicatorUp = global::TimeOryx.Droid.Resource.Id.scrollIndicatorUp;
+			global::Xamarin.Plugin.Calendar.Resource.Id.scrollView = global::TimeOryx.Droid.Resource.Id.scrollView;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_badge = global::TimeOryx.Droid.Resource.Id.search_badge;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_bar = global::TimeOryx.Droid.Resource.Id.search_bar;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_button = global::TimeOryx.Droid.Resource.Id.search_button;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_close_btn = global::TimeOryx.Droid.Resource.Id.search_close_btn;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_edit_frame = global::TimeOryx.Droid.Resource.Id.search_edit_frame;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_go_btn = global::TimeOryx.Droid.Resource.Id.search_go_btn;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_mag_icon = global::TimeOryx.Droid.Resource.Id.search_mag_icon;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_plate = global::TimeOryx.Droid.Resource.Id.search_plate;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_src_text = global::TimeOryx.Droid.Resource.Id.search_src_text;
+			global::Xamarin.Plugin.Calendar.Resource.Id.search_voice_btn = global::TimeOryx.Droid.Resource.Id.search_voice_btn;
+			global::Xamarin.Plugin.Calendar.Resource.Id.select_dialog_listview = global::TimeOryx.Droid.Resource.Id.select_dialog_listview;
+			global::Xamarin.Plugin.Calendar.Resource.Id.SHIFT = global::TimeOryx.Droid.Resource.Id.SHIFT;
+			global::Xamarin.Plugin.Calendar.Resource.Id.shortcut = global::TimeOryx.Droid.Resource.Id.shortcut;
+			global::Xamarin.Plugin.Calendar.Resource.Id.showCustom = global::TimeOryx.Droid.Resource.Id.showCustom;
+			global::Xamarin.Plugin.Calendar.Resource.Id.showHome = global::TimeOryx.Droid.Resource.Id.showHome;
+			global::Xamarin.Plugin.Calendar.Resource.Id.showTitle = global::TimeOryx.Droid.Resource.Id.showTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Id.smallLabel = global::TimeOryx.Droid.Resource.Id.smallLabel;
+			global::Xamarin.Plugin.Calendar.Resource.Id.snackbar_action = global::TimeOryx.Droid.Resource.Id.snackbar_action;
+			global::Xamarin.Plugin.Calendar.Resource.Id.snackbar_text = global::TimeOryx.Droid.Resource.Id.snackbar_text;
+			global::Xamarin.Plugin.Calendar.Resource.Id.snap = global::TimeOryx.Droid.Resource.Id.snap;
+			global::Xamarin.Plugin.Calendar.Resource.Id.spacer = global::TimeOryx.Droid.Resource.Id.spacer;
+			global::Xamarin.Plugin.Calendar.Resource.Id.split_action_bar = global::TimeOryx.Droid.Resource.Id.split_action_bar;
+			global::Xamarin.Plugin.Calendar.Resource.Id.src_atop = global::TimeOryx.Droid.Resource.Id.src_atop;
+			global::Xamarin.Plugin.Calendar.Resource.Id.src_in = global::TimeOryx.Droid.Resource.Id.src_in;
+			global::Xamarin.Plugin.Calendar.Resource.Id.src_over = global::TimeOryx.Droid.Resource.Id.src_over;
+			global::Xamarin.Plugin.Calendar.Resource.Id.start = global::TimeOryx.Droid.Resource.Id.start;
+			global::Xamarin.Plugin.Calendar.Resource.Id.status_bar_latest_event_content = global::TimeOryx.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Xamarin.Plugin.Calendar.Resource.Id.submenuarrow = global::TimeOryx.Droid.Resource.Id.submenuarrow;
+			global::Xamarin.Plugin.Calendar.Resource.Id.submit_area = global::TimeOryx.Droid.Resource.Id.submit_area;
+			global::Xamarin.Plugin.Calendar.Resource.Id.SYM = global::TimeOryx.Droid.Resource.Id.SYM;
+			global::Xamarin.Plugin.Calendar.Resource.Id.tabMode = global::TimeOryx.Droid.Resource.Id.tabMode;
+			global::Xamarin.Plugin.Calendar.Resource.Id.tag_transition_group = global::TimeOryx.Droid.Resource.Id.tag_transition_group;
+			global::Xamarin.Plugin.Calendar.Resource.Id.text = global::TimeOryx.Droid.Resource.Id.text;
+			global::Xamarin.Plugin.Calendar.Resource.Id.text2 = global::TimeOryx.Droid.Resource.Id.text2;
+			global::Xamarin.Plugin.Calendar.Resource.Id.textinput_counter = global::TimeOryx.Droid.Resource.Id.textinput_counter;
+			global::Xamarin.Plugin.Calendar.Resource.Id.textinput_error = global::TimeOryx.Droid.Resource.Id.textinput_error;
+			global::Xamarin.Plugin.Calendar.Resource.Id.textSpacerNoButtons = global::TimeOryx.Droid.Resource.Id.textSpacerNoButtons;
+			global::Xamarin.Plugin.Calendar.Resource.Id.textSpacerNoTitle = global::TimeOryx.Droid.Resource.Id.textSpacerNoTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Id.time = global::TimeOryx.Droid.Resource.Id.time;
+			global::Xamarin.Plugin.Calendar.Resource.Id.title = global::TimeOryx.Droid.Resource.Id.title;
+			global::Xamarin.Plugin.Calendar.Resource.Id.titleDividerNoCustom = global::TimeOryx.Droid.Resource.Id.titleDividerNoCustom;
+			global::Xamarin.Plugin.Calendar.Resource.Id.title_template = global::TimeOryx.Droid.Resource.Id.title_template;
+			global::Xamarin.Plugin.Calendar.Resource.Id.top = global::TimeOryx.Droid.Resource.Id.top;
+			global::Xamarin.Plugin.Calendar.Resource.Id.topPanel = global::TimeOryx.Droid.Resource.Id.topPanel;
+			global::Xamarin.Plugin.Calendar.Resource.Id.touch_outside = global::TimeOryx.Droid.Resource.Id.touch_outside;
+			global::Xamarin.Plugin.Calendar.Resource.Id.transition_current_scene = global::TimeOryx.Droid.Resource.Id.transition_current_scene;
+			global::Xamarin.Plugin.Calendar.Resource.Id.transition_layout_save = global::TimeOryx.Droid.Resource.Id.transition_layout_save;
+			global::Xamarin.Plugin.Calendar.Resource.Id.transition_position = global::TimeOryx.Droid.Resource.Id.transition_position;
+			global::Xamarin.Plugin.Calendar.Resource.Id.transition_scene_layoutid_cache = global::TimeOryx.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Xamarin.Plugin.Calendar.Resource.Id.transition_transform = global::TimeOryx.Droid.Resource.Id.transition_transform;
+			global::Xamarin.Plugin.Calendar.Resource.Id.uniform = global::TimeOryx.Droid.Resource.Id.uniform;
+			global::Xamarin.Plugin.Calendar.Resource.Id.up = global::TimeOryx.Droid.Resource.Id.up;
+			global::Xamarin.Plugin.Calendar.Resource.Id.useLogo = global::TimeOryx.Droid.Resource.Id.useLogo;
+			global::Xamarin.Plugin.Calendar.Resource.Id.view_offset_helper = global::TimeOryx.Droid.Resource.Id.view_offset_helper;
+			global::Xamarin.Plugin.Calendar.Resource.Id.visible = global::TimeOryx.Droid.Resource.Id.visible;
+			global::Xamarin.Plugin.Calendar.Resource.Id.withText = global::TimeOryx.Droid.Resource.Id.withText;
+			global::Xamarin.Plugin.Calendar.Resource.Id.wrap_content = global::TimeOryx.Droid.Resource.Id.wrap_content;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.abc_config_activityDefaultDur = global::TimeOryx.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.abc_config_activityShortDur = global::TimeOryx.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.app_bar_elevation_anim_duration = global::TimeOryx.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.bottom_sheet_slide_duration = global::TimeOryx.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.cancel_button_image_alpha = global::TimeOryx.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.config_tooltipAnimTime = global::TimeOryx.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.design_snackbar_text_max_lines = global::TimeOryx.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.hide_password_duration = global::TimeOryx.Droid.Resource.Integer.hide_password_duration;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.show_password_duration = global::TimeOryx.Droid.Resource.Integer.show_password_duration;
+			global::Xamarin.Plugin.Calendar.Resource.Integer.status_bar_notification_info_maxnum = global::TimeOryx.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_action_bar_title_item = global::TimeOryx.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_action_bar_up_container = global::TimeOryx.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_action_menu_item_layout = global::TimeOryx.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_action_menu_layout = global::TimeOryx.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_action_mode_bar = global::TimeOryx.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_action_mode_close_item_material = global::TimeOryx.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_activity_chooser_view = global::TimeOryx.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_activity_chooser_view_list_item = global::TimeOryx.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_alert_dialog_button_bar_material = global::TimeOryx.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_alert_dialog_material = global::TimeOryx.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_alert_dialog_title_material = global::TimeOryx.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_dialog_title_material = global::TimeOryx.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_expanded_menu_layout = global::TimeOryx.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_list_menu_item_checkbox = global::TimeOryx.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_list_menu_item_icon = global::TimeOryx.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_list_menu_item_layout = global::TimeOryx.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_list_menu_item_radio = global::TimeOryx.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_popup_menu_header_item_layout = global::TimeOryx.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_popup_menu_item_layout = global::TimeOryx.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_screen_content_include = global::TimeOryx.Droid.Resource.Layout.abc_screen_content_include;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_screen_simple = global::TimeOryx.Droid.Resource.Layout.abc_screen_simple;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_screen_simple_overlay_action_mode = global::TimeOryx.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_screen_toolbar = global::TimeOryx.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_search_dropdown_item_icons_2line = global::TimeOryx.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_search_view = global::TimeOryx.Droid.Resource.Layout.abc_search_view;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.abc_select_dialog_material = global::TimeOryx.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_bottom_navigation_item = global::TimeOryx.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_bottom_sheet_dialog = global::TimeOryx.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_layout_snackbar = global::TimeOryx.Droid.Resource.Layout.design_layout_snackbar;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_layout_snackbar_include = global::TimeOryx.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_layout_tab_icon = global::TimeOryx.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_layout_tab_text = global::TimeOryx.Droid.Resource.Layout.design_layout_tab_text;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_menu_item_action_area = global::TimeOryx.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_navigation_item = global::TimeOryx.Droid.Resource.Layout.design_navigation_item;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_navigation_item_header = global::TimeOryx.Droid.Resource.Layout.design_navigation_item_header;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_navigation_item_separator = global::TimeOryx.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_navigation_item_subheader = global::TimeOryx.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_navigation_menu = global::TimeOryx.Droid.Resource.Layout.design_navigation_menu;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.design_navigation_menu_item = global::TimeOryx.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_action = global::TimeOryx.Droid.Resource.Layout.notification_action;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_action_tombstone = global::TimeOryx.Droid.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_media_action = global::TimeOryx.Droid.Resource.Layout.notification_media_action;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_media_cancel_action = global::TimeOryx.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_big_media = global::TimeOryx.Droid.Resource.Layout.notification_template_big_media;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_big_media_custom = global::TimeOryx.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_big_media_narrow = global::TimeOryx.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_big_media_narrow_custom = global::TimeOryx.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_custom_big = global::TimeOryx.Droid.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_icon_group = global::TimeOryx.Droid.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_lines_media = global::TimeOryx.Droid.Resource.Layout.notification_template_lines_media;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_media = global::TimeOryx.Droid.Resource.Layout.notification_template_media;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_media_custom = global::TimeOryx.Droid.Resource.Layout.notification_template_media_custom;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_part_chronometer = global::TimeOryx.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.notification_template_part_time = global::TimeOryx.Droid.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.select_dialog_item_material = global::TimeOryx.Droid.Resource.Layout.select_dialog_item_material;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.select_dialog_multichoice_material = global::TimeOryx.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.select_dialog_singlechoice_material = global::TimeOryx.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarin.Plugin.Calendar.Resource.Layout.support_simple_spinner_dropdown_item = global::TimeOryx.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_action_bar_home_description = global::TimeOryx.Droid.Resource.String.abc_action_bar_home_description;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_action_bar_up_description = global::TimeOryx.Droid.Resource.String.abc_action_bar_up_description;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_action_menu_overflow_description = global::TimeOryx.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_action_mode_done = global::TimeOryx.Droid.Resource.String.abc_action_mode_done;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_activitychooserview_choose_application = global::TimeOryx.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_activity_chooser_view_see_all = global::TimeOryx.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_capital_off = global::TimeOryx.Droid.Resource.String.abc_capital_off;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_capital_on = global::TimeOryx.Droid.Resource.String.abc_capital_on;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_searchview_description_clear = global::TimeOryx.Droid.Resource.String.abc_searchview_description_clear;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_searchview_description_query = global::TimeOryx.Droid.Resource.String.abc_searchview_description_query;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_searchview_description_search = global::TimeOryx.Droid.Resource.String.abc_searchview_description_search;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_searchview_description_submit = global::TimeOryx.Droid.Resource.String.abc_searchview_description_submit;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_searchview_description_voice = global::TimeOryx.Droid.Resource.String.abc_searchview_description_voice;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_search_hint = global::TimeOryx.Droid.Resource.String.abc_search_hint;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_shareactionprovider_share_with = global::TimeOryx.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_shareactionprovider_share_with_application = global::TimeOryx.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarin.Plugin.Calendar.Resource.String.abc_toolbar_collapse_description = global::TimeOryx.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarin.Plugin.Calendar.Resource.String.appbar_scrolling_view_behavior = global::TimeOryx.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarin.Plugin.Calendar.Resource.String.bottom_sheet_behavior = global::TimeOryx.Droid.Resource.String.bottom_sheet_behavior;
+			global::Xamarin.Plugin.Calendar.Resource.String.character_counter_pattern = global::TimeOryx.Droid.Resource.String.character_counter_pattern;
+			global::Xamarin.Plugin.Calendar.Resource.String.password_toggle_content_description = global::TimeOryx.Droid.Resource.String.password_toggle_content_description;
+			global::Xamarin.Plugin.Calendar.Resource.String.path_password_eye = global::TimeOryx.Droid.Resource.String.path_password_eye;
+			global::Xamarin.Plugin.Calendar.Resource.String.path_password_eye_mask_strike_through = global::TimeOryx.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Xamarin.Plugin.Calendar.Resource.String.path_password_eye_mask_visible = global::TimeOryx.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Xamarin.Plugin.Calendar.Resource.String.path_password_strike_through = global::TimeOryx.Droid.Resource.String.path_password_strike_through;
+			global::Xamarin.Plugin.Calendar.Resource.String.search_menu_title = global::TimeOryx.Droid.Resource.String.search_menu_title;
+			global::Xamarin.Plugin.Calendar.Resource.String.status_bar_notification_info_overflow = global::TimeOryx.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.AlertDialog_AppCompat = global::TimeOryx.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.AlertDialog_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Animation_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Animation_AppCompat_DropDownUp = global::TimeOryx.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Animation_AppCompat_Tooltip = global::TimeOryx.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Animation_Design_BottomSheetDialog = global::TimeOryx.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_AlertDialog_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_AlertDialog_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Animation_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::TimeOryx.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Animation_AppCompat_Tooltip = global::TimeOryx.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_CardView = global::TimeOryx.Droid.Resource.Style.Base_CardView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_DialogWindowTitle_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Button = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Large = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Small = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Title = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::TimeOryx.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_ThemeOverlay_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::TimeOryx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::TimeOryx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::TimeOryx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::TimeOryx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::TimeOryx.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V21_Theme_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V21_Theme_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::TimeOryx.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V22_Theme_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V22_Theme_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V23_Theme_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V23_Theme_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V26_Theme_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V26_Theme_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::TimeOryx.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V7_Theme_AppCompat = global::TimeOryx.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V7_Theme_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::TimeOryx.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::TimeOryx.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::TimeOryx.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::TimeOryx.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActionBar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActionButton = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActionMode = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Button = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Button_Small = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_EditText = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ImageButton = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ListView = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_RatingBar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_SearchView = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_SeekBar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Spinner = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Toolbar = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::TimeOryx.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Base_Widget_Design_TabLayout = global::TimeOryx.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Style.CardView = global::TimeOryx.Droid.Resource.Style.CardView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.CardView_Dark = global::TimeOryx.Droid.Resource.Style.CardView_Dark;
+			global::Xamarin.Plugin.Calendar.Resource.Style.CardView_Light = global::TimeOryx.Droid.Resource.Style.CardView_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_AppCompat = global::TimeOryx.Droid.Resource.Style.Platform_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_ThemeOverlay_AppCompat = global::TimeOryx.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::TimeOryx.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_V21_AppCompat = global::TimeOryx.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_V21_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_V25_AppCompat = global::TimeOryx.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_V25_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Platform_Widget_AppCompat_Spinner = global::TimeOryx.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::TimeOryx.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::TimeOryx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::TimeOryx.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarin.Plugin.Calendar.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::TimeOryx.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Body1 = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Body2 = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Button = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Caption = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Display1 = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Display2 = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Display3 = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Display4 = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Headline = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Large = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Medium = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Menu = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Small = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Subhead = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Title = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Tooltip = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TimeOryx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification_Info = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification_Media = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification_Time = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification_Title = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::TimeOryx.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::TimeOryx.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Design_Counter = global::TimeOryx.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Design_Counter_Overflow = global::TimeOryx.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Design_Error = global::TimeOryx.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Design_Hint = global::TimeOryx.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Design_Snackbar_Message = global::TimeOryx.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Design_Tab = global::TimeOryx.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TimeOryx.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TimeOryx.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::TimeOryx.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Plugin.Calendar.Resource.Style.ThemeOverlay_AppCompat = global::TimeOryx.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::TimeOryx.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.ThemeOverlay_AppCompat_Dark = global::TimeOryx.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Plugin.Calendar.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::TimeOryx.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::TimeOryx.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Plugin.Calendar.Resource.Style.ThemeOverlay_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_CompactMenu = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_DayNight = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Dialog = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Dialog_Alert = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Light = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Light_Dialog = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_AppCompat_NoActionBar = global::TimeOryx.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_Design = global::TimeOryx.Droid.Resource.Style.Theme_Design;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_Design_BottomSheetDialog = global::TimeOryx.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_Design_Light = global::TimeOryx.Droid.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::TimeOryx.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_Design_Light_NoActionBar = global::TimeOryx.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Theme_Design_NoActionBar = global::TimeOryx.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActionBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActionButton = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActionMode = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ActivityChooserView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Button = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ButtonBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Button_Borderless = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Button_Colored = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Button_Small = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_EditText = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ImageButton = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionButton = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_SearchView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ListMenuView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ListPopupWindow = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ListView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ListView_DropDown = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ListView_Menu = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_PopupMenu = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_PopupWindow = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ProgressBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_RatingBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_RatingBar_Small = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_SearchView = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_SeekBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Spinner = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Toolbar = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::TimeOryx.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Compat_NotificationActionContainer = global::TimeOryx.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Compat_NotificationActionText = global::TimeOryx.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_AppBarLayout = global::TimeOryx.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_BottomNavigationView = global::TimeOryx.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_BottomSheet_Modal = global::TimeOryx.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_CollapsingToolbar = global::TimeOryx.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_FloatingActionButton = global::TimeOryx.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_NavigationView = global::TimeOryx.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::TimeOryx.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_Snackbar = global::TimeOryx.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_TabLayout = global::TimeOryx.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Style.Widget_Design_TextInputLayout = global::TimeOryx.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar = global::TimeOryx.Droid.Resource.Styleable.ActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBarLayout = global::TimeOryx.Droid.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::TimeOryx.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_background = global::TimeOryx.Droid.Resource.Styleable.ActionBar_background;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_backgroundSplit = global::TimeOryx.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_backgroundStacked = global::TimeOryx.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_contentInsetEnd = global::TimeOryx.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::TimeOryx.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_contentInsetLeft = global::TimeOryx.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_contentInsetRight = global::TimeOryx.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_contentInsetStart = global::TimeOryx.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::TimeOryx.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_customNavigationLayout = global::TimeOryx.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_displayOptions = global::TimeOryx.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_divider = global::TimeOryx.Droid.Resource.Styleable.ActionBar_divider;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_elevation = global::TimeOryx.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_height = global::TimeOryx.Droid.Resource.Styleable.ActionBar_height;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_hideOnContentScroll = global::TimeOryx.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_homeAsUpIndicator = global::TimeOryx.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_homeLayout = global::TimeOryx.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_icon = global::TimeOryx.Droid.Resource.Styleable.ActionBar_icon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::TimeOryx.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_itemPadding = global::TimeOryx.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_logo = global::TimeOryx.Droid.Resource.Styleable.ActionBar_logo;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_navigationMode = global::TimeOryx.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_popupTheme = global::TimeOryx.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_progressBarPadding = global::TimeOryx.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_progressBarStyle = global::TimeOryx.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_subtitle = global::TimeOryx.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_subtitleTextStyle = global::TimeOryx.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_title = global::TimeOryx.Droid.Resource.Styleable.ActionBar_title;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionBar_titleTextStyle = global::TimeOryx.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMenuItemView = global::TimeOryx.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMenuItemView_android_minWidth = global::TimeOryx.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMenuView = global::TimeOryx.Droid.Resource.Styleable.ActionMenuView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMode = global::TimeOryx.Droid.Resource.Styleable.ActionMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMode_background = global::TimeOryx.Droid.Resource.Styleable.ActionMode_background;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMode_backgroundSplit = global::TimeOryx.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMode_closeItemLayout = global::TimeOryx.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMode_height = global::TimeOryx.Droid.Resource.Styleable.ActionMode_height;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMode_subtitleTextStyle = global::TimeOryx.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActionMode_titleTextStyle = global::TimeOryx.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActivityChooserView = global::TimeOryx.Droid.Resource.Styleable.ActivityChooserView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::TimeOryx.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ActivityChooserView_initialActivityCount = global::TimeOryx.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AlertDialog = global::TimeOryx.Droid.Resource.Styleable.AlertDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AlertDialog_android_layout = global::TimeOryx.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::TimeOryx.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AlertDialog_listItemLayout = global::TimeOryx.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AlertDialog_listLayout = global::TimeOryx.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::TimeOryx.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AlertDialog_showTitle = global::TimeOryx.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::TimeOryx.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayout = global::TimeOryx.Droid.Resource.Styleable.AppBarLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayoutStates = global::TimeOryx.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::TimeOryx.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::TimeOryx.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayout_android_background = global::TimeOryx.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::TimeOryx.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::TimeOryx.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayout_elevation = global::TimeOryx.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayout_expanded = global::TimeOryx.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayout_Layout = global::TimeOryx.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::TimeOryx.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::TimeOryx.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatImageView = global::TimeOryx.Droid.Resource.Styleable.AppCompatImageView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatImageView_android_src = global::TimeOryx.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatImageView_srcCompat = global::TimeOryx.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatImageView_tint = global::TimeOryx.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatImageView_tintMode = global::TimeOryx.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatSeekBar = global::TimeOryx.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatSeekBar_android_thumb = global::TimeOryx.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatSeekBar_tickMark = global::TimeOryx.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::TimeOryx.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::TimeOryx.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextHelper = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextView = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextView_android_textAppearance = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextView_fontFamily = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTextView_textAllCaps = global::TimeOryx.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarDivider = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarSize = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarTheme = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeBackground = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_buttonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_checkboxStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorAccent = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorControlActivated = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorControlNormal = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorError = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorPrimary = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_controlBackground = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_dialogTheme = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_dividerVertical = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_editTextBackground = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_editTextColor = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_editTextStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_panelBackground = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_searchViewStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_seekBarStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_spinnerStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_switchStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_toolbarStyle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowActionBar = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.AppCompatTheme_windowNoTitle = global::TimeOryx.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomNavigationView = global::TimeOryx.Droid.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomNavigationView_elevation = global::TimeOryx.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomNavigationView_itemBackground = global::TimeOryx.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomNavigationView_itemIconTint = global::TimeOryx.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomNavigationView_itemTextColor = global::TimeOryx.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomNavigationView_menu = global::TimeOryx.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomSheetBehavior_Layout = global::TimeOryx.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::TimeOryx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::TimeOryx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::TimeOryx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ButtonBarLayout = global::TimeOryx.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ButtonBarLayout_allowStacking = global::TimeOryx.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView = global::TimeOryx.Droid.Resource.Styleable.CardView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_android_minHeight = global::TimeOryx.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_android_minWidth = global::TimeOryx.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_cardBackgroundColor = global::TimeOryx.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_cardCornerRadius = global::TimeOryx.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_cardElevation = global::TimeOryx.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_cardMaxElevation = global::TimeOryx.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_cardPreventCornerOverlap = global::TimeOryx.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_cardUseCompatPadding = global::TimeOryx.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_contentPadding = global::TimeOryx.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_contentPaddingBottom = global::TimeOryx.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_contentPaddingLeft = global::TimeOryx.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_contentPaddingRight = global::TimeOryx.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CardView_contentPaddingTop = global::TimeOryx.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_Layout = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_title = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::TimeOryx.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ColorStateListItem = global::TimeOryx.Droid.Resource.Styleable.ColorStateListItem;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ColorStateListItem_alpha = global::TimeOryx.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ColorStateListItem_android_alpha = global::TimeOryx.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ColorStateListItem_android_color = global::TimeOryx.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CompoundButton = global::TimeOryx.Droid.Resource.Styleable.CompoundButton;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CompoundButton_android_button = global::TimeOryx.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CompoundButton_buttonTint = global::TimeOryx.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CompoundButton_buttonTintMode = global::TimeOryx.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_keylines = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_Layout = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::TimeOryx.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.DrawerArrowToggle = global::TimeOryx.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::TimeOryx.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::TimeOryx.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.DrawerArrowToggle_barLength = global::TimeOryx.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.DrawerArrowToggle_color = global::TimeOryx.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.DrawerArrowToggle_drawableSize = global::TimeOryx.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::TimeOryx.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.DrawerArrowToggle_spinBars = global::TimeOryx.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.DrawerArrowToggle_thickness = global::TimeOryx.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_backgroundTint = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_borderWidth = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_elevation = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_fabSize = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_rippleColor = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FloatingActionButton_useCompatPadding = global::TimeOryx.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamily = global::TimeOryx.Droid.Resource.Styleable.FontFamily;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamilyFont = global::TimeOryx.Droid.Resource.Styleable.FontFamilyFont;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamilyFont_android_font = global::TimeOryx.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamilyFont_android_fontStyle = global::TimeOryx.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamilyFont_android_fontWeight = global::TimeOryx.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamilyFont_font = global::TimeOryx.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamilyFont_fontStyle = global::TimeOryx.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamilyFont_fontWeight = global::TimeOryx.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamily_fontProviderAuthority = global::TimeOryx.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamily_fontProviderCerts = global::TimeOryx.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::TimeOryx.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::TimeOryx.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamily_fontProviderPackage = global::TimeOryx.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.FontFamily_fontProviderQuery = global::TimeOryx.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ForegroundLinearLayout = global::TimeOryx.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::TimeOryx.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::TimeOryx.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::TimeOryx.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_android_gravity = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_android_orientation = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_divider = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_Layout = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.LinearLayoutCompat_showDividers = global::TimeOryx.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ListPopupWindow = global::TimeOryx.Droid.Resource.Styleable.ListPopupWindow;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::TimeOryx.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::TimeOryx.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuGroup = global::TimeOryx.Droid.Resource.Styleable.MenuGroup;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuGroup_android_checkableBehavior = global::TimeOryx.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuGroup_android_enabled = global::TimeOryx.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuGroup_android_id = global::TimeOryx.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuGroup_android_menuCategory = global::TimeOryx.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuGroup_android_orderInCategory = global::TimeOryx.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuGroup_android_visible = global::TimeOryx.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem = global::TimeOryx.Droid.Resource.Styleable.MenuItem;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_actionLayout = global::TimeOryx.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_actionProviderClass = global::TimeOryx.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_actionViewClass = global::TimeOryx.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_alphabeticModifiers = global::TimeOryx.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_checkable = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_checked = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_enabled = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_icon = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_id = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_menuCategory = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_numericShortcut = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_onClick = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_orderInCategory = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_title = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_titleCondensed = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_android_visible = global::TimeOryx.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_contentDescription = global::TimeOryx.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_iconTint = global::TimeOryx.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_iconTintMode = global::TimeOryx.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_numericModifiers = global::TimeOryx.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_showAsAction = global::TimeOryx.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuItem_tooltipText = global::TimeOryx.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView = global::TimeOryx.Droid.Resource.Styleable.MenuView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView_android_headerBackground = global::TimeOryx.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView_android_horizontalDivider = global::TimeOryx.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView_android_itemBackground = global::TimeOryx.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::TimeOryx.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView_android_itemTextAppearance = global::TimeOryx.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView_android_verticalDivider = global::TimeOryx.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView_android_windowAnimationStyle = global::TimeOryx.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView_preserveIconSpacing = global::TimeOryx.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.MenuView_subMenuArrow = global::TimeOryx.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView = global::TimeOryx.Droid.Resource.Styleable.NavigationView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_android_background = global::TimeOryx.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::TimeOryx.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_android_maxWidth = global::TimeOryx.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_elevation = global::TimeOryx.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_headerLayout = global::TimeOryx.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_itemBackground = global::TimeOryx.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_itemIconTint = global::TimeOryx.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_itemTextAppearance = global::TimeOryx.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_itemTextColor = global::TimeOryx.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.NavigationView_menu = global::TimeOryx.Droid.Resource.Styleable.NavigationView_menu;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.PopupWindow = global::TimeOryx.Droid.Resource.Styleable.PopupWindow;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.PopupWindowBackgroundState = global::TimeOryx.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::TimeOryx.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::TimeOryx.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.PopupWindow_android_popupBackground = global::TimeOryx.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.PopupWindow_overlapAnchor = global::TimeOryx.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecycleListView = global::TimeOryx.Droid.Resource.Styleable.RecycleListView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::TimeOryx.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::TimeOryx.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView = global::TimeOryx.Droid.Resource.Styleable.RecyclerView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_android_descendantFocusability = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_android_orientation = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_fastScrollEnabled = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_layoutManager = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_reverseLayout = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_spanCount = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.RecyclerView_stackFromEnd = global::TimeOryx.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ScrimInsetsFrameLayout = global::TimeOryx.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::TimeOryx.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ScrollingViewBehavior_Layout = global::TimeOryx.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::TimeOryx.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView = global::TimeOryx.Droid.Resource.Styleable.SearchView;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_android_focusable = global::TimeOryx.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_android_imeOptions = global::TimeOryx.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_android_inputType = global::TimeOryx.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_android_maxWidth = global::TimeOryx.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_closeIcon = global::TimeOryx.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_commitIcon = global::TimeOryx.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_defaultQueryHint = global::TimeOryx.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_goIcon = global::TimeOryx.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_iconifiedByDefault = global::TimeOryx.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_layout = global::TimeOryx.Droid.Resource.Styleable.SearchView_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_queryBackground = global::TimeOryx.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_queryHint = global::TimeOryx.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_searchHintIcon = global::TimeOryx.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_searchIcon = global::TimeOryx.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_submitBackground = global::TimeOryx.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_suggestionRowLayout = global::TimeOryx.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SearchView_voiceIcon = global::TimeOryx.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SnackbarLayout = global::TimeOryx.Droid.Resource.Styleable.SnackbarLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SnackbarLayout_android_maxWidth = global::TimeOryx.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SnackbarLayout_elevation = global::TimeOryx.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::TimeOryx.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Spinner = global::TimeOryx.Droid.Resource.Styleable.Spinner;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Spinner_android_dropDownWidth = global::TimeOryx.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Spinner_android_entries = global::TimeOryx.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Spinner_android_popupBackground = global::TimeOryx.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Spinner_android_prompt = global::TimeOryx.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Spinner_popupTheme = global::TimeOryx.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_android_textOff = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_android_textOn = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_android_thumb = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_showText = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_splitTrack = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_switchMinWidth = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_switchPadding = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_switchTextAppearance = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_thumbTextPadding = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_thumbTint = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_thumbTintMode = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_track = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_trackTint = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.SwitchCompat_trackTintMode = global::TimeOryx.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabItem = global::TimeOryx.Droid.Resource.Styleable.TabItem;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabItem_android_icon = global::TimeOryx.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabItem_android_layout = global::TimeOryx.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabItem_android_text = global::TimeOryx.Droid.Resource.Styleable.TabItem_android_text;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout = global::TimeOryx.Droid.Resource.Styleable.TabLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabBackground = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabContentStart = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabGravity = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabIndicatorColor = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabIndicatorHeight = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabMaxWidth = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabMinWidth = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabMode = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabPadding = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabPaddingBottom = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabPaddingEnd = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabPaddingStart = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabPaddingTop = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabSelectedTextColor = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabTextAppearance = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TabLayout_tabTextColor = global::TimeOryx.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance = global::TimeOryx.Droid.Resource.Styleable.TextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_fontFamily = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_shadowColor = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_shadowDx = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_shadowDy = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_shadowRadius = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_textColor = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_textColorHint = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_textColorLink = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_textSize = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_textStyle = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_android_typeface = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_fontFamily = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextAppearance_textAllCaps = global::TimeOryx.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_android_hint = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_android_textColorHint = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_counterEnabled = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_counterMaxLength = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_counterTextAppearance = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_errorEnabled = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_errorTextAppearance = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_hintEnabled = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_hintTextAppearance = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_passwordToggleTint = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::TimeOryx.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar = global::TimeOryx.Droid.Resource.Styleable.Toolbar;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_android_gravity = global::TimeOryx.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_android_minHeight = global::TimeOryx.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_buttonGravity = global::TimeOryx.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_collapseContentDescription = global::TimeOryx.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_collapseIcon = global::TimeOryx.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_contentInsetEnd = global::TimeOryx.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::TimeOryx.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_contentInsetLeft = global::TimeOryx.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_contentInsetRight = global::TimeOryx.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_contentInsetStart = global::TimeOryx.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::TimeOryx.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_logo = global::TimeOryx.Droid.Resource.Styleable.Toolbar_logo;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_logoDescription = global::TimeOryx.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_maxButtonHeight = global::TimeOryx.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_navigationContentDescription = global::TimeOryx.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_navigationIcon = global::TimeOryx.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_popupTheme = global::TimeOryx.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_subtitle = global::TimeOryx.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_subtitleTextAppearance = global::TimeOryx.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_subtitleTextColor = global::TimeOryx.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_title = global::TimeOryx.Droid.Resource.Styleable.Toolbar_title;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_titleMargin = global::TimeOryx.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_titleMarginBottom = global::TimeOryx.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_titleMarginEnd = global::TimeOryx.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_titleMargins = global::TimeOryx.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_titleMarginStart = global::TimeOryx.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_titleMarginTop = global::TimeOryx.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_titleTextAppearance = global::TimeOryx.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.Toolbar_titleTextColor = global::TimeOryx.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.View = global::TimeOryx.Droid.Resource.Styleable.View;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ViewBackgroundHelper = global::TimeOryx.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ViewBackgroundHelper_android_background = global::TimeOryx.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::TimeOryx.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::TimeOryx.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ViewStubCompat = global::TimeOryx.Droid.Resource.Styleable.ViewStubCompat;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ViewStubCompat_android_id = global::TimeOryx.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ViewStubCompat_android_inflatedId = global::TimeOryx.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.ViewStubCompat_android_layout = global::TimeOryx.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.View_android_focusable = global::TimeOryx.Droid.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.View_android_theme = global::TimeOryx.Droid.Resource.Styleable.View_android_theme;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.View_paddingEnd = global::TimeOryx.Droid.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.View_paddingStart = global::TimeOryx.Droid.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Plugin.Calendar.Resource.Styleable.View_theme = global::TimeOryx.Droid.Resource.Styleable.View_theme;
 		}
 		
 		public partial class Animation
@@ -10557,808 +12527,832 @@ namespace TimeOryx.Droid
 			public const int action_bar_size = 2131099726;
 			
 			// aapt resource value: 0x7F06004F
-			public const int appcompat_dialog_background_inset = 2131099727;
+			public const int activity_horizontal_margin = 2131099727;
 			
 			// aapt resource value: 0x7F060050
-			public const int browser_actions_context_menu_max_width = 2131099728;
+			public const int activity_vertical_margin = 2131099728;
 			
 			// aapt resource value: 0x7F060051
-			public const int browser_actions_context_menu_min_padding = 2131099729;
+			public const int appcompat_dialog_background_inset = 2131099729;
 			
 			// aapt resource value: 0x7F060052
-			public const int cardview_compat_inset_shadow = 2131099730;
+			public const int browser_actions_context_menu_max_width = 2131099730;
 			
 			// aapt resource value: 0x7F060053
-			public const int cardview_default_elevation = 2131099731;
+			public const int browser_actions_context_menu_min_padding = 2131099731;
 			
 			// aapt resource value: 0x7F060054
-			public const int cardview_default_radius = 2131099732;
+			public const int cardview_compat_inset_shadow = 2131099732;
 			
 			// aapt resource value: 0x7F060055
-			public const int compat_button_inset_horizontal_material = 2131099733;
+			public const int cardview_default_elevation = 2131099733;
 			
 			// aapt resource value: 0x7F060056
-			public const int compat_button_inset_vertical_material = 2131099734;
+			public const int cardview_default_radius = 2131099734;
 			
 			// aapt resource value: 0x7F060057
-			public const int compat_button_padding_horizontal_material = 2131099735;
+			public const int compat_button_inset_horizontal_material = 2131099735;
 			
 			// aapt resource value: 0x7F060058
-			public const int compat_button_padding_vertical_material = 2131099736;
+			public const int compat_button_inset_vertical_material = 2131099736;
 			
 			// aapt resource value: 0x7F060059
-			public const int compat_control_corner_material = 2131099737;
+			public const int compat_button_padding_horizontal_material = 2131099737;
 			
 			// aapt resource value: 0x7F06005A
-			public const int compat_notification_large_icon_max_height = 2131099738;
+			public const int compat_button_padding_vertical_material = 2131099738;
 			
 			// aapt resource value: 0x7F06005B
-			public const int compat_notification_large_icon_max_width = 2131099739;
-			
-			// aapt resource value: 0x7F06005D
-			public const int default_dimension = 2131099741;
+			public const int compat_control_corner_material = 2131099739;
 			
 			// aapt resource value: 0x7F06005C
-			public const int def_drawer_elevation = 2131099740;
+			public const int compat_notification_large_icon_max_height = 2131099740;
+			
+			// aapt resource value: 0x7F06005D
+			public const int compat_notification_large_icon_max_width = 2131099741;
 			
 			// aapt resource value: 0x7F06005E
-			public const int design_appbar_elevation = 2131099742;
+			public const int date_text_size = 2131099742;
 			
 			// aapt resource value: 0x7F06005F
-			public const int design_bottom_navigation_active_item_max_width = 2131099743;
-			
-			// aapt resource value: 0x7F060060
-			public const int design_bottom_navigation_active_item_min_width = 2131099744;
+			public const int date_text_tab_size = 2131099743;
 			
 			// aapt resource value: 0x7F060061
-			public const int design_bottom_navigation_active_text_size = 2131099745;
+			public const int default_dimension = 2131099745;
+			
+			// aapt resource value: 0x7F060060
+			public const int def_drawer_elevation = 2131099744;
 			
 			// aapt resource value: 0x7F060062
-			public const int design_bottom_navigation_elevation = 2131099746;
+			public const int design_appbar_elevation = 2131099746;
 			
 			// aapt resource value: 0x7F060063
-			public const int design_bottom_navigation_height = 2131099747;
+			public const int design_bottom_navigation_active_item_max_width = 2131099747;
 			
 			// aapt resource value: 0x7F060064
-			public const int design_bottom_navigation_icon_size = 2131099748;
+			public const int design_bottom_navigation_active_item_min_width = 2131099748;
 			
 			// aapt resource value: 0x7F060065
-			public const int design_bottom_navigation_item_max_width = 2131099749;
+			public const int design_bottom_navigation_active_text_size = 2131099749;
 			
 			// aapt resource value: 0x7F060066
-			public const int design_bottom_navigation_item_min_width = 2131099750;
+			public const int design_bottom_navigation_elevation = 2131099750;
 			
 			// aapt resource value: 0x7F060067
-			public const int design_bottom_navigation_margin = 2131099751;
+			public const int design_bottom_navigation_height = 2131099751;
 			
 			// aapt resource value: 0x7F060068
-			public const int design_bottom_navigation_shadow_height = 2131099752;
+			public const int design_bottom_navigation_icon_size = 2131099752;
 			
 			// aapt resource value: 0x7F060069
-			public const int design_bottom_navigation_text_size = 2131099753;
+			public const int design_bottom_navigation_item_max_width = 2131099753;
 			
 			// aapt resource value: 0x7F06006A
-			public const int design_bottom_sheet_elevation = 2131099754;
+			public const int design_bottom_navigation_item_min_width = 2131099754;
 			
 			// aapt resource value: 0x7F06006B
-			public const int design_bottom_sheet_modal_elevation = 2131099755;
+			public const int design_bottom_navigation_margin = 2131099755;
 			
 			// aapt resource value: 0x7F06006C
-			public const int design_bottom_sheet_peek_height_min = 2131099756;
+			public const int design_bottom_navigation_shadow_height = 2131099756;
 			
 			// aapt resource value: 0x7F06006D
-			public const int design_fab_border_width = 2131099757;
+			public const int design_bottom_navigation_text_size = 2131099757;
 			
 			// aapt resource value: 0x7F06006E
-			public const int design_fab_elevation = 2131099758;
+			public const int design_bottom_sheet_elevation = 2131099758;
 			
 			// aapt resource value: 0x7F06006F
-			public const int design_fab_image_size = 2131099759;
+			public const int design_bottom_sheet_modal_elevation = 2131099759;
 			
 			// aapt resource value: 0x7F060070
-			public const int design_fab_size_mini = 2131099760;
+			public const int design_bottom_sheet_peek_height_min = 2131099760;
 			
 			// aapt resource value: 0x7F060071
-			public const int design_fab_size_normal = 2131099761;
+			public const int design_fab_border_width = 2131099761;
 			
 			// aapt resource value: 0x7F060072
-			public const int design_fab_translation_z_hovered_focused = 2131099762;
+			public const int design_fab_elevation = 2131099762;
 			
 			// aapt resource value: 0x7F060073
-			public const int design_fab_translation_z_pressed = 2131099763;
+			public const int design_fab_image_size = 2131099763;
 			
 			// aapt resource value: 0x7F060074
-			public const int design_navigation_elevation = 2131099764;
+			public const int design_fab_size_mini = 2131099764;
 			
 			// aapt resource value: 0x7F060075
-			public const int design_navigation_icon_padding = 2131099765;
+			public const int design_fab_size_normal = 2131099765;
 			
 			// aapt resource value: 0x7F060076
-			public const int design_navigation_icon_size = 2131099766;
+			public const int design_fab_translation_z_hovered_focused = 2131099766;
 			
 			// aapt resource value: 0x7F060077
-			public const int design_navigation_item_horizontal_padding = 2131099767;
+			public const int design_fab_translation_z_pressed = 2131099767;
 			
 			// aapt resource value: 0x7F060078
-			public const int design_navigation_item_icon_padding = 2131099768;
+			public const int design_navigation_elevation = 2131099768;
 			
 			// aapt resource value: 0x7F060079
-			public const int design_navigation_max_width = 2131099769;
+			public const int design_navigation_icon_padding = 2131099769;
 			
 			// aapt resource value: 0x7F06007A
-			public const int design_navigation_padding_bottom = 2131099770;
+			public const int design_navigation_icon_size = 2131099770;
 			
 			// aapt resource value: 0x7F06007B
-			public const int design_navigation_separator_vertical_padding = 2131099771;
+			public const int design_navigation_item_horizontal_padding = 2131099771;
 			
 			// aapt resource value: 0x7F06007C
-			public const int design_snackbar_action_inline_max_width = 2131099772;
+			public const int design_navigation_item_icon_padding = 2131099772;
 			
 			// aapt resource value: 0x7F06007D
-			public const int design_snackbar_action_text_color_alpha = 2131099773;
+			public const int design_navigation_max_width = 2131099773;
 			
 			// aapt resource value: 0x7F06007E
-			public const int design_snackbar_background_corner_radius = 2131099774;
+			public const int design_navigation_padding_bottom = 2131099774;
 			
 			// aapt resource value: 0x7F06007F
-			public const int design_snackbar_elevation = 2131099775;
+			public const int design_navigation_separator_vertical_padding = 2131099775;
 			
 			// aapt resource value: 0x7F060080
-			public const int design_snackbar_extra_spacing_horizontal = 2131099776;
+			public const int design_snackbar_action_inline_max_width = 2131099776;
 			
 			// aapt resource value: 0x7F060081
-			public const int design_snackbar_max_width = 2131099777;
+			public const int design_snackbar_action_text_color_alpha = 2131099777;
 			
 			// aapt resource value: 0x7F060082
-			public const int design_snackbar_min_width = 2131099778;
+			public const int design_snackbar_background_corner_radius = 2131099778;
 			
 			// aapt resource value: 0x7F060083
-			public const int design_snackbar_padding_horizontal = 2131099779;
+			public const int design_snackbar_elevation = 2131099779;
 			
 			// aapt resource value: 0x7F060084
-			public const int design_snackbar_padding_vertical = 2131099780;
+			public const int design_snackbar_extra_spacing_horizontal = 2131099780;
 			
 			// aapt resource value: 0x7F060085
-			public const int design_snackbar_padding_vertical_2lines = 2131099781;
+			public const int design_snackbar_max_width = 2131099781;
 			
 			// aapt resource value: 0x7F060086
-			public const int design_snackbar_text_size = 2131099782;
+			public const int design_snackbar_min_width = 2131099782;
 			
 			// aapt resource value: 0x7F060087
-			public const int design_tab_max_width = 2131099783;
+			public const int design_snackbar_padding_horizontal = 2131099783;
 			
 			// aapt resource value: 0x7F060088
-			public const int design_tab_scrollable_min_width = 2131099784;
+			public const int design_snackbar_padding_vertical = 2131099784;
 			
 			// aapt resource value: 0x7F060089
-			public const int design_tab_text_size = 2131099785;
+			public const int design_snackbar_padding_vertical_2lines = 2131099785;
 			
 			// aapt resource value: 0x7F06008A
-			public const int design_tab_text_size_2line = 2131099786;
+			public const int design_snackbar_text_size = 2131099786;
 			
 			// aapt resource value: 0x7F06008B
-			public const int design_textinput_caption_translate_y = 2131099787;
+			public const int design_tab_max_width = 2131099787;
 			
 			// aapt resource value: 0x7F06008C
-			public const int disabled_alpha_material_dark = 2131099788;
+			public const int design_tab_scrollable_min_width = 2131099788;
 			
 			// aapt resource value: 0x7F06008D
-			public const int disabled_alpha_material_light = 2131099789;
+			public const int design_tab_text_size = 2131099789;
 			
 			// aapt resource value: 0x7F06008E
-			public const int fastscroll_default_thickness = 2131099790;
+			public const int design_tab_text_size_2line = 2131099790;
 			
 			// aapt resource value: 0x7F06008F
-			public const int fastscroll_margin = 2131099791;
+			public const int design_textinput_caption_translate_y = 2131099791;
 			
 			// aapt resource value: 0x7F060090
-			public const int fastscroll_minimum_range = 2131099792;
+			public const int disabled_alpha_material_dark = 2131099792;
 			
 			// aapt resource value: 0x7F060091
-			public const int highlight_alpha_material_colored = 2131099793;
+			public const int disabled_alpha_material_light = 2131099793;
 			
 			// aapt resource value: 0x7F060092
-			public const int highlight_alpha_material_dark = 2131099794;
+			public const int fastscroll_default_thickness = 2131099794;
 			
 			// aapt resource value: 0x7F060093
-			public const int highlight_alpha_material_light = 2131099795;
+			public const int fastscroll_margin = 2131099795;
 			
 			// aapt resource value: 0x7F060094
-			public const int hint_alpha_material_dark = 2131099796;
+			public const int fastscroll_minimum_range = 2131099796;
 			
 			// aapt resource value: 0x7F060095
-			public const int hint_alpha_material_light = 2131099797;
+			public const int highlight_alpha_material_colored = 2131099797;
 			
 			// aapt resource value: 0x7F060096
-			public const int hint_pressed_alpha_material_dark = 2131099798;
+			public const int highlight_alpha_material_dark = 2131099798;
 			
 			// aapt resource value: 0x7F060097
-			public const int hint_pressed_alpha_material_light = 2131099799;
+			public const int highlight_alpha_material_light = 2131099799;
 			
 			// aapt resource value: 0x7F060098
-			public const int item_touch_helper_max_drag_scroll_per_frame = 2131099800;
+			public const int hint_alpha_material_dark = 2131099800;
 			
 			// aapt resource value: 0x7F060099
-			public const int item_touch_helper_swipe_escape_max_velocity = 2131099801;
+			public const int hint_alpha_material_light = 2131099801;
 			
 			// aapt resource value: 0x7F06009A
-			public const int item_touch_helper_swipe_escape_velocity = 2131099802;
+			public const int hint_pressed_alpha_material_dark = 2131099802;
 			
 			// aapt resource value: 0x7F06009B
-			public const int material_emphasis_disabled = 2131099803;
+			public const int hint_pressed_alpha_material_light = 2131099803;
 			
 			// aapt resource value: 0x7F06009C
-			public const int material_emphasis_high_type = 2131099804;
+			public const int item_touch_helper_max_drag_scroll_per_frame = 2131099804;
 			
 			// aapt resource value: 0x7F06009D
-			public const int material_emphasis_medium = 2131099805;
+			public const int item_touch_helper_swipe_escape_max_velocity = 2131099805;
 			
 			// aapt resource value: 0x7F06009E
-			public const int material_text_view_test_line_height = 2131099806;
+			public const int item_touch_helper_swipe_escape_velocity = 2131099806;
 			
 			// aapt resource value: 0x7F06009F
-			public const int material_text_view_test_line_height_override = 2131099807;
+			public const int material_emphasis_disabled = 2131099807;
 			
 			// aapt resource value: 0x7F0600A0
-			public const int mtrl_alert_dialog_background_inset_bottom = 2131099808;
+			public const int material_emphasis_high_type = 2131099808;
 			
 			// aapt resource value: 0x7F0600A1
-			public const int mtrl_alert_dialog_background_inset_end = 2131099809;
+			public const int material_emphasis_medium = 2131099809;
 			
 			// aapt resource value: 0x7F0600A2
-			public const int mtrl_alert_dialog_background_inset_start = 2131099810;
+			public const int material_text_view_test_line_height = 2131099810;
 			
 			// aapt resource value: 0x7F0600A3
-			public const int mtrl_alert_dialog_background_inset_top = 2131099811;
+			public const int material_text_view_test_line_height_override = 2131099811;
 			
 			// aapt resource value: 0x7F0600A4
-			public const int mtrl_alert_dialog_picker_background_inset = 2131099812;
+			public const int month_row_size = 2131099812;
 			
 			// aapt resource value: 0x7F0600A5
-			public const int mtrl_badge_horizontal_edge_offset = 2131099813;
+			public const int month_row_tab_size = 2131099813;
 			
 			// aapt resource value: 0x7F0600A6
-			public const int mtrl_badge_long_text_horizontal_padding = 2131099814;
+			public const int month_text_size = 2131099814;
 			
 			// aapt resource value: 0x7F0600A7
-			public const int mtrl_badge_radius = 2131099815;
+			public const int month_text_tab_size = 2131099815;
 			
 			// aapt resource value: 0x7F0600A8
-			public const int mtrl_badge_text_horizontal_edge_offset = 2131099816;
+			public const int mtrl_alert_dialog_background_inset_bottom = 2131099816;
 			
 			// aapt resource value: 0x7F0600A9
-			public const int mtrl_badge_text_size = 2131099817;
+			public const int mtrl_alert_dialog_background_inset_end = 2131099817;
 			
 			// aapt resource value: 0x7F0600AA
-			public const int mtrl_badge_with_text_radius = 2131099818;
+			public const int mtrl_alert_dialog_background_inset_start = 2131099818;
 			
 			// aapt resource value: 0x7F0600AB
-			public const int mtrl_bottomappbar_fabOffsetEndMode = 2131099819;
+			public const int mtrl_alert_dialog_background_inset_top = 2131099819;
 			
 			// aapt resource value: 0x7F0600AC
-			public const int mtrl_bottomappbar_fab_bottom_margin = 2131099820;
+			public const int mtrl_alert_dialog_picker_background_inset = 2131099820;
 			
 			// aapt resource value: 0x7F0600AD
-			public const int mtrl_bottomappbar_fab_cradle_margin = 2131099821;
+			public const int mtrl_badge_horizontal_edge_offset = 2131099821;
 			
 			// aapt resource value: 0x7F0600AE
-			public const int mtrl_bottomappbar_fab_cradle_rounded_corner_radius = 2131099822;
+			public const int mtrl_badge_long_text_horizontal_padding = 2131099822;
 			
 			// aapt resource value: 0x7F0600AF
-			public const int mtrl_bottomappbar_fab_cradle_vertical_offset = 2131099823;
+			public const int mtrl_badge_radius = 2131099823;
 			
 			// aapt resource value: 0x7F0600B0
-			public const int mtrl_bottomappbar_height = 2131099824;
+			public const int mtrl_badge_text_horizontal_edge_offset = 2131099824;
 			
 			// aapt resource value: 0x7F0600B1
-			public const int mtrl_btn_corner_radius = 2131099825;
+			public const int mtrl_badge_text_size = 2131099825;
 			
 			// aapt resource value: 0x7F0600B2
-			public const int mtrl_btn_dialog_btn_min_width = 2131099826;
+			public const int mtrl_badge_with_text_radius = 2131099826;
 			
 			// aapt resource value: 0x7F0600B3
-			public const int mtrl_btn_disabled_elevation = 2131099827;
+			public const int mtrl_bottomappbar_fabOffsetEndMode = 2131099827;
 			
 			// aapt resource value: 0x7F0600B4
-			public const int mtrl_btn_disabled_z = 2131099828;
+			public const int mtrl_bottomappbar_fab_bottom_margin = 2131099828;
 			
 			// aapt resource value: 0x7F0600B5
-			public const int mtrl_btn_elevation = 2131099829;
+			public const int mtrl_bottomappbar_fab_cradle_margin = 2131099829;
 			
 			// aapt resource value: 0x7F0600B6
-			public const int mtrl_btn_focused_z = 2131099830;
+			public const int mtrl_bottomappbar_fab_cradle_rounded_corner_radius = 2131099830;
 			
 			// aapt resource value: 0x7F0600B7
-			public const int mtrl_btn_hovered_z = 2131099831;
+			public const int mtrl_bottomappbar_fab_cradle_vertical_offset = 2131099831;
 			
 			// aapt resource value: 0x7F0600B8
-			public const int mtrl_btn_icon_btn_padding_left = 2131099832;
+			public const int mtrl_bottomappbar_height = 2131099832;
 			
 			// aapt resource value: 0x7F0600B9
-			public const int mtrl_btn_icon_padding = 2131099833;
+			public const int mtrl_btn_corner_radius = 2131099833;
 			
 			// aapt resource value: 0x7F0600BA
-			public const int mtrl_btn_inset = 2131099834;
+			public const int mtrl_btn_dialog_btn_min_width = 2131099834;
 			
 			// aapt resource value: 0x7F0600BB
-			public const int mtrl_btn_letter_spacing = 2131099835;
+			public const int mtrl_btn_disabled_elevation = 2131099835;
 			
 			// aapt resource value: 0x7F0600BC
-			public const int mtrl_btn_padding_bottom = 2131099836;
+			public const int mtrl_btn_disabled_z = 2131099836;
 			
 			// aapt resource value: 0x7F0600BD
-			public const int mtrl_btn_padding_left = 2131099837;
+			public const int mtrl_btn_elevation = 2131099837;
 			
 			// aapt resource value: 0x7F0600BE
-			public const int mtrl_btn_padding_right = 2131099838;
+			public const int mtrl_btn_focused_z = 2131099838;
 			
 			// aapt resource value: 0x7F0600BF
-			public const int mtrl_btn_padding_top = 2131099839;
+			public const int mtrl_btn_hovered_z = 2131099839;
 			
 			// aapt resource value: 0x7F0600C0
-			public const int mtrl_btn_pressed_z = 2131099840;
+			public const int mtrl_btn_icon_btn_padding_left = 2131099840;
 			
 			// aapt resource value: 0x7F0600C1
-			public const int mtrl_btn_stroke_size = 2131099841;
+			public const int mtrl_btn_icon_padding = 2131099841;
 			
 			// aapt resource value: 0x7F0600C2
-			public const int mtrl_btn_text_btn_icon_padding = 2131099842;
+			public const int mtrl_btn_inset = 2131099842;
 			
 			// aapt resource value: 0x7F0600C3
-			public const int mtrl_btn_text_btn_padding_left = 2131099843;
+			public const int mtrl_btn_letter_spacing = 2131099843;
 			
 			// aapt resource value: 0x7F0600C4
-			public const int mtrl_btn_text_btn_padding_right = 2131099844;
+			public const int mtrl_btn_padding_bottom = 2131099844;
 			
 			// aapt resource value: 0x7F0600C5
-			public const int mtrl_btn_text_size = 2131099845;
+			public const int mtrl_btn_padding_left = 2131099845;
 			
 			// aapt resource value: 0x7F0600C6
-			public const int mtrl_btn_z = 2131099846;
+			public const int mtrl_btn_padding_right = 2131099846;
 			
 			// aapt resource value: 0x7F0600C7
-			public const int mtrl_calendar_action_height = 2131099847;
+			public const int mtrl_btn_padding_top = 2131099847;
 			
 			// aapt resource value: 0x7F0600C8
-			public const int mtrl_calendar_action_padding = 2131099848;
+			public const int mtrl_btn_pressed_z = 2131099848;
 			
 			// aapt resource value: 0x7F0600C9
-			public const int mtrl_calendar_bottom_padding = 2131099849;
+			public const int mtrl_btn_stroke_size = 2131099849;
 			
 			// aapt resource value: 0x7F0600CA
-			public const int mtrl_calendar_content_padding = 2131099850;
-			
-			// aapt resource value: 0x7F0600D1
-			public const int mtrl_calendar_days_of_week_height = 2131099857;
+			public const int mtrl_btn_text_btn_icon_padding = 2131099850;
 			
 			// aapt resource value: 0x7F0600CB
-			public const int mtrl_calendar_day_corner = 2131099851;
+			public const int mtrl_btn_text_btn_padding_left = 2131099851;
 			
 			// aapt resource value: 0x7F0600CC
-			public const int mtrl_calendar_day_height = 2131099852;
+			public const int mtrl_btn_text_btn_padding_right = 2131099852;
 			
 			// aapt resource value: 0x7F0600CD
-			public const int mtrl_calendar_day_horizontal_padding = 2131099853;
+			public const int mtrl_btn_text_size = 2131099853;
 			
 			// aapt resource value: 0x7F0600CE
-			public const int mtrl_calendar_day_today_stroke = 2131099854;
+			public const int mtrl_btn_z = 2131099854;
 			
 			// aapt resource value: 0x7F0600CF
-			public const int mtrl_calendar_day_vertical_padding = 2131099855;
+			public const int mtrl_calendar_action_height = 2131099855;
 			
 			// aapt resource value: 0x7F0600D0
-			public const int mtrl_calendar_day_width = 2131099856;
+			public const int mtrl_calendar_action_padding = 2131099856;
+			
+			// aapt resource value: 0x7F0600D1
+			public const int mtrl_calendar_bottom_padding = 2131099857;
 			
 			// aapt resource value: 0x7F0600D2
-			public const int mtrl_calendar_dialog_background_inset = 2131099858;
-			
-			// aapt resource value: 0x7F0600D3
-			public const int mtrl_calendar_header_content_padding = 2131099859;
-			
-			// aapt resource value: 0x7F0600D4
-			public const int mtrl_calendar_header_content_padding_fullscreen = 2131099860;
-			
-			// aapt resource value: 0x7F0600D5
-			public const int mtrl_calendar_header_divider_thickness = 2131099861;
-			
-			// aapt resource value: 0x7F0600D6
-			public const int mtrl_calendar_header_height = 2131099862;
-			
-			// aapt resource value: 0x7F0600D7
-			public const int mtrl_calendar_header_height_fullscreen = 2131099863;
-			
-			// aapt resource value: 0x7F0600D8
-			public const int mtrl_calendar_header_selection_line_height = 2131099864;
+			public const int mtrl_calendar_content_padding = 2131099858;
 			
 			// aapt resource value: 0x7F0600D9
-			public const int mtrl_calendar_header_text_padding = 2131099865;
+			public const int mtrl_calendar_days_of_week_height = 2131099865;
+			
+			// aapt resource value: 0x7F0600D3
+			public const int mtrl_calendar_day_corner = 2131099859;
+			
+			// aapt resource value: 0x7F0600D4
+			public const int mtrl_calendar_day_height = 2131099860;
+			
+			// aapt resource value: 0x7F0600D5
+			public const int mtrl_calendar_day_horizontal_padding = 2131099861;
+			
+			// aapt resource value: 0x7F0600D6
+			public const int mtrl_calendar_day_today_stroke = 2131099862;
+			
+			// aapt resource value: 0x7F0600D7
+			public const int mtrl_calendar_day_vertical_padding = 2131099863;
+			
+			// aapt resource value: 0x7F0600D8
+			public const int mtrl_calendar_day_width = 2131099864;
 			
 			// aapt resource value: 0x7F0600DA
-			public const int mtrl_calendar_header_toggle_margin_bottom = 2131099866;
+			public const int mtrl_calendar_dialog_background_inset = 2131099866;
 			
 			// aapt resource value: 0x7F0600DB
-			public const int mtrl_calendar_header_toggle_margin_top = 2131099867;
+			public const int mtrl_calendar_header_content_padding = 2131099867;
 			
 			// aapt resource value: 0x7F0600DC
-			public const int mtrl_calendar_landscape_header_width = 2131099868;
+			public const int mtrl_calendar_header_content_padding_fullscreen = 2131099868;
 			
 			// aapt resource value: 0x7F0600DD
-			public const int mtrl_calendar_maximum_default_fullscreen_minor_axis = 2131099869;
+			public const int mtrl_calendar_header_divider_thickness = 2131099869;
 			
 			// aapt resource value: 0x7F0600DE
-			public const int mtrl_calendar_month_horizontal_padding = 2131099870;
+			public const int mtrl_calendar_header_height = 2131099870;
 			
 			// aapt resource value: 0x7F0600DF
-			public const int mtrl_calendar_month_vertical_padding = 2131099871;
+			public const int mtrl_calendar_header_height_fullscreen = 2131099871;
 			
 			// aapt resource value: 0x7F0600E0
-			public const int mtrl_calendar_navigation_bottom_padding = 2131099872;
+			public const int mtrl_calendar_header_selection_line_height = 2131099872;
 			
 			// aapt resource value: 0x7F0600E1
-			public const int mtrl_calendar_navigation_height = 2131099873;
+			public const int mtrl_calendar_header_text_padding = 2131099873;
 			
 			// aapt resource value: 0x7F0600E2
-			public const int mtrl_calendar_navigation_top_padding = 2131099874;
+			public const int mtrl_calendar_header_toggle_margin_bottom = 2131099874;
 			
 			// aapt resource value: 0x7F0600E3
-			public const int mtrl_calendar_pre_l_text_clip_padding = 2131099875;
+			public const int mtrl_calendar_header_toggle_margin_top = 2131099875;
 			
 			// aapt resource value: 0x7F0600E4
-			public const int mtrl_calendar_selection_baseline_to_top_fullscreen = 2131099876;
+			public const int mtrl_calendar_landscape_header_width = 2131099876;
 			
 			// aapt resource value: 0x7F0600E5
-			public const int mtrl_calendar_selection_text_baseline_to_bottom = 2131099877;
+			public const int mtrl_calendar_maximum_default_fullscreen_minor_axis = 2131099877;
 			
 			// aapt resource value: 0x7F0600E6
-			public const int mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = 2131099878;
+			public const int mtrl_calendar_month_horizontal_padding = 2131099878;
 			
 			// aapt resource value: 0x7F0600E7
-			public const int mtrl_calendar_selection_text_baseline_to_top = 2131099879;
+			public const int mtrl_calendar_month_vertical_padding = 2131099879;
 			
 			// aapt resource value: 0x7F0600E8
-			public const int mtrl_calendar_text_input_padding_top = 2131099880;
+			public const int mtrl_calendar_navigation_bottom_padding = 2131099880;
 			
 			// aapt resource value: 0x7F0600E9
-			public const int mtrl_calendar_title_baseline_to_top = 2131099881;
+			public const int mtrl_calendar_navigation_height = 2131099881;
 			
 			// aapt resource value: 0x7F0600EA
-			public const int mtrl_calendar_title_baseline_to_top_fullscreen = 2131099882;
+			public const int mtrl_calendar_navigation_top_padding = 2131099882;
 			
 			// aapt resource value: 0x7F0600EB
-			public const int mtrl_calendar_year_corner = 2131099883;
+			public const int mtrl_calendar_pre_l_text_clip_padding = 2131099883;
 			
 			// aapt resource value: 0x7F0600EC
-			public const int mtrl_calendar_year_height = 2131099884;
+			public const int mtrl_calendar_selection_baseline_to_top_fullscreen = 2131099884;
 			
 			// aapt resource value: 0x7F0600ED
-			public const int mtrl_calendar_year_horizontal_padding = 2131099885;
+			public const int mtrl_calendar_selection_text_baseline_to_bottom = 2131099885;
 			
 			// aapt resource value: 0x7F0600EE
-			public const int mtrl_calendar_year_vertical_padding = 2131099886;
+			public const int mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = 2131099886;
 			
 			// aapt resource value: 0x7F0600EF
-			public const int mtrl_calendar_year_width = 2131099887;
+			public const int mtrl_calendar_selection_text_baseline_to_top = 2131099887;
 			
 			// aapt resource value: 0x7F0600F0
-			public const int mtrl_card_checked_icon_margin = 2131099888;
+			public const int mtrl_calendar_text_input_padding_top = 2131099888;
 			
 			// aapt resource value: 0x7F0600F1
-			public const int mtrl_card_checked_icon_size = 2131099889;
+			public const int mtrl_calendar_title_baseline_to_top = 2131099889;
 			
 			// aapt resource value: 0x7F0600F2
-			public const int mtrl_card_corner_radius = 2131099890;
+			public const int mtrl_calendar_title_baseline_to_top_fullscreen = 2131099890;
 			
 			// aapt resource value: 0x7F0600F3
-			public const int mtrl_card_dragged_z = 2131099891;
+			public const int mtrl_calendar_year_corner = 2131099891;
 			
 			// aapt resource value: 0x7F0600F4
-			public const int mtrl_card_elevation = 2131099892;
+			public const int mtrl_calendar_year_height = 2131099892;
 			
 			// aapt resource value: 0x7F0600F5
-			public const int mtrl_card_spacing = 2131099893;
+			public const int mtrl_calendar_year_horizontal_padding = 2131099893;
 			
 			// aapt resource value: 0x7F0600F6
-			public const int mtrl_chip_pressed_translation_z = 2131099894;
+			public const int mtrl_calendar_year_vertical_padding = 2131099894;
 			
 			// aapt resource value: 0x7F0600F7
-			public const int mtrl_chip_text_size = 2131099895;
+			public const int mtrl_calendar_year_width = 2131099895;
 			
 			// aapt resource value: 0x7F0600F8
-			public const int mtrl_edittext_rectangle_top_offset = 2131099896;
+			public const int mtrl_card_checked_icon_margin = 2131099896;
 			
 			// aapt resource value: 0x7F0600F9
-			public const int mtrl_exposed_dropdown_menu_popup_elevation = 2131099897;
+			public const int mtrl_card_checked_icon_size = 2131099897;
 			
 			// aapt resource value: 0x7F0600FA
-			public const int mtrl_exposed_dropdown_menu_popup_vertical_offset = 2131099898;
+			public const int mtrl_card_corner_radius = 2131099898;
 			
 			// aapt resource value: 0x7F0600FB
-			public const int mtrl_exposed_dropdown_menu_popup_vertical_padding = 2131099899;
+			public const int mtrl_card_dragged_z = 2131099899;
 			
 			// aapt resource value: 0x7F0600FC
-			public const int mtrl_extended_fab_bottom_padding = 2131099900;
+			public const int mtrl_card_elevation = 2131099900;
 			
 			// aapt resource value: 0x7F0600FD
-			public const int mtrl_extended_fab_corner_radius = 2131099901;
+			public const int mtrl_card_spacing = 2131099901;
 			
 			// aapt resource value: 0x7F0600FE
-			public const int mtrl_extended_fab_disabled_elevation = 2131099902;
+			public const int mtrl_chip_pressed_translation_z = 2131099902;
 			
 			// aapt resource value: 0x7F0600FF
-			public const int mtrl_extended_fab_disabled_translation_z = 2131099903;
+			public const int mtrl_chip_text_size = 2131099903;
 			
 			// aapt resource value: 0x7F060100
-			public const int mtrl_extended_fab_elevation = 2131099904;
+			public const int mtrl_edittext_rectangle_top_offset = 2131099904;
 			
 			// aapt resource value: 0x7F060101
-			public const int mtrl_extended_fab_end_padding = 2131099905;
+			public const int mtrl_exposed_dropdown_menu_popup_elevation = 2131099905;
 			
 			// aapt resource value: 0x7F060102
-			public const int mtrl_extended_fab_end_padding_icon = 2131099906;
+			public const int mtrl_exposed_dropdown_menu_popup_vertical_offset = 2131099906;
 			
 			// aapt resource value: 0x7F060103
-			public const int mtrl_extended_fab_icon_size = 2131099907;
+			public const int mtrl_exposed_dropdown_menu_popup_vertical_padding = 2131099907;
 			
 			// aapt resource value: 0x7F060104
-			public const int mtrl_extended_fab_icon_text_spacing = 2131099908;
+			public const int mtrl_extended_fab_bottom_padding = 2131099908;
 			
 			// aapt resource value: 0x7F060105
-			public const int mtrl_extended_fab_min_height = 2131099909;
+			public const int mtrl_extended_fab_corner_radius = 2131099909;
 			
 			// aapt resource value: 0x7F060106
-			public const int mtrl_extended_fab_min_width = 2131099910;
+			public const int mtrl_extended_fab_disabled_elevation = 2131099910;
 			
 			// aapt resource value: 0x7F060107
-			public const int mtrl_extended_fab_start_padding = 2131099911;
+			public const int mtrl_extended_fab_disabled_translation_z = 2131099911;
 			
 			// aapt resource value: 0x7F060108
-			public const int mtrl_extended_fab_start_padding_icon = 2131099912;
+			public const int mtrl_extended_fab_elevation = 2131099912;
 			
 			// aapt resource value: 0x7F060109
-			public const int mtrl_extended_fab_top_padding = 2131099913;
+			public const int mtrl_extended_fab_end_padding = 2131099913;
 			
 			// aapt resource value: 0x7F06010A
-			public const int mtrl_extended_fab_translation_z_base = 2131099914;
+			public const int mtrl_extended_fab_end_padding_icon = 2131099914;
 			
 			// aapt resource value: 0x7F06010B
-			public const int mtrl_extended_fab_translation_z_hovered_focused = 2131099915;
+			public const int mtrl_extended_fab_icon_size = 2131099915;
 			
 			// aapt resource value: 0x7F06010C
-			public const int mtrl_extended_fab_translation_z_pressed = 2131099916;
+			public const int mtrl_extended_fab_icon_text_spacing = 2131099916;
 			
 			// aapt resource value: 0x7F06010D
-			public const int mtrl_fab_elevation = 2131099917;
+			public const int mtrl_extended_fab_min_height = 2131099917;
 			
 			// aapt resource value: 0x7F06010E
-			public const int mtrl_fab_min_touch_target = 2131099918;
+			public const int mtrl_extended_fab_min_width = 2131099918;
 			
 			// aapt resource value: 0x7F06010F
-			public const int mtrl_fab_translation_z_hovered_focused = 2131099919;
+			public const int mtrl_extended_fab_start_padding = 2131099919;
 			
 			// aapt resource value: 0x7F060110
-			public const int mtrl_fab_translation_z_pressed = 2131099920;
+			public const int mtrl_extended_fab_start_padding_icon = 2131099920;
 			
 			// aapt resource value: 0x7F060111
-			public const int mtrl_high_ripple_default_alpha = 2131099921;
+			public const int mtrl_extended_fab_top_padding = 2131099921;
 			
 			// aapt resource value: 0x7F060112
-			public const int mtrl_high_ripple_focused_alpha = 2131099922;
+			public const int mtrl_extended_fab_translation_z_base = 2131099922;
 			
 			// aapt resource value: 0x7F060113
-			public const int mtrl_high_ripple_hovered_alpha = 2131099923;
+			public const int mtrl_extended_fab_translation_z_hovered_focused = 2131099923;
 			
 			// aapt resource value: 0x7F060114
-			public const int mtrl_high_ripple_pressed_alpha = 2131099924;
+			public const int mtrl_extended_fab_translation_z_pressed = 2131099924;
 			
 			// aapt resource value: 0x7F060115
-			public const int mtrl_large_touch_target = 2131099925;
+			public const int mtrl_fab_elevation = 2131099925;
 			
 			// aapt resource value: 0x7F060116
-			public const int mtrl_low_ripple_default_alpha = 2131099926;
+			public const int mtrl_fab_min_touch_target = 2131099926;
 			
 			// aapt resource value: 0x7F060117
-			public const int mtrl_low_ripple_focused_alpha = 2131099927;
+			public const int mtrl_fab_translation_z_hovered_focused = 2131099927;
 			
 			// aapt resource value: 0x7F060118
-			public const int mtrl_low_ripple_hovered_alpha = 2131099928;
+			public const int mtrl_fab_translation_z_pressed = 2131099928;
 			
 			// aapt resource value: 0x7F060119
-			public const int mtrl_low_ripple_pressed_alpha = 2131099929;
+			public const int mtrl_high_ripple_default_alpha = 2131099929;
 			
 			// aapt resource value: 0x7F06011A
-			public const int mtrl_min_touch_target_size = 2131099930;
+			public const int mtrl_high_ripple_focused_alpha = 2131099930;
 			
 			// aapt resource value: 0x7F06011B
-			public const int mtrl_navigation_elevation = 2131099931;
+			public const int mtrl_high_ripple_hovered_alpha = 2131099931;
 			
 			// aapt resource value: 0x7F06011C
-			public const int mtrl_navigation_item_horizontal_padding = 2131099932;
+			public const int mtrl_high_ripple_pressed_alpha = 2131099932;
 			
 			// aapt resource value: 0x7F06011D
-			public const int mtrl_navigation_item_icon_padding = 2131099933;
+			public const int mtrl_large_touch_target = 2131099933;
 			
 			// aapt resource value: 0x7F06011E
-			public const int mtrl_navigation_item_icon_size = 2131099934;
+			public const int mtrl_low_ripple_default_alpha = 2131099934;
 			
 			// aapt resource value: 0x7F06011F
-			public const int mtrl_navigation_item_shape_horizontal_margin = 2131099935;
+			public const int mtrl_low_ripple_focused_alpha = 2131099935;
 			
 			// aapt resource value: 0x7F060120
-			public const int mtrl_navigation_item_shape_vertical_margin = 2131099936;
+			public const int mtrl_low_ripple_hovered_alpha = 2131099936;
 			
 			// aapt resource value: 0x7F060121
-			public const int mtrl_shape_corner_size_large_component = 2131099937;
+			public const int mtrl_low_ripple_pressed_alpha = 2131099937;
 			
 			// aapt resource value: 0x7F060122
-			public const int mtrl_shape_corner_size_medium_component = 2131099938;
+			public const int mtrl_min_touch_target_size = 2131099938;
 			
 			// aapt resource value: 0x7F060123
-			public const int mtrl_shape_corner_size_small_component = 2131099939;
+			public const int mtrl_navigation_elevation = 2131099939;
 			
 			// aapt resource value: 0x7F060124
-			public const int mtrl_slider_halo_radius = 2131099940;
+			public const int mtrl_navigation_item_horizontal_padding = 2131099940;
 			
 			// aapt resource value: 0x7F060125
-			public const int mtrl_slider_label_padding = 2131099941;
+			public const int mtrl_navigation_item_icon_padding = 2131099941;
 			
 			// aapt resource value: 0x7F060126
-			public const int mtrl_slider_label_radius = 2131099942;
+			public const int mtrl_navigation_item_icon_size = 2131099942;
 			
 			// aapt resource value: 0x7F060127
-			public const int mtrl_slider_label_square_side = 2131099943;
+			public const int mtrl_navigation_item_shape_horizontal_margin = 2131099943;
 			
 			// aapt resource value: 0x7F060128
-			public const int mtrl_slider_thumb_elevation = 2131099944;
+			public const int mtrl_navigation_item_shape_vertical_margin = 2131099944;
 			
 			// aapt resource value: 0x7F060129
-			public const int mtrl_slider_thumb_radius = 2131099945;
+			public const int mtrl_shape_corner_size_large_component = 2131099945;
 			
 			// aapt resource value: 0x7F06012A
-			public const int mtrl_slider_track_height = 2131099946;
+			public const int mtrl_shape_corner_size_medium_component = 2131099946;
 			
 			// aapt resource value: 0x7F06012B
-			public const int mtrl_slider_track_side_padding = 2131099947;
+			public const int mtrl_shape_corner_size_small_component = 2131099947;
 			
 			// aapt resource value: 0x7F06012C
-			public const int mtrl_slider_track_top = 2131099948;
+			public const int mtrl_slider_halo_radius = 2131099948;
 			
 			// aapt resource value: 0x7F06012D
-			public const int mtrl_slider_widget_height = 2131099949;
+			public const int mtrl_slider_label_padding = 2131099949;
 			
 			// aapt resource value: 0x7F06012E
-			public const int mtrl_snackbar_action_text_color_alpha = 2131099950;
+			public const int mtrl_slider_label_radius = 2131099950;
 			
 			// aapt resource value: 0x7F06012F
-			public const int mtrl_snackbar_background_corner_radius = 2131099951;
+			public const int mtrl_slider_label_square_side = 2131099951;
 			
 			// aapt resource value: 0x7F060130
-			public const int mtrl_snackbar_background_overlay_color_alpha = 2131099952;
+			public const int mtrl_slider_thumb_elevation = 2131099952;
 			
 			// aapt resource value: 0x7F060131
-			public const int mtrl_snackbar_margin = 2131099953;
+			public const int mtrl_slider_thumb_radius = 2131099953;
 			
 			// aapt resource value: 0x7F060132
-			public const int mtrl_switch_thumb_elevation = 2131099954;
+			public const int mtrl_slider_track_height = 2131099954;
 			
 			// aapt resource value: 0x7F060133
-			public const int mtrl_textinput_box_corner_radius_medium = 2131099955;
+			public const int mtrl_slider_track_side_padding = 2131099955;
 			
 			// aapt resource value: 0x7F060134
-			public const int mtrl_textinput_box_corner_radius_small = 2131099956;
+			public const int mtrl_slider_track_top = 2131099956;
 			
 			// aapt resource value: 0x7F060135
-			public const int mtrl_textinput_box_label_cutout_padding = 2131099957;
+			public const int mtrl_slider_widget_height = 2131099957;
 			
 			// aapt resource value: 0x7F060136
-			public const int mtrl_textinput_box_stroke_width_default = 2131099958;
+			public const int mtrl_snackbar_action_text_color_alpha = 2131099958;
 			
 			// aapt resource value: 0x7F060137
-			public const int mtrl_textinput_box_stroke_width_focused = 2131099959;
+			public const int mtrl_snackbar_background_corner_radius = 2131099959;
 			
 			// aapt resource value: 0x7F060138
-			public const int mtrl_textinput_counter_margin_start = 2131099960;
+			public const int mtrl_snackbar_background_overlay_color_alpha = 2131099960;
 			
 			// aapt resource value: 0x7F060139
-			public const int mtrl_textinput_end_icon_margin_start = 2131099961;
+			public const int mtrl_snackbar_margin = 2131099961;
 			
 			// aapt resource value: 0x7F06013A
-			public const int mtrl_textinput_outline_box_expanded_padding = 2131099962;
+			public const int mtrl_switch_thumb_elevation = 2131099962;
 			
 			// aapt resource value: 0x7F06013B
-			public const int mtrl_textinput_start_icon_margin_end = 2131099963;
+			public const int mtrl_textinput_box_corner_radius_medium = 2131099963;
 			
 			// aapt resource value: 0x7F06013C
-			public const int mtrl_toolbar_default_height = 2131099964;
+			public const int mtrl_textinput_box_corner_radius_small = 2131099964;
 			
 			// aapt resource value: 0x7F06013D
-			public const int mtrl_tooltip_arrowSize = 2131099965;
+			public const int mtrl_textinput_box_label_cutout_padding = 2131099965;
 			
 			// aapt resource value: 0x7F06013E
-			public const int mtrl_tooltip_cornerSize = 2131099966;
+			public const int mtrl_textinput_box_stroke_width_default = 2131099966;
 			
 			// aapt resource value: 0x7F06013F
-			public const int mtrl_tooltip_minHeight = 2131099967;
+			public const int mtrl_textinput_box_stroke_width_focused = 2131099967;
 			
 			// aapt resource value: 0x7F060140
-			public const int mtrl_tooltip_minWidth = 2131099968;
+			public const int mtrl_textinput_counter_margin_start = 2131099968;
 			
 			// aapt resource value: 0x7F060141
-			public const int mtrl_tooltip_padding = 2131099969;
+			public const int mtrl_textinput_end_icon_margin_start = 2131099969;
 			
 			// aapt resource value: 0x7F060142
-			public const int mtrl_transition_shared_axis_slide_distance = 2131099970;
+			public const int mtrl_textinput_outline_box_expanded_padding = 2131099970;
 			
 			// aapt resource value: 0x7F060143
-			public const int notification_action_icon_size = 2131099971;
+			public const int mtrl_textinput_start_icon_margin_end = 2131099971;
 			
 			// aapt resource value: 0x7F060144
-			public const int notification_action_text_size = 2131099972;
+			public const int mtrl_toolbar_default_height = 2131099972;
 			
 			// aapt resource value: 0x7F060145
-			public const int notification_big_circle_margin = 2131099973;
+			public const int mtrl_tooltip_arrowSize = 2131099973;
 			
 			// aapt resource value: 0x7F060146
-			public const int notification_content_margin_start = 2131099974;
+			public const int mtrl_tooltip_cornerSize = 2131099974;
 			
 			// aapt resource value: 0x7F060147
-			public const int notification_large_icon_height = 2131099975;
+			public const int mtrl_tooltip_minHeight = 2131099975;
 			
 			// aapt resource value: 0x7F060148
-			public const int notification_large_icon_width = 2131099976;
+			public const int mtrl_tooltip_minWidth = 2131099976;
 			
 			// aapt resource value: 0x7F060149
-			public const int notification_main_column_padding_top = 2131099977;
+			public const int mtrl_tooltip_padding = 2131099977;
 			
 			// aapt resource value: 0x7F06014A
-			public const int notification_media_narrow_margin = 2131099978;
+			public const int mtrl_transition_shared_axis_slide_distance = 2131099978;
 			
 			// aapt resource value: 0x7F06014B
-			public const int notification_right_icon_size = 2131099979;
+			public const int notification_action_icon_size = 2131099979;
 			
 			// aapt resource value: 0x7F06014C
-			public const int notification_right_side_padding_top = 2131099980;
+			public const int notification_action_text_size = 2131099980;
 			
 			// aapt resource value: 0x7F06014D
-			public const int notification_small_icon_background_padding = 2131099981;
+			public const int notification_big_circle_margin = 2131099981;
 			
 			// aapt resource value: 0x7F06014E
-			public const int notification_small_icon_size_as_large = 2131099982;
+			public const int notification_content_margin_start = 2131099982;
 			
 			// aapt resource value: 0x7F06014F
-			public const int notification_subtext_size = 2131099983;
+			public const int notification_large_icon_height = 2131099983;
 			
 			// aapt resource value: 0x7F060150
-			public const int notification_top_pad = 2131099984;
+			public const int notification_large_icon_width = 2131099984;
 			
 			// aapt resource value: 0x7F060151
-			public const int notification_top_pad_large_text = 2131099985;
+			public const int notification_main_column_padding_top = 2131099985;
 			
 			// aapt resource value: 0x7F060152
-			public const int test_mtrl_calendar_day_cornerSize = 2131099986;
+			public const int notification_media_narrow_margin = 2131099986;
 			
 			// aapt resource value: 0x7F060153
-			public const int tooltip_corner_radius = 2131099987;
+			public const int notification_right_icon_size = 2131099987;
 			
 			// aapt resource value: 0x7F060154
-			public const int tooltip_horizontal_padding = 2131099988;
+			public const int notification_right_side_padding_top = 2131099988;
 			
 			// aapt resource value: 0x7F060155
-			public const int tooltip_margin = 2131099989;
+			public const int notification_small_icon_background_padding = 2131099989;
 			
 			// aapt resource value: 0x7F060156
-			public const int tooltip_precise_anchor_extra_offset = 2131099990;
+			public const int notification_small_icon_size_as_large = 2131099990;
 			
 			// aapt resource value: 0x7F060157
-			public const int tooltip_precise_anchor_threshold = 2131099991;
+			public const int notification_subtext_size = 2131099991;
 			
 			// aapt resource value: 0x7F060158
-			public const int tooltip_vertical_padding = 2131099992;
+			public const int notification_top_pad = 2131099992;
 			
 			// aapt resource value: 0x7F060159
-			public const int tooltip_y_offset_non_touch = 2131099993;
+			public const int notification_top_pad_large_text = 2131099993;
 			
 			// aapt resource value: 0x7F06015A
-			public const int tooltip_y_offset_touch = 2131099994;
+			public const int test_mtrl_calendar_day_cornerSize = 2131099994;
+			
+			// aapt resource value: 0x7F06015B
+			public const int tooltip_corner_radius = 2131099995;
+			
+			// aapt resource value: 0x7F06015C
+			public const int tooltip_horizontal_padding = 2131099996;
+			
+			// aapt resource value: 0x7F06015D
+			public const int tooltip_margin = 2131099997;
+			
+			// aapt resource value: 0x7F06015E
+			public const int tooltip_precise_anchor_extra_offset = 2131099998;
+			
+			// aapt resource value: 0x7F06015F
+			public const int tooltip_precise_anchor_threshold = 2131099999;
+			
+			// aapt resource value: 0x7F060160
+			public const int tooltip_vertical_padding = 2131100000;
+			
+			// aapt resource value: 0x7F060161
+			public const int tooltip_y_offset_non_touch = 2131100001;
+			
+			// aapt resource value: 0x7F060162
+			public const int tooltip_y_offset_touch = 2131100002;
 			
 			static Dimension()
 			{
@@ -11632,160 +13626,262 @@ namespace TimeOryx.Droid
 			public const int abc_vector_test = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int avd_hide_password = 2131165276;
+			public const int Avatar1 = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int avd_show_password = 2131165277;
+			public const int Avatar10 = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int btn_checkbox_checked_mtrl = 2131165278;
+			public const int Avatar11 = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165279;
+			public const int Avatar12 = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int btn_checkbox_unchecked_mtrl = 2131165280;
+			public const int Avatar13 = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165281;
+			public const int Avatar14 = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int btn_radio_off_mtrl = 2131165282;
+			public const int Avatar15 = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int btn_radio_off_to_on_mtrl_animation = 2131165283;
+			public const int Avatar16 = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int btn_radio_on_mtrl = 2131165284;
+			public const int Avatar17 = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int btn_radio_on_to_off_mtrl_animation = 2131165285;
+			public const int Avatar18 = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int design_bottom_navigation_item_background = 2131165286;
+			public const int Avatar19 = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int design_fab_background = 2131165287;
+			public const int Avatar2 = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int design_ic_visibility = 2131165288;
+			public const int Avatar20 = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int design_ic_visibility_off = 2131165289;
+			public const int Avatar21 = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int design_password_eye = 2131165290;
+			public const int Avatar22 = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int design_snackbar_background = 2131165291;
+			public const int Avatar23 = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int ic_mtrl_checked_circle = 2131165292;
+			public const int Avatar24 = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int ic_mtrl_chip_checked_black = 2131165293;
+			public const int Avatar25 = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int ic_mtrl_chip_checked_circle = 2131165294;
+			public const int Avatar26 = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int ic_mtrl_chip_close_circle = 2131165295;
+			public const int Avatar27 = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int material_ic_calendar_black_24dp = 2131165296;
+			public const int Avatar28 = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int material_ic_clear_black_24dp = 2131165297;
+			public const int Avatar29 = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int material_ic_edit_black_24dp = 2131165298;
+			public const int Avatar3 = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165299;
+			public const int Avatar30 = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165300;
+			public const int Avatar4 = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int material_ic_menu_arrow_down_black_24dp = 2131165301;
+			public const int Avatar5 = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int material_ic_menu_arrow_up_black_24dp = 2131165302;
+			public const int Avatar6 = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int mtrl_dialog_background = 2131165303;
+			public const int Avatar7 = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int mtrl_dropdown_arrow = 2131165304;
+			public const int Avatar8 = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int mtrl_ic_arrow_drop_down = 2131165305;
+			public const int Avatar9 = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int mtrl_ic_arrow_drop_up = 2131165306;
+			public const int avd_hide_password = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int mtrl_ic_cancel = 2131165307;
+			public const int avd_show_password = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int mtrl_ic_error = 2131165308;
+			public const int btn_checkbox_checked_mtrl = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int mtrl_popupmenu_background = 2131165309;
+			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int mtrl_popupmenu_background_dark = 2131165310;
+			public const int btn_checkbox_unchecked_mtrl = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int mtrl_tabs_default_indicator = 2131165311;
+			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int navigation_empty_icon = 2131165312;
+			public const int btn_radio_off_mtrl = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int notification_action_background = 2131165313;
+			public const int btn_radio_off_to_on_mtrl_animation = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int notification_bg = 2131165314;
+			public const int btn_radio_on_mtrl = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int notification_bg_low = 2131165315;
+			public const int btn_radio_on_to_off_mtrl_animation = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int notification_bg_low_normal = 2131165316;
+			public const int clear_button_icon = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int notification_bg_low_pressed = 2131165317;
+			public const int design_bottom_navigation_item_background = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int notification_bg_normal = 2131165318;
+			public const int design_fab_background = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int notification_bg_normal_pressed = 2131165319;
+			public const int design_ic_visibility = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int notification_icon_background = 2131165320;
+			public const int design_ic_visibility_off = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int notification_template_icon_bg = 2131165321;
+			public const int design_password_eye = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int notification_template_icon_low_bg = 2131165322;
+			public const int design_snackbar_background = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int notification_tile_bg = 2131165323;
+			public const int ic_mtrl_checked_circle = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int notify_panel_notification_icon_bg = 2131165324;
+			public const int ic_mtrl_chip_checked_black = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int test_custom_background = 2131165325;
+			public const int ic_mtrl_chip_checked_circle = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int tooltip_frame_dark = 2131165326;
+			public const int ic_mtrl_chip_close_circle = 2131165326;
+			
+			// aapt resource value: 0x7F070090
+			public const int inputlayout_togglecollapseicon = 2131165328;
+			
+			// aapt resource value: 0x7F070091
+			public const int inputlayout_togglevisibleicon = 2131165329;
 			
 			// aapt resource value: 0x7F07008F
-			public const int tooltip_frame_light = 2131165327;
+			public const int input_layout_drop_down_icon = 2131165327;
+			
+			// aapt resource value: 0x7F070092
+			public const int material_ic_calendar_black_24dp = 2131165330;
+			
+			// aapt resource value: 0x7F070093
+			public const int material_ic_clear_black_24dp = 2131165331;
+			
+			// aapt resource value: 0x7F070094
+			public const int material_ic_edit_black_24dp = 2131165332;
+			
+			// aapt resource value: 0x7F070095
+			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165333;
+			
+			// aapt resource value: 0x7F070096
+			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165334;
+			
+			// aapt resource value: 0x7F070097
+			public const int material_ic_menu_arrow_down_black_24dp = 2131165335;
+			
+			// aapt resource value: 0x7F070098
+			public const int material_ic_menu_arrow_up_black_24dp = 2131165336;
+			
+			// aapt resource value: 0x7F070099
+			public const int mtrl_dialog_background = 2131165337;
+			
+			// aapt resource value: 0x7F07009A
+			public const int mtrl_dropdown_arrow = 2131165338;
+			
+			// aapt resource value: 0x7F07009B
+			public const int mtrl_ic_arrow_drop_down = 2131165339;
+			
+			// aapt resource value: 0x7F07009C
+			public const int mtrl_ic_arrow_drop_up = 2131165340;
+			
+			// aapt resource value: 0x7F07009D
+			public const int mtrl_ic_cancel = 2131165341;
+			
+			// aapt resource value: 0x7F07009E
+			public const int mtrl_ic_error = 2131165342;
+			
+			// aapt resource value: 0x7F07009F
+			public const int mtrl_popupmenu_background = 2131165343;
+			
+			// aapt resource value: 0x7F0700A0
+			public const int mtrl_popupmenu_background_dark = 2131165344;
+			
+			// aapt resource value: 0x7F0700A1
+			public const int mtrl_tabs_default_indicator = 2131165345;
+			
+			// aapt resource value: 0x7F0700A2
+			public const int navigation_empty_icon = 2131165346;
+			
+			// aapt resource value: 0x7F0700A3
+			public const int notification_action_background = 2131165347;
+			
+			// aapt resource value: 0x7F0700A4
+			public const int notification_bg = 2131165348;
+			
+			// aapt resource value: 0x7F0700A5
+			public const int notification_bg_low = 2131165349;
+			
+			// aapt resource value: 0x7F0700A6
+			public const int notification_bg_low_normal = 2131165350;
+			
+			// aapt resource value: 0x7F0700A7
+			public const int notification_bg_low_pressed = 2131165351;
+			
+			// aapt resource value: 0x7F0700A8
+			public const int notification_bg_normal = 2131165352;
+			
+			// aapt resource value: 0x7F0700A9
+			public const int notification_bg_normal_pressed = 2131165353;
+			
+			// aapt resource value: 0x7F0700AA
+			public const int notification_icon_background = 2131165354;
+			
+			// aapt resource value: 0x7F0700AB
+			public const int notification_template_icon_bg = 2131165355;
+			
+			// aapt resource value: 0x7F0700AC
+			public const int notification_template_icon_low_bg = 2131165356;
+			
+			// aapt resource value: 0x7F0700AD
+			public const int notification_tile_bg = 2131165357;
+			
+			// aapt resource value: 0x7F0700AE
+			public const int notify_panel_notification_icon_bg = 2131165358;
+			
+			// aapt resource value: 0x7F0700AF
+			public const int test_custom_background = 2131165359;
+			
+			// aapt resource value: 0x7F0700B0
+			public const int tooltip_frame_dark = 2131165360;
+			
+			// aapt resource value: 0x7F0700B1
+			public const int tooltip_frame_light = 2131165361;
 			
 			static Drawable()
 			{
@@ -13282,275 +15378,290 @@ namespace TimeOryx.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F0E0000
-			public const int abc_action_bar_home_description = 2131623936;
-			
-			// aapt resource value: 0x7F0E0001
-			public const int abc_action_bar_up_description = 2131623937;
-			
-			// aapt resource value: 0x7F0E0002
-			public const int abc_action_menu_overflow_description = 2131623938;
-			
 			// aapt resource value: 0x7F0E0003
-			public const int abc_action_mode_done = 2131623939;
-			
-			// aapt resource value: 0x7F0E0005
-			public const int abc_activitychooserview_choose_application = 2131623941;
+			public const int abc_action_bar_home_description = 2131623939;
 			
 			// aapt resource value: 0x7F0E0004
-			public const int abc_activity_chooser_view_see_all = 2131623940;
+			public const int abc_action_bar_up_description = 2131623940;
+			
+			// aapt resource value: 0x7F0E0005
+			public const int abc_action_menu_overflow_description = 2131623941;
 			
 			// aapt resource value: 0x7F0E0006
-			public const int abc_capital_off = 2131623942;
-			
-			// aapt resource value: 0x7F0E0007
-			public const int abc_capital_on = 2131623943;
+			public const int abc_action_mode_done = 2131623942;
 			
 			// aapt resource value: 0x7F0E0008
-			public const int abc_menu_alt_shortcut_label = 2131623944;
+			public const int abc_activitychooserview_choose_application = 2131623944;
+			
+			// aapt resource value: 0x7F0E0007
+			public const int abc_activity_chooser_view_see_all = 2131623943;
 			
 			// aapt resource value: 0x7F0E0009
-			public const int abc_menu_ctrl_shortcut_label = 2131623945;
+			public const int abc_capital_off = 2131623945;
 			
 			// aapt resource value: 0x7F0E000A
-			public const int abc_menu_delete_shortcut_label = 2131623946;
+			public const int abc_capital_on = 2131623946;
 			
 			// aapt resource value: 0x7F0E000B
-			public const int abc_menu_enter_shortcut_label = 2131623947;
+			public const int abc_menu_alt_shortcut_label = 2131623947;
 			
 			// aapt resource value: 0x7F0E000C
-			public const int abc_menu_function_shortcut_label = 2131623948;
+			public const int abc_menu_ctrl_shortcut_label = 2131623948;
 			
 			// aapt resource value: 0x7F0E000D
-			public const int abc_menu_meta_shortcut_label = 2131623949;
+			public const int abc_menu_delete_shortcut_label = 2131623949;
 			
 			// aapt resource value: 0x7F0E000E
-			public const int abc_menu_shift_shortcut_label = 2131623950;
+			public const int abc_menu_enter_shortcut_label = 2131623950;
 			
 			// aapt resource value: 0x7F0E000F
-			public const int abc_menu_space_shortcut_label = 2131623951;
+			public const int abc_menu_function_shortcut_label = 2131623951;
 			
 			// aapt resource value: 0x7F0E0010
-			public const int abc_menu_sym_shortcut_label = 2131623952;
+			public const int abc_menu_meta_shortcut_label = 2131623952;
 			
 			// aapt resource value: 0x7F0E0011
-			public const int abc_prepend_shortcut_label = 2131623953;
-			
-			// aapt resource value: 0x7F0E0013
-			public const int abc_searchview_description_clear = 2131623955;
-			
-			// aapt resource value: 0x7F0E0014
-			public const int abc_searchview_description_query = 2131623956;
-			
-			// aapt resource value: 0x7F0E0015
-			public const int abc_searchview_description_search = 2131623957;
-			
-			// aapt resource value: 0x7F0E0016
-			public const int abc_searchview_description_submit = 2131623958;
-			
-			// aapt resource value: 0x7F0E0017
-			public const int abc_searchview_description_voice = 2131623959;
+			public const int abc_menu_shift_shortcut_label = 2131623953;
 			
 			// aapt resource value: 0x7F0E0012
-			public const int abc_search_hint = 2131623954;
+			public const int abc_menu_space_shortcut_label = 2131623954;
+			
+			// aapt resource value: 0x7F0E0013
+			public const int abc_menu_sym_shortcut_label = 2131623955;
+			
+			// aapt resource value: 0x7F0E0014
+			public const int abc_prepend_shortcut_label = 2131623956;
+			
+			// aapt resource value: 0x7F0E0016
+			public const int abc_searchview_description_clear = 2131623958;
+			
+			// aapt resource value: 0x7F0E0017
+			public const int abc_searchview_description_query = 2131623959;
 			
 			// aapt resource value: 0x7F0E0018
-			public const int abc_shareactionprovider_share_with = 2131623960;
+			public const int abc_searchview_description_search = 2131623960;
 			
 			// aapt resource value: 0x7F0E0019
-			public const int abc_shareactionprovider_share_with_application = 2131623961;
+			public const int abc_searchview_description_submit = 2131623961;
 			
 			// aapt resource value: 0x7F0E001A
-			public const int abc_toolbar_collapse_description = 2131623962;
+			public const int abc_searchview_description_voice = 2131623962;
+			
+			// aapt resource value: 0x7F0E0015
+			public const int abc_search_hint = 2131623957;
 			
 			// aapt resource value: 0x7F0E001B
-			public const int appbar_scrolling_view_behavior = 2131623963;
+			public const int abc_shareactionprovider_share_with = 2131623963;
 			
 			// aapt resource value: 0x7F0E001C
-			public const int bottom_sheet_behavior = 2131623964;
+			public const int abc_shareactionprovider_share_with_application = 2131623964;
 			
 			// aapt resource value: 0x7F0E001D
-			public const int character_counter_content_description = 2131623965;
+			public const int abc_toolbar_collapse_description = 2131623965;
 			
 			// aapt resource value: 0x7F0E001E
-			public const int character_counter_overflowed_content_description = 2131623966;
+			public const int appbar_scrolling_view_behavior = 2131623966;
+			
+			// aapt resource value: 0x7F0E0000
+			public const int ApplicationName = 2131623936;
 			
 			// aapt resource value: 0x7F0E001F
-			public const int character_counter_pattern = 2131623967;
+			public const int bottom_sheet_behavior = 2131623967;
 			
 			// aapt resource value: 0x7F0E0020
-			public const int chip_text = 2131623968;
+			public const int character_counter_content_description = 2131623968;
 			
 			// aapt resource value: 0x7F0E0021
-			public const int clear_text_end_icon_content_description = 2131623969;
+			public const int character_counter_overflowed_content_description = 2131623969;
 			
 			// aapt resource value: 0x7F0E0022
-			public const int copy_toast_msg = 2131623970;
+			public const int character_counter_pattern = 2131623970;
 			
 			// aapt resource value: 0x7F0E0023
-			public const int error_icon_content_description = 2131623971;
+			public const int chip_text = 2131623971;
 			
 			// aapt resource value: 0x7F0E0024
-			public const int exposed_dropdown_menu_content_description = 2131623972;
+			public const int clear_text_end_icon_content_description = 2131623972;
 			
 			// aapt resource value: 0x7F0E0025
-			public const int fab_transformation_scrim_behavior = 2131623973;
+			public const int copy_toast_msg = 2131623973;
 			
 			// aapt resource value: 0x7F0E0026
-			public const int fab_transformation_sheet_behavior = 2131623974;
+			public const int error_icon_content_description = 2131623974;
 			
 			// aapt resource value: 0x7F0E0027
-			public const int fallback_menu_item_copy_link = 2131623975;
+			public const int exposed_dropdown_menu_content_description = 2131623975;
 			
 			// aapt resource value: 0x7F0E0028
-			public const int fallback_menu_item_open_in_browser = 2131623976;
+			public const int fab_transformation_scrim_behavior = 2131623976;
 			
 			// aapt resource value: 0x7F0E0029
-			public const int fallback_menu_item_share_link = 2131623977;
+			public const int fab_transformation_sheet_behavior = 2131623977;
 			
 			// aapt resource value: 0x7F0E002A
-			public const int hide_bottom_view_on_scroll_behavior = 2131623978;
+			public const int fallback_menu_item_copy_link = 2131623978;
 			
 			// aapt resource value: 0x7F0E002B
-			public const int icon_content_description = 2131623979;
+			public const int fallback_menu_item_open_in_browser = 2131623979;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int item_view_role_description = 2131623980;
+			public const int fallback_menu_item_share_link = 2131623980;
+			
+			// aapt resource value: 0x7F0E0001
+			public const int Hello = 2131623937;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int material_slider_range_end = 2131623981;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int material_slider_range_start = 2131623982;
+			public const int icon_content_description = 2131623982;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int mtrl_badge_numberless_content_description = 2131623983;
+			public const int item_view_role_description = 2131623983;
+			
+			// aapt resource value: 0x7F0E0002
+			public const int Load_More = 2131623938;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int mtrl_chip_close_icon_content_description = 2131623984;
+			public const int material_slider_range_end = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int mtrl_exceed_max_badge_number_content_description = 2131623985;
+			public const int material_slider_range_start = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int mtrl_exceed_max_badge_number_suffix = 2131623986;
+			public const int mtrl_badge_numberless_content_description = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int mtrl_picker_a11y_next_month = 2131623987;
+			public const int mtrl_chip_close_icon_content_description = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int mtrl_picker_a11y_prev_month = 2131623988;
+			public const int mtrl_exceed_max_badge_number_content_description = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int mtrl_picker_announce_current_selection = 2131623989;
+			public const int mtrl_exceed_max_badge_number_suffix = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int mtrl_picker_cancel = 2131623990;
+			public const int mtrl_picker_a11y_next_month = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int mtrl_picker_confirm = 2131623991;
+			public const int mtrl_picker_a11y_prev_month = 2131623991;
 			
 			// aapt resource value: 0x7F0E0038
-			public const int mtrl_picker_date_header_selected = 2131623992;
+			public const int mtrl_picker_announce_current_selection = 2131623992;
 			
 			// aapt resource value: 0x7F0E0039
-			public const int mtrl_picker_date_header_title = 2131623993;
+			public const int mtrl_picker_cancel = 2131623993;
 			
 			// aapt resource value: 0x7F0E003A
-			public const int mtrl_picker_date_header_unselected = 2131623994;
+			public const int mtrl_picker_confirm = 2131623994;
 			
 			// aapt resource value: 0x7F0E003B
-			public const int mtrl_picker_day_of_week_column_header = 2131623995;
+			public const int mtrl_picker_date_header_selected = 2131623995;
 			
 			// aapt resource value: 0x7F0E003C
-			public const int mtrl_picker_invalid_format = 2131623996;
+			public const int mtrl_picker_date_header_title = 2131623996;
 			
 			// aapt resource value: 0x7F0E003D
-			public const int mtrl_picker_invalid_format_example = 2131623997;
+			public const int mtrl_picker_date_header_unselected = 2131623997;
 			
 			// aapt resource value: 0x7F0E003E
-			public const int mtrl_picker_invalid_format_use = 2131623998;
+			public const int mtrl_picker_day_of_week_column_header = 2131623998;
 			
 			// aapt resource value: 0x7F0E003F
-			public const int mtrl_picker_invalid_range = 2131623999;
+			public const int mtrl_picker_invalid_format = 2131623999;
 			
 			// aapt resource value: 0x7F0E0040
-			public const int mtrl_picker_navigate_to_year_description = 2131624000;
+			public const int mtrl_picker_invalid_format_example = 2131624000;
 			
 			// aapt resource value: 0x7F0E0041
-			public const int mtrl_picker_out_of_range = 2131624001;
+			public const int mtrl_picker_invalid_format_use = 2131624001;
 			
 			// aapt resource value: 0x7F0E0042
-			public const int mtrl_picker_range_header_only_end_selected = 2131624002;
+			public const int mtrl_picker_invalid_range = 2131624002;
 			
 			// aapt resource value: 0x7F0E0043
-			public const int mtrl_picker_range_header_only_start_selected = 2131624003;
+			public const int mtrl_picker_navigate_to_year_description = 2131624003;
 			
 			// aapt resource value: 0x7F0E0044
-			public const int mtrl_picker_range_header_selected = 2131624004;
+			public const int mtrl_picker_out_of_range = 2131624004;
 			
 			// aapt resource value: 0x7F0E0045
-			public const int mtrl_picker_range_header_title = 2131624005;
+			public const int mtrl_picker_range_header_only_end_selected = 2131624005;
 			
 			// aapt resource value: 0x7F0E0046
-			public const int mtrl_picker_range_header_unselected = 2131624006;
+			public const int mtrl_picker_range_header_only_start_selected = 2131624006;
 			
 			// aapt resource value: 0x7F0E0047
-			public const int mtrl_picker_save = 2131624007;
+			public const int mtrl_picker_range_header_selected = 2131624007;
 			
 			// aapt resource value: 0x7F0E0048
-			public const int mtrl_picker_text_input_date_hint = 2131624008;
+			public const int mtrl_picker_range_header_title = 2131624008;
 			
 			// aapt resource value: 0x7F0E0049
-			public const int mtrl_picker_text_input_date_range_end_hint = 2131624009;
+			public const int mtrl_picker_range_header_unselected = 2131624009;
 			
 			// aapt resource value: 0x7F0E004A
-			public const int mtrl_picker_text_input_date_range_start_hint = 2131624010;
+			public const int mtrl_picker_save = 2131624010;
 			
 			// aapt resource value: 0x7F0E004B
-			public const int mtrl_picker_text_input_day_abbr = 2131624011;
+			public const int mtrl_picker_text_input_date_hint = 2131624011;
 			
 			// aapt resource value: 0x7F0E004C
-			public const int mtrl_picker_text_input_month_abbr = 2131624012;
+			public const int mtrl_picker_text_input_date_range_end_hint = 2131624012;
 			
 			// aapt resource value: 0x7F0E004D
-			public const int mtrl_picker_text_input_year_abbr = 2131624013;
+			public const int mtrl_picker_text_input_date_range_start_hint = 2131624013;
 			
 			// aapt resource value: 0x7F0E004E
-			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624014;
+			public const int mtrl_picker_text_input_day_abbr = 2131624014;
 			
 			// aapt resource value: 0x7F0E004F
-			public const int mtrl_picker_toggle_to_day_selection = 2131624015;
+			public const int mtrl_picker_text_input_month_abbr = 2131624015;
 			
 			// aapt resource value: 0x7F0E0050
-			public const int mtrl_picker_toggle_to_text_input_mode = 2131624016;
+			public const int mtrl_picker_text_input_year_abbr = 2131624016;
 			
 			// aapt resource value: 0x7F0E0051
-			public const int mtrl_picker_toggle_to_year_selection = 2131624017;
+			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624017;
 			
 			// aapt resource value: 0x7F0E0052
-			public const int overflow_tab_title = 2131624018;
+			public const int mtrl_picker_toggle_to_day_selection = 2131624018;
 			
 			// aapt resource value: 0x7F0E0053
-			public const int password_toggle_content_description = 2131624019;
+			public const int mtrl_picker_toggle_to_text_input_mode = 2131624019;
 			
 			// aapt resource value: 0x7F0E0054
-			public const int path_password_eye = 2131624020;
+			public const int mtrl_picker_toggle_to_year_selection = 2131624020;
 			
 			// aapt resource value: 0x7F0E0055
-			public const int path_password_eye_mask_strike_through = 2131624021;
+			public const int overflow_tab_title = 2131624021;
 			
 			// aapt resource value: 0x7F0E0056
-			public const int path_password_eye_mask_visible = 2131624022;
+			public const int password_toggle_content_description = 2131624022;
 			
 			// aapt resource value: 0x7F0E0057
-			public const int path_password_strike_through = 2131624023;
+			public const int path_password_eye = 2131624023;
 			
 			// aapt resource value: 0x7F0E0058
-			public const int search_menu_title = 2131624024;
+			public const int path_password_eye_mask_strike_through = 2131624024;
 			
 			// aapt resource value: 0x7F0E0059
-			public const int status_bar_notification_info_overflow = 2131624025;
+			public const int path_password_eye_mask_visible = 2131624025;
+			
+			// aapt resource value: 0x7F0E005A
+			public const int path_password_strike_through = 2131624026;
+			
+			// aapt resource value: 0x7F0E005B
+			public const int search_menu_title = 2131624027;
+			
+			// aapt resource value: 0x7F0E005C
+			public const int sfcalendar_inlineviewalldaytext = 2131624028;
+			
+			// aapt resource value: 0x7F0E005D
+			public const int sfcalendar_inlineviewnoappointmenttext = 2131624029;
+			
+			// aapt resource value: 0x7F0E005E
+			public const int status_bar_notification_info_overflow = 2131624030;
 			
 			static String()
 			{

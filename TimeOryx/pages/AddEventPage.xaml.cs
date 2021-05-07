@@ -22,7 +22,8 @@ namespace TimeOryx
             StreamWriter teStreamWriter;
             _tempdolist[0] = Entry.Text;
             _tempdolist[1] = Editor.Text;
-           
+            _tempdolist[2] = DatePicker.Date.ToString("d");
+            _tempdolist[3] = TimePicker.Time.ToString("c");
             if (Box.IsChecked)
             {
                 _tempdolist[4] = Convert.ToString(DatePickerEnd.Date);
@@ -63,7 +64,7 @@ namespace TimeOryx
 
         private void DatePicker_OnDateSelected(object sender, DateChangedEventArgs e)
         {
-            _tempdolist[2] = e.NewDate.ToString("dd/MM/yyyy");
+            _tempdolist[2] = e.NewDate.ToString("d");
         }
 
         private void TimePicker_OnPropertyChanged(object sender, PropertyChangedEventArgs e)
