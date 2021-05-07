@@ -9,7 +9,7 @@ namespace TimeOryx
         public App()
         {
             InitializeComponent();
-
+            
             MainPage = new MainPage();
         }
 

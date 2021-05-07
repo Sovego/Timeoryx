@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Xamarin.Forms;
 
-namespace TimeOryx
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace TimeOryx.pages
 {
-    public partial class MainPage : ContentPage
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class StatPage : ContentPage
     {
-        public MainPage()
+        public StatPage()
         {
             InitializeComponent();
         }
