@@ -1,12 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:TimeOryx;assembly=TimeOryx"
-             xmlns:views="clr-namespace:TimeOryx.views;assembly=TimeOryx"
-             x:Class="TimeOryx.CalendarPage">
+             x:Class="TimeOryx.pages.SelectDone">
     <ContentPage.Content>
-        <StackLayout>
-            <views:Calendar></views:Calendar>
+        <StackLayout x:Name="StackLayout">
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

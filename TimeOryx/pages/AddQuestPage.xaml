@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TimeOryx.AddQuestPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <TableView Intent="Form" HasUnevenRows="True">
+                <TableView.Root>
+                    <TableRoot>
+                        <TableSection Title="Название и описание">
+                            <EntryCell x:Name="NameCell" Label="Название" Placeholder="Введите название"></EntryCell>
+                            <EntryCell x:Name="DescriptionCell" Label="Описание" Placeholder="Введите описание"></EntryCell>
+                        </TableSection>
+                        <TableSection Title="Ограничения по времени">
+                            <SwitchCell Text="Добавить ограничения по времени" OnChanged="SwitchCell_OnOnChanged"></SwitchCell>
+                            <ViewCell>
+                                <ViewCell.View>
+                                    <StackLayout x:Name="StackLayout" IsVisible="False">
+                                    <Label Text="Дата начала"></Label>
+                                    <DatePicker x:Name="DatePickerStart"></DatePicker>
+                                    <Label Text="Дата конца"></Label>
+                                    <DatePicker x:Name="DatePickerEnd"></DatePicker>
+                                    </StackLayout>
+                                </ViewCell.View>
+                                
+                            </ViewCell>
+                        </TableSection>
+                    </TableRoot>
+                </TableView.Root>
+            </TableView>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Сохранить" Clicked="Save"></Button>
+                <Button Text="Отмена"></Button>
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TimeOryx;assembly=TimeOryx"
+             xmlns:views="clr-namespace:TimeOryx.views;assembly=TimeOryx"
              x:DataType="local:TodoListPage"
              x:Class="TimeOryx.TodoListPage">
     <ContentPage.Resources>
@@ -16,8 +17,8 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Order="Secondary" Text="Добавить цель" Clicked="MenuItem_OnClicked"></ToolbarItem>
-        <ToolbarItem Order="Primary" Text="Настройки"></ToolbarItem>
+        <ToolbarItem Order="Primary" Text="Добавить задачу" Clicked="MenuItem_OnClicked"></ToolbarItem>
+        <ToolbarItem Order="Secondary" Text="Отметить выполненные" Clicked="SelectDone"></ToolbarItem>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout x:Name="StackLayout">
