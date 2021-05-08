@@ -4,7 +4,7 @@
              xmlns:views="clr-namespace:TimeOryx;assembly=TimeOryx"
              x:Class="TimeOryx.MainPage" 
              
-             BackgroundColor="#7b7b7b">
+             BackgroundColor="#494949">
     
     <FlyoutItem Title="Календарь">
         <Tab>

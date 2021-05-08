@@ -5,10 +5,12 @@ using System.Collections.Specialized;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
+using Syncfusion.ListView.XForms;
 using TimeOryx.pages;
 using TimeOryx.views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using ItemTappedEventArgs = Xamarin.Forms.ItemTappedEventArgs;
 
 
 namespace TimeOryx
@@ -27,29 +29,28 @@ namespace TimeOryx
         {
             InitializeComponent();
             ToDoLists = new ObservableCollection<DoList>();
-            ListView listView = new ListView
+            SfListView listView = new SfListView 
             {
-                HasUnevenRows = true,
                 // Определяем источник данных
                 ItemsSource = ToDoLists,
- 
+                ItemSpacing = new Thickness(0,5),
                 // Определяем формат отображения данных
                 ItemTemplate = new DataTemplate(() =>
                 {
                     // привязка к свойству Title
-                    Label titleLabel = new Label { FontSize=18};
+                    Label titleLabel = new Label { FontSize=24, HorizontalOptions = LayoutOptions.CenterAndExpand};
                     titleLabel.TextColor= Color.AliceBlue;
                     titleLabel.SetBinding(Label.TextProperty, "Name");
-                    Label timeLabel = new Label { FontSize=18};
+                    Label timeLabel = new Label { FontSize=24,HorizontalOptions = LayoutOptions.CenterAndExpand};
                     timeLabel.TextColor= Color.AliceBlue;
-                    timeLabel.SetBinding(Label.TextProperty, "Time");
+                    timeLabel.SetBinding(Label.TextProperty, "Time" );
                     // создаем объект ViewCell.
                     return new ViewCell
                     {
                         View = new StackLayout
                         {
-                            BackgroundColor = Color.Black,
-                            Padding = new Thickness(0, 5),
+                            BackgroundColor = Color.FromHex("#8e8e8e"),
+                            Padding = new Thickness(0, 0),
                             Orientation = StackOrientation.Vertical,
                             Children = { titleLabel,timeLabel}
                         }
@@ -60,9 +61,9 @@ namespace TimeOryx
             StackLayout.Children.Insert(0,listView);
         }
 
-        private void ListViewOnItemTapped(object sender, ItemTappedEventArgs e)
+        private void ListViewOnItemTapped(object sender, Syncfusion.ListView.XForms.ItemTappedEventArgs e)
         {
-            DoList tempDoList = (DoList)e.Item;
+            DoList tempDoList = (DoList) e.ItemData;
             string temps="";
             if (tempDoList.Description == String.Empty)
             {
@@ -72,9 +73,9 @@ namespace TimeOryx
             {
                 temps += "Описание "+ tempDoList.Description +"\n";
             }
-            temps += "Время " + tempDoList.Time + "\n";
             DisplayAlert(tempDoList.Name, temps, "Ok");
         }
+
 
         protected override void OnAppearing()
         {
@@ -116,6 +117,13 @@ namespace TimeOryx
         {
            // ToDoLists.Add(tempdolist);
             Calendar.CalendarEvents.Add(tempdolist);
+            Refresh();
+        }
+
+        public static void RemoveTask()
+        {
+            Calendar.CalendarEvents.Clear();
+            Calendar.ReadCalendar();
             Refresh();
         }
         private void MenuItem_OnClicked(object sender, EventArgs e)

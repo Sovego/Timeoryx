@@ -1,28 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
              x:Class="TimeOryx.AddEventPage">
     <ContentPage.Content>
-        <StackLayout>
-            <StackLayout Padding="0,20,0,0">
-            <Entry Placeholder="Введите название цели" x:Name="Entry"></Entry>
-                <Editor Placeholder="Введите описание цели" x:Name="Editor"></Editor>
-                <Label Text="Выберите дату" FontSize="20"></Label>
-                
-                <DatePicker x:Name="DatePicker" DateSelected="DatePicker_OnDateSelected"></DatePicker>
-                <StackLayout Orientation="Horizontal">
-                    <CheckBox CheckedChanged="CBox_OnCheckedChanged" x:Name="Box"></CheckBox>
-                    <Label Text="Выбрать дату окончания" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="14"></Label>
-                </StackLayout>
-                <DatePicker x:Name="DatePickerEnd" IsVisible="False" Date="11/11/1111"></DatePicker>
-                <TimePicker x:Name="TimePicker" Format="hh.mm" PropertyChanged="TimePicker_OnPropertyChanged" ></TimePicker>
+        <StackLayout BackgroundColor="#757575">
+        <TableView BackgroundColor="#757575" Intent="Form" HasUnevenRows="True">
+            <TableView.Root>
+                <TableRoot>
+                    <TableSection>
+                        <ViewCell>
+                            <StackLayout Orientation="Vertical">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Название" FontSize="20" TextColor="AliceBlue" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                                    <Entry x:Name="Entry" TextColor="AliceBlue" Placeholder="Введите название" PlaceholderColor="AliceBlue" HorizontalOptions="FillAndExpand"></Entry>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label FontSize="20" Text="Описание" TextColor="AliceBlue" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                                    <Editor x:Name="Editor" TextColor="AliceBlue" Placeholder="Введите описание" PlaceholderColor="AliceBlue" HorizontalOptions="FillAndExpand"></Editor>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </TableSection>
+                    <TableSection>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="Выберите дату" FontSize="20" TextColor="AliceBlue"></Label>
+                                <DatePicker x:Name="DatePicker" DateSelected="DatePicker_OnDateSelected" TextColor="AliceBlue"></DatePicker>
+                            </StackLayout>
+                        </ViewCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView.Root>
+            </TableView>
+            <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal" Padding="3,0,3,0" BackgroundColor="#757575">
+                <buttons:SfButton x:Name="Save" Text="Сохранить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#494949" Clicked="Save_OnClicked"></buttons:SfButton>
+                <buttons:SfButton x:Name="Cancel"  Text="Отменить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#494949" Clicked="Cancel_OnClicked"></buttons:SfButton>
             </StackLayout>
-            <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal">
-                <Button x:Name="Save" Text="Сохранить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" Clicked="Save_OnClicked"></Button>
-                <Button x:Name="Cancel"  Text="Отменить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" Clicked="Cancel_OnClicked"></Button>
-            </StackLayout>
-
         </StackLayout>
-
     </ContentPage.Content>
 </ContentPage>

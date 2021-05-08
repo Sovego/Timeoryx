@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.IO;
+using Syncfusion.ListView.XForms;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using ItemTappedEventArgs = Xamarin.Forms.ItemTappedEventArgs;
 
 namespace TimeOryx
 {
@@ -16,22 +18,23 @@ namespace TimeOryx
         {
             InitializeComponent();
             QuestsList = new ObservableCollection<Quests>();
-            ListView listView = new ListView
+            SfListView listView = new SfListView
             {
-                HasUnevenRows = true,
+                ItemSpacing = new Thickness(0,5),
                 // Определяем источник данных
                 ItemsSource = QuestsList,             
                 // Определяем формат отображения данных
                 ItemTemplate = new DataTemplate(() =>
                 {
                     Label titleLabel = new Label { FontSize=18};
-                    titleLabel.TextColor = Color.Black;
+                    titleLabel.TextColor = Color.FromHex("#ffffff");
                     titleLabel.SetBinding(Label.TextProperty, "Title");
                     // создаем объект ViewCell.
                     return new ViewCell
                     {
                         View = new StackLayout
                         {
+                            BackgroundColor = Color.FromHex("#8e8e8e"),
                             Padding = new Thickness(0, 5),
                             Orientation = StackOrientation.Vertical,
                             Children = { titleLabel}
@@ -41,6 +44,15 @@ namespace TimeOryx
             };
             listView.ItemTapped += ListViewOnItemTapped;
             StackLayout.Children.Add(listView);
+        }
+
+        private void ListViewOnItemTapped(object sender, Syncfusion.ListView.XForms.ItemTappedEventArgs e)
+        {
+            Quests teQuests = (Quests)e.ItemData;
+            string message = "";
+            message += "Описание " + teQuests.Task + "\n";
+            message += "Срок " + teQuests.DateStart + " - " + teQuests.DateEnd + "\n";
+            DisplayAlert(teQuests.Title, message, "Ok");
         }
 
         protected override void OnAppearing()
@@ -80,14 +92,7 @@ namespace TimeOryx
         {
             QuestsList.Add(teQuests);
         }
-        private void ListViewOnItemTapped(object sender, ItemTappedEventArgs e)
-        {
-            Quests teQuests = (Quests)e.Item;
-            string message = "";
-            message += "Описание " + teQuests.Task + "\n";
-            message += "Срок " + teQuests.DateStart + " - " + teQuests.DateEnd + "\n";
-            DisplayAlert(teQuests.Title, message, "Ok");
-        }
+        
 
 
         private void MenuItem_OnClicked(object sender, EventArgs e)

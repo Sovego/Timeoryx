@@ -21,8 +21,8 @@
         <ToolbarItem Order="Secondary" Text="Отметить выполненные" Clicked="SelectDone"></ToolbarItem>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
-        <StackLayout x:Name="StackLayout">
-            <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand" BackgroundColor="#7b7b7b" >
+        <StackLayout x:Name="StackLayout" BackgroundColor="#757575">
+            <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand" BackgroundColor="#494949" >
                 <local:CalendarMini ></local:CalendarMini> 
             </StackLayout>
     </StackLayout>

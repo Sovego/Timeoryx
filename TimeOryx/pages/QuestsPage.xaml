@@ -7,7 +7,7 @@
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         
-        <StackLayout x:Name="StackLayout">
+        <StackLayout x:Name="StackLayout" BackgroundColor="#757575">
             
         </StackLayout>
     </ContentPage.Content>
