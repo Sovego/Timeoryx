@@ -20,5 +20,13 @@
         </Tab>
         
     </FlyoutItem>
+    <FlyoutItem Title="Список целей">
+        <Tab>
+            <ShellContent ContentTemplate="{DataTemplate views:QuestsPage}">
+           
+            </ShellContent>
+        </Tab>
+        
+    </FlyoutItem>
     
 </Shell>

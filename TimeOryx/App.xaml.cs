@@ -8,6 +8,7 @@ namespace TimeOryx
     {
         public App()
         {
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NDQyNzY0QDMxMzkyZTMxMmUzMFlxWHZPTFFHSVlObGdQVnpFdzlCdzIrWlNXQ3JIWTBLUmZoeWVVZEc1RDA9");
             InitializeComponent();
             
             MainPage = new MainPage();
