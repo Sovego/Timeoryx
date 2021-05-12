@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TimeOryx;assembly=TimeOryx"
              xmlns:views="clr-namespace:TimeOryx.views;assembly=TimeOryx"
-             x:Class="TimeOryx.CalendarPage">
+             x:Class="TimeOryx.CalendarPage"
+             Title="Календарь">
     <ContentPage.Content>
         <StackLayout>
             <views:Calendar></views:Calendar>
