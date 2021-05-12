@@ -92,7 +92,7 @@ namespace TimeOryx
                         ToDoLists.Add(tempDoList);
                         TempCalendarEvents.Remove(tempDoList);
                     }
-                    // UpdateChildrenLayout();
+                     UpdateChildrenLayout();
                 }
             }
         }

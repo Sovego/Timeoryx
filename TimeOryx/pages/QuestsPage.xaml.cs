@@ -50,7 +50,14 @@ namespace TimeOryx
         {
             Quests teQuests = (Quests)e.ItemData;
             string message = "";
-            message += "Описание " + teQuests.Task + "\n";
+            if (teQuests.Task == String.Empty)
+            {
+                message += "Описание " + "Отсутствует" + "\n";
+            }
+            else
+            {
+                message += "Описание " + teQuests.Task + "\n";
+            }
             message += "Срок " + teQuests.DateStart + " - " + teQuests.DateEnd + "\n";
             DisplayAlert(teQuests.Title, message, "Ok");
         }
