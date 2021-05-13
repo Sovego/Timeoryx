@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Plugin.LocalNotification;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Collections.Specialized;
@@ -28,6 +29,11 @@ namespace TimeOryx
         public TodoListPage()
         {
             InitializeComponent();
+
+            NotificationCenter.Current.NotificationReceived += Current_NotificationReceived;
+
+            NotificationCenter.Current.NotificationTapped += Current_NotificationTapped;
+
             ToDoLists = new ObservableCollection<DoList>();
             SfListView listView = new SfListView 
             {
@@ -134,6 +140,44 @@ namespace TimeOryx
         private void SelectDone(object sender, EventArgs e)
         {
             Navigation.PushModalAsync(new SelectDone());
+        }
+
+
+        //Notification
+
+        private void Current_NotificationTapped(NotificationTappedEventArgs e)
+        {
+            Device.BeginInvokeOnMainThread(() =>
+            {
+                DisplayAlert("Nobody", e.Data, "OK");
+            });
+        }
+
+        private void Current_NotificationReceived(NotificationReceivedEventArgs e)
+        {
+            Device.BeginInvokeOnMainThread(() =>
+            {
+                DisplayAlert(e.Title, e.Description, "OK");
+            });
+        }
+
+
+        //Composition of notification
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            var notification = new NotificationRequest
+            {
+                BadgeNumber = 1,
+                Description = "Test description",
+                Title = "Notification",
+                ReturningData = "Dummy Data",
+                NotificationId = 1337,
+                Repeats = NotificationRepeat.Daily,
+                NotifyTime = DateTime.Now.AddSeconds(5)
+            };
+
+            NotificationCenter.Current.Show(notification);
+
         }
     }
 }

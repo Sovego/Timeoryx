@@ -28,5 +28,14 @@
         </Tab>
         
     </FlyoutItem>
-    
+
+    <FlyoutItem Title="Настройки">
+        <Tab>
+            <ShellContent ContentTemplate="{DataTemplate views:Options}">
+
+            </ShellContent>
+        </Tab>
+
+    </FlyoutItem>
+
 </Shell>
