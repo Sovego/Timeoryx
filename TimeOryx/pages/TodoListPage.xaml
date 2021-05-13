@@ -4,7 +4,8 @@
              xmlns:local="clr-namespace:TimeOryx;assembly=TimeOryx"
              xmlns:views="clr-namespace:TimeOryx.views;assembly=TimeOryx"
              x:DataType="local:TodoListPage"
-             x:Class="TimeOryx.TodoListPage">
+             x:Class="TimeOryx.TodoListPage"
+             Title="Ваши задачи">
     <ContentPage.Resources>
         <ResourceDictionary>
             <Style x:Key="Lablestyle" TargetType="Label">
@@ -17,11 +18,12 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Order="Primary" Text="Добавить задачу" Clicked="MenuItem_OnClicked"></ToolbarItem>
+        <ToolbarItem Order="Secondary" Text="Добавить задачу" Clicked="MenuItem_OnClicked"></ToolbarItem>
         <ToolbarItem Order="Secondary" Text="Отметить выполненные" Clicked="SelectDone"></ToolbarItem>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout x:Name="StackLayout">
+            <Button Text="Notification" Clicked="Button_Clicked" />
             <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand" BackgroundColor="#7b7b7b" >
                 <local:CalendarMini ></local:CalendarMini> 
             </StackLayout>
