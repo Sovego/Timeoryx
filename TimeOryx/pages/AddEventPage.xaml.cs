@@ -44,6 +44,7 @@ namespace TimeOryx
             temp.DateEnd = _tempdolist[4];
             TodoListPage.AddTask(temp);
             Navigation.PopModalAsync();
+
         }
 
         private void CBox_OnCheckedChanged(object sender, CheckedChangedEventArgs e)

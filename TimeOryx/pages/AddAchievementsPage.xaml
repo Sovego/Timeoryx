@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TimeOryx.AddAchievementsPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Padding="0,20,0,0">
+                <Entry Placeholder="Введите название достижения" x:Name="Entry"></Entry>
+                <Editor Placeholder="Введите описание достижения" x:Name="Editor"></Editor>
+                <StackLayout Orientation="Horizontal">
+                    <CheckBox CheckedChanged="CBox_OnCheckedChanged" x:Name="Box"></CheckBox>
+                    <Label Text="Выбрать дату окончания" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="14"></Label>
+                </StackLayout>
+                <DatePicker x:Name="DatePickerEnd" IsVisible="False" Date="01/01/1900"></DatePicker>
+
+            </StackLayout>
+            <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal">
+                <Button x:Name="Save" Text="Сохранить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" ></Button>
+                <Button x:Name="Cancel"  Text="Отменить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" Clicked="Cancel_OnClicked" ></Button>
+            </StackLayout>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

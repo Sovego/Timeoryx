@@ -72,13 +72,13 @@ namespace TimeOryx
             string temps="";
             if (tempDoList.Description == String.Empty)
             {
-                temps += "Описание "+ "Отсутствует" +"\n";
+                temps += "Описание: "+ "Отсутствует" +"\n";
             }
             else
             {
-                temps += "Описание "+ tempDoList.Description +"\n";
+                temps += "Описание: "+ tempDoList.Description +"\n";
             }
-            temps += "Время " + tempDoList.Time + "\n";
+            temps += "Время: " + tempDoList.Time + "\n";
             DisplayAlert(tempDoList.Name, temps, "Ok");
         }
 
@@ -164,12 +164,13 @@ namespace TimeOryx
                 Title = "Notification",
                 ReturningData = "Dummy Data",
                 NotificationId = 1337,
-                Repeats = NotificationRepeat.Daily,
+                //Repeats = NotificationRepeat.Daily,
                 NotifyTime = DateTime.Now.AddSeconds(5)
             };
 
             NotificationCenter.Current.Show(notification);
 
         }
+
     }
 }

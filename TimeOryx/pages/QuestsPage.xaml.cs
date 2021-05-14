@@ -84,8 +84,8 @@ namespace TimeOryx
         {
             Quests teQuests = (Quests)e.Item;
             string message = "";
-            message += "Описание " + teQuests.Task + "\n";
-            message += "Срок " + teQuests.DateStart + " - " + teQuests.DateEnd + "\n";
+            message += "Описание: " + teQuests.Task + "\n";
+            message += "Срок: " + teQuests.DateStart + " - " + teQuests.DateEnd + "\n";
             DisplayAlert(teQuests.Title, message, "Ok");
         }
 
