@@ -2,9 +2,9 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TimeOryx;assembly=TimeOryx"
-             xmlns:views="clr-namespace:TimeOryx.views;assembly=TimeOryx"
              x:DataType="local:TodoListPage"
              x:Class="TimeOryx.TodoListPage"
+             BackgroundColor="#efefef"
              Title="Ваши задачи">
     <ContentPage.Resources>
         <ResourceDictionary>

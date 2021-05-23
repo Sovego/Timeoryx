@@ -1,25 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
+             xmlns:inputLayout="clr-namespace:Syncfusion.XForms.TextInputLayout;assembly=Syncfusion.Core.XForms"
+             BackgroundColor="#efefef"
              x:Class="TimeOryx.AddEventPage">
     <ContentPage.Content>
         <StackLayout>
-            <StackLayout Padding="0,20,0,0">
-            <Entry Placeholder="Введите название цели" x:Name="Entry"></Entry>
-                <Editor Placeholder="Введите описание цели" x:Name="Editor"></Editor>
-                <Label Text="Выберите дату" FontSize="20"></Label>
-                
-                <DatePicker x:Name="DatePicker" DateSelected="DatePicker_OnDateSelected"></DatePicker>
-                <StackLayout Orientation="Horizontal">
-                    <CheckBox CheckedChanged="CBox_OnCheckedChanged" x:Name="Box"></CheckBox>
-                    <Label Text="Выбрать дату окончания" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="14"></Label>
-                </StackLayout>
-                <DatePicker x:Name="DatePickerEnd" IsVisible="False" Date="11/11/1111"></DatePicker>
-                <TimePicker x:Name="TimePicker" Format="hh.mm" PropertyChanged="TimePicker_OnPropertyChanged" ></TimePicker>
+            <StackLayout>
+                <Label Text="Добавление задачи" FontSize="24" BackgroundColor="#7b7b7b" TextColor="AliceBlue" HorizontalTextAlignment="Center" VerticalOptions="FillAndExpand" HeightRequest="60" VerticalTextAlignment="Center"></Label>
+            </StackLayout>
+            <StackLayout VerticalOptions="FillAndExpand" Padding="0,0,0,0">
+                <inputLayout:SfTextInputLayout Hint="Название">
+                    <Entry x:Name="EntryName"></Entry>
+                </inputLayout:SfTextInputLayout>
+                <inputLayout:SfTextInputLayout Hint="Описание">
+                    <Entry x:Name="EntryDescription"></Entry>
+                </inputLayout:SfTextInputLayout>
+                <inputLayout:SfTextInputLayout Hint="Дата">
+                    <DatePicker x:Name="DatePicker"></DatePicker>
+                </inputLayout:SfTextInputLayout>
+                <inputLayout:SfTextInputLayout Hint="Время">
+                    <TimePicker x:Name="TimePicker"></TimePicker>
+                </inputLayout:SfTextInputLayout>
             </StackLayout>
             <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal">
-                <Button x:Name="Save" Text="Сохранить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" Clicked="Save_OnClicked"></Button>
-                <Button x:Name="Cancel"  Text="Отменить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" Clicked="Cancel_OnClicked"></Button>
+                <buttons:SfButton x:Name="Save" Text="Сохранить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" Clicked="Save_OnClicked"></buttons:SfButton>
+                <buttons:SfButton x:Name="Cancel"  Text="Отменить" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" BackgroundColor="#7b7b7b" Clicked="Cancel_OnClicked"></buttons:SfButton>
             </StackLayout>
 
         </StackLayout>

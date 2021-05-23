@@ -4,6 +4,8 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using Syncfusion.XForms.Buttons;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -17,41 +19,49 @@ namespace TimeOryx
             InitializeComponent();
         }
 
-        private void SwitchCell_OnOnChanged(object sender, ToggledEventArgs e)
-        {
-            if (StackLayout.IsVisible)
-            {
-                StackLayout.IsVisible = false;
-            }
-            else
-            {
-                StackLayout.IsVisible = true;
-            }
-            
-        }
+       
 
         private void Save(object sender, EventArgs e)
         {
-            StreamWriter teStreamWriter;
+
             Quests teQuests = new Quests();
-            string[] temStrings = new string[5];
-            temStrings[0] = NameCell.Text;
-            temStrings[1] = DescriptionCell.Text;
-            temStrings[2] = DatePickerStart.Date.ToString("d");
-            temStrings[3] = DatePickerEnd.Date.ToString("d");
-            temStrings[4] = "///";
-            teStreamWriter = File.AppendText(Path.Combine(PathFile.Folderpath, "Quests.dat"));
-            foreach (var i in temStrings)
+            if (EntryName.Text == String.Empty)
             {
-                teStreamWriter.WriteLine(i);
+                Navigation.PopModalAsync();
             }
-            teStreamWriter.Close();
-            teQuests.Title = NameCell.Text;
-            teQuests.Task = DescriptionCell.Text;
-            teQuests.DateStart = DatePickerStart.Date.ToString("d");
-            teQuests.DateEnd = DatePickerEnd.Date.ToString("d");
+            teQuests.Title = EntryName.Text;
+            teQuests.Task = EntryDescription.Text;
+            if (InputLayoutStart.IsVisible)
+            {
+                teQuests.DateStart = DatePickerStart.Date.ToString("d");
+                teQuests.DateEnd = DatePickerEnd.Date.ToString("d");
+            }
+            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath, "Quests.json"), true))
+            {
+                var jsonstr = JsonConvert.SerializeObject(teQuests);
+                fs.WriteLine(jsonstr);
+            }
             QuestsPage.Refresh(teQuests);
             Navigation.PopModalAsync();
+        }
+
+        private void Cancel(object sender, EventArgs e)
+        {
+            Navigation.PopModalAsync();
+        }
+
+        private void DatePickerOnOff(object sender, SwitchStateChangedEventArgs e)
+        {
+            if (!InputLayoutStart.IsVisible)
+            {
+                InputLayoutStart.IsVisible = true;
+                InputLayoutEnd.IsVisible = true;
+            }
+            else
+            {
+                InputLayoutEnd.IsVisible = false;
+                InputLayoutStart.IsVisible = false;
+            }
         }
     }
 }

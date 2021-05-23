@@ -7,10 +7,12 @@ using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using TimeOryx.pages;
-using TimeOryx.views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-
+using Newtonsoft.Json;
+using Syncfusion.DataSource;
+using Syncfusion.ListView.XForms;
+using ItemTappedEventArgs = Xamarin.Forms.ItemTappedEventArgs;
 
 namespace TimeOryx
 {
@@ -33,28 +35,30 @@ namespace TimeOryx
             NotificationCenter.Current.NotificationTapped += Current_NotificationTapped;
 
             ToDoLists = new ObservableCollection<DoList>();
-            ListView listView = new ListView
+            SfListView listView = new SfListView
             {
-                HasUnevenRows = true,
+                ItemSpacing = new Thickness(0,2),
                 // Определяем источник данных
                 ItemsSource = ToDoLists,
- 
+                
                 // Определяем формат отображения данных
                 ItemTemplate = new DataTemplate(() =>
                 {
                     // привязка к свойству Title
-                    Label titleLabel = new Label { FontSize=18};
+                    Label titleLabel = new Label { FontSize=24};
                     titleLabel.TextColor= Color.AliceBlue;
                     titleLabel.SetBinding(Label.TextProperty, "Name");
-                    Label timeLabel = new Label { FontSize=18};
+                    titleLabel.HorizontalTextAlignment = TextAlignment.Center;
+                    Label timeLabel = new Label { FontSize=24};
                     timeLabel.TextColor= Color.AliceBlue;
                     timeLabel.SetBinding(Label.TextProperty, "Time");
+                    timeLabel.HorizontalTextAlignment = TextAlignment.Center;
                     // создаем объект ViewCell.
                     return new ViewCell
                     {
                         View = new StackLayout
                         {
-                            BackgroundColor = Color.Black,
+                            BackgroundColor = Color.FromHex("8d8d8d"),
                             Padding = new Thickness(0, 5),
                             Orientation = StackOrientation.Vertical,
                             Children = { titleLabel,timeLabel}
@@ -62,35 +66,42 @@ namespace TimeOryx
                     };
                 })
             };
+            listView.DataSource.SortDescriptors.Add(new SortDescriptor()
+            {
+                PropertyName = "Time",
+                Direction = ListSortDirection.Ascending,
+            });
+            listView.RefreshView();
             listView.ItemTapped += ListViewOnItemTapped;
             StackLayout.Children.Insert(0,listView);
         }
 
-        private void ListViewOnItemTapped(object sender, ItemTappedEventArgs e)
+        private void ListViewOnItemTapped(object sender, Syncfusion.ListView.XForms.ItemTappedEventArgs e)
         {
-            DoList tempDoList = (DoList)e.Item;
-            string temps="";
+            DoList tempDoList = (DoList) e.ItemData;
+            string temps = "";
             if (tempDoList.Description == String.Empty)
             {
-                temps += "Описание: "+ "Отсутствует" +"\n";
+                temps += "Описание: " + "Отсутствует" + "\n";
             }
             else
             {
-                temps += "Описание: "+ tempDoList.Description +"\n";
+                temps += "Описание: " + tempDoList.Description + "\n";
             }
             temps += "Время: " + tempDoList.Time + "\n";
             DisplayAlert(tempDoList.Name, temps, "Ok");
         }
+
 
         protected override void OnAppearing()
         {
             base.OnAppearing();
             if (ToDoLists.Count == 0)
             {
-                if (Calendar.CalendarEvents != null)
+                if (CalendarPage.CalendarEvents != null)
                 {
 
-                    TempCalendarEvents = new List<DoList>(Calendar.CalendarEvents);
+                    TempCalendarEvents = new List<DoList>(CalendarPage.CalendarEvents);
                     while (TempCalendarEvents.Exists(list => list.Date == Temps))
                     {
                         DoList tempDoList = TempCalendarEvents.Find(list => list.Date == Temps);
@@ -105,10 +116,10 @@ namespace TimeOryx
         public static void Refresh()
         {
             ToDoLists.Clear();
-            if (Calendar.CalendarEvents != null)
+            if (CalendarPage.CalendarEvents != null)
             {
 
-                TempCalendarEvents = new List<DoList>(Calendar.CalendarEvents);
+                TempCalendarEvents = new List<DoList>(CalendarPage.CalendarEvents);
                 while (TempCalendarEvents.Exists(list => list.Date == Temps))
                 {
                     DoList tempDoList = TempCalendarEvents.Find(list => list.Date == Temps);
@@ -116,12 +127,20 @@ namespace TimeOryx
                     TempCalendarEvents.Remove(tempDoList);
                 }
             }
+            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath, "Todo.json"), false))
+            {
+                if (CalendarPage.CalendarEvents != null)
+                    foreach (var iDoList in CalendarPage.CalendarEvents)
+                    {
+                        var jsonstr = JsonConvert.SerializeObject(iDoList);
+                        fs.WriteLine(jsonstr);
+                    }
+            }
         }
 
         public static void AddTask(DoList tempdolist)
         {
-           // ToDoLists.Add(tempdolist);
-            Calendar.CalendarEvents.Add(tempdolist);
+            CalendarPage.CalendarEvents.Add(tempdolist);
             Refresh();
         }
         private void MenuItem_OnClicked(object sender, EventArgs e)

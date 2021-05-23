@@ -2,12 +2,14 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TimeOryx;assembly=TimeOryx"
-             xmlns:views="clr-namespace:TimeOryx.views;assembly=TimeOryx"
+             xmlns:xForms="clr-namespace:Syncfusion.SfCalendar.XForms;assembly=Syncfusion.SfCalendar.XForms"
              x:Class="TimeOryx.CalendarPage"
              Title="Календарь">
     <ContentPage.Content>
-        <StackLayout>
-            <views:Calendar></views:Calendar>
+        <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+            <xForms:SfCalendar x:Name="sfCalendar" InlineViewMode="Agenda"  ShowInlineEvents="True" VerticalOptions="FillAndExpand">
+
+            </xForms:SfCalendar>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

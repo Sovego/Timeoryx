@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.IO;
+using Newtonsoft.Json;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -51,31 +52,19 @@ namespace TimeOryx
             int i = 0;
             if (QuestsList.Count==0)
             {
-                if (File.Exists(Path.Combine(PathFile.Folderpath, "Quests.dat")))
+                if (File.Exists(Path.Combine(PathFile.Folderpath, "Quests.json")))
                 {
-                    var temp = File.OpenText(Path.Combine(PathFile.Folderpath, "Quests.dat"));
+                    var temp = File.OpenText(Path.Combine(PathFile.Folderpath, "Quests.json"));
                     while (!temp.EndOfStream)
                     {
-                        var temstr = temp.ReadLine();
-                        if (temstr == "///")
-                        {
-                            tempQuests.Title = _tempStrings[0];
-                            tempQuests.Task = _tempStrings[1];
-                            tempQuests.DateStart = _tempStrings[2];
-                            tempQuests.DateEnd = _tempStrings[3];
-                            QuestsList.Add(tempQuests);
-                            i = 0;
-                            tempQuests = new Quests();
-                            continue;
-                        }
-                        _tempStrings[i] = temstr;
-                        i++;
+                        var str = temp.ReadLine();
+                        var questInfo = JsonConvert.DeserializeObject<Quests>(str);
+                        QuestsList.Add(questInfo);
                     }
                     temp.Close();
                 }
             }
         }
-
         public static void Refresh(Quests teQuests)
         {
             QuestsList.Add(teQuests);

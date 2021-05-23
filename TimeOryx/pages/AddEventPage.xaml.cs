@@ -3,6 +3,8 @@ using System.ComponentModel;
 using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Newtonsoft.Json;
+
 
 namespace TimeOryx
 {
@@ -19,45 +21,31 @@ namespace TimeOryx
         }
        private void Save_OnClicked(object sender, EventArgs e)
         {
-            StreamWriter teStreamWriter;
-            _tempdolist[0] = Entry.Text;
-            _tempdolist[1] = Editor.Text;
-            _tempdolist[2] = DatePicker.Date.ToString("d");
-            _tempdolist[3] = TimePicker.Time.ToString("c");
-            if (Box.IsChecked)
-            {
-                _tempdolist[4] = Convert.ToString(DatePickerEnd.Date);
-            }
-            //eventDoLists.Add(tempDoList);
-            _tempdolist[5] = "///////////";
-            teStreamWriter = File.AppendText(Path.Combine(_folderpath, "Todo.dat"));
-            foreach (var i in _tempdolist)
-            {
-                teStreamWriter.WriteLine(i);
-            }
-            teStreamWriter.Close();
-            DoList temp= new DoList();
-            temp.Name = _tempdolist[0];
-            temp.Description = _tempdolist[1];
+            DoList temp = new DoList();
+            temp.Name = EntryName.Text;
+            temp.Description = EntryDescription.Text;
             temp.Date = _tempdolist[2];
             temp.Time = _tempdolist[3];
-            temp.DateEnd = _tempdolist[4];
+            using (StreamWriter fs = new StreamWriter(Path.Combine(_folderpath,"Todo.json"),true))
+            {
+               var jsonstr = JsonConvert.SerializeObject(temp);
+                fs.WriteLine(jsonstr);
+               
+            }
+            //_tempdolist[5] = "///////////";
+            //teStreamWriter = File.AppendText(Path.Combine(_folderpath, "Todo.dat"));
+            //foreach (var i in _tempdolist)
+            //{
+            //    teStreamWriter.WriteLine(i);
+            //}
+            //teStreamWriter.Close();
+
             TodoListPage.AddTask(temp);
             Navigation.PopModalAsync();
 
         }
 
-        private void CBox_OnCheckedChanged(object sender, CheckedChangedEventArgs e)
-        {
-            if (Box.IsChecked)
-            {
-                DatePickerEnd.IsVisible = true;
-            }
-            else
-            {
-                DatePickerEnd.IsVisible = false;
-            }
-        }
+       
         private void Cancel_OnClicked(object sender, EventArgs e)
         {
             Navigation.PopModalAsync();

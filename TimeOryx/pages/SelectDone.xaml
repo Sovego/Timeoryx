@@ -1,10 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
+             BackgroundColor="#a4a4a4"
              x:Class="TimeOryx.pages.SelectDone">
     <ContentPage.Content>
         <StackLayout x:Name="StackLayout">
-            
+           <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                <buttons:SfButton Text="Сохранить" Clicked="Save" BackgroundColor="#7b7b7b" HorizontalOptions="FillAndExpand"></buttons:SfButton>
+                <buttons:SfButton Text="Отмена" Clicked="Cancel" BackgroundColor="#7b7b7b" HorizontalOptions="FillAndExpand"></buttons:SfButton>
+           </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

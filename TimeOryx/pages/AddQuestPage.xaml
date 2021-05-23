@@ -1,36 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#efefef"
+             xmlns:inputLayout="clr-namespace:Syncfusion.XForms.TextInputLayout;assembly=Syncfusion.Core.XForms"
+             xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
              x:Class="TimeOryx.AddQuestPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="lablestyle" TargetType='inputLayout:TextInputHintLabel'>
+                <Setter Property="TextColor" Value="AliceBlue"></Setter>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.Content>
+        
         <StackLayout>
-            <TableView Intent="Form" HasUnevenRows="True">
-                <TableView.Root>
-                    <TableRoot>
-                        <TableSection Title="Название и описание">
-                            <EntryCell x:Name="NameCell" Label="Название" Placeholder="Введите название"></EntryCell>
-                            <EntryCell x:Name="DescriptionCell" Label="Описание" Placeholder="Введите описание"></EntryCell>
-                        </TableSection>
-                        <TableSection Title="Ограничения по времени">
-                            <SwitchCell Text="Добавить ограничения по времени" OnChanged="SwitchCell_OnOnChanged"></SwitchCell>
-                            <ViewCell>
-                                <ViewCell.View>
-                                    <StackLayout x:Name="StackLayout" IsVisible="False">
-                                    <Label Text="Дата начала"></Label>
-                                    <DatePicker x:Name="DatePickerStart"></DatePicker>
-                                    <Label Text="Дата конца"></Label>
-                                    <DatePicker x:Name="DatePickerEnd"></DatePicker>
-                                    </StackLayout>
-                                </ViewCell.View>
-                                
-                            </ViewCell>
-                        </TableSection>
-                    </TableRoot>
-                </TableView.Root>
-            </TableView>
+            <StackLayout HorizontalOptions="FillAndExpand" BackgroundColor="#7b7b7b">
+                <Label Text="Создание новой цели" FontSize="24" HeightRequest="60" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="AliceBlue"></Label>
+            </StackLayout>
+            <inputLayout:SfTextInputLayout HintLabelStyle="{StaticResource lablestyle}" Hint="Название" Padding="0,10,0,0">
+                
+                <Entry x:Name="EntryName" TextColor="AliceBlue"></Entry>
+            </inputLayout:SfTextInputLayout>
+            <inputLayout:SfTextInputLayout Hint="Описание">
+                <Entry x:Name="EntryDescription"></Entry>
+            </inputLayout:SfTextInputLayout>
             <StackLayout Orientation="Horizontal">
-                <Button Text="Сохранить" Clicked="Save"></Button>
-                <Button Text="Отмена"></Button>
+                <buttons:SfSwitch x:Name="SfSwitch" HorizontalOptions="FillAndExpand"  IsEnabled="True" StateChanged="DatePickerOnOff"></buttons:SfSwitch>
+                <Label HorizontalOptions="FillAndExpand" Text="Добавить ограничения по времени" FontSize="18"></Label>
+            </StackLayout>
+               <inputLayout:SfTextInputLayout x:Name="InputLayoutStart" IsVisible="False" Hint="Дата начала">
+                   <DatePicker x:Name="DatePickerStart"></DatePicker>
+               </inputLayout:SfTextInputLayout>
+            <inputLayout:SfTextInputLayout x:Name="InputLayoutEnd" IsVisible="False" Hint="Дата конца">
+                <DatePicker x:Name="DatePickerEnd"></DatePicker>
+            </inputLayout:SfTextInputLayout>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand">
+                <buttons:SfButton Text="Сохранить" Clicked="Save" HorizontalOptions="FillAndExpand" BackgroundColor="#7b7b7b"></buttons:SfButton>
+                <buttons:SfButton Text="Отмена" Clicked="Cancel" HorizontalOptions="FillAndExpand" BackgroundColor="#7b7b7b"></buttons:SfButton>
             </StackLayout>
             
         </StackLayout>
