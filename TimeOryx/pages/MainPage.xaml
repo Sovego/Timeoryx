@@ -29,7 +29,7 @@
         
     </FlyoutItem>
 
-    <FlyoutItem Title="Достижения">
+    <FlyoutItem Title="Достижения [WIP]">
         <Tab>
             <ShellContent ContentTemplate="{DataTemplate views:Achievements}">
 
@@ -38,7 +38,7 @@
 
     </FlyoutItem>
 
-    <FlyoutItem Title="Настройки">
+    <FlyoutItem Title="Настройки [WIP]">
         <Tab>
             <ShellContent ContentTemplate="{DataTemplate views:Options}">
 

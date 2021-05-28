@@ -2,27 +2,24 @@
 using System.Collections.Generic;
 using System.Linq;
 using Syncfusion.ListView.XForms;
-using Syncfusion.SfCalendar.XForms;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using SelectionMode = Syncfusion.ListView.XForms.SelectionMode;
 
 namespace TimeOryx
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class SelectDone : ContentPage
+    public partial class SelectDoneQuest : ContentPage
     {
-        private List<DoList> selectedList { get; set; }
+        private List<Quests> selectedList { get; set; }
         private static SfListView listView;
-
-        public SelectDone()
+        public SelectDoneQuest()
         {
             InitializeComponent();
-             listView = new  SfListView
+            listView = new  SfListView
             {
                 // Определяем источник данных
-                ItemsSource = TodoListPage.ToDoLists,
-                SelectionMode  = SelectionMode.Multiple,
+                ItemsSource = QuestsPage.QuestsList,
+                SelectionMode = Syncfusion.ListView.XForms.SelectionMode.Multiple,
                 // Определяем формат отображения данных
                 ItemTemplate = new DataTemplate(() =>
                 {
@@ -31,11 +28,7 @@ namespace TimeOryx
                     Label titleLabel = new Label {FontSize = 18};
                     titleLabel.TextColor = Color.Black;
                     titleLabel.HorizontalTextAlignment = TextAlignment.Center;
-                    titleLabel.SetBinding(Label.TextProperty, "Name");
-                    Label timeLabel = new Label {FontSize = 18};
-                    timeLabel.TextColor = Color.AliceBlue;
-                    timeLabel.SetBinding(Label.TextProperty, "Time");
-                    timeLabel.HorizontalTextAlignment = TextAlignment.Center;
+                    titleLabel.SetBinding(Label.TextProperty, "Title");
                     // создаем объект ViewCell.
                     return new ViewCell
                     {
@@ -43,7 +36,7 @@ namespace TimeOryx
                         {
                             Padding = new Thickness(0, 5),
                             Orientation = StackOrientation.Vertical,
-                            Children = {titleLabel, timeLabel}
+                            Children = {titleLabel}
                         }
                     };
                 })
@@ -60,29 +53,21 @@ namespace TimeOryx
 
         private void Save(object sender, EventArgs e)
         {
-            selectedList = new List<DoList>(listView.SelectedItems.Cast<DoList>());
+            selectedList = new List<Quests>(listView.SelectedItems.Cast<Quests>());
             foreach (var iDoList in selectedList)
             {
-                CalendarPage.CalendarEvents.Remove(iDoList);
-                CalendarInlineEvent calendarInlineEvent = new CalendarInlineEvent();
-                calendarInlineEvent.Subject = iDoList.Name;
-                DateTime time = DateTime.Parse(iDoList.Time);
-                DateTime date = DateTime.Parse(iDoList.Date);
-                date = date.AddHours(time.Hour);
-                date = date.AddMinutes(time.Minute);
-                date = date.AddSeconds(time.Second);
-                calendarInlineEvent.StartTime = date;
-                calendarInlineEvent.EndTime = date;
-                CalendarPage.CalendarCollection.Remove(calendarInlineEvent);
+                QuestsPage.QuestsList.Remove(iDoList);
+                
             }
 
             Navigation.PopModalAsync();
-            TodoListPage.Refresh();
+            QuestsPage.Refresh();
         }
 
         private void Cancel(object sender, EventArgs e)
         {
             Navigation.PopModalAsync();
         }
+        }
     }
-}
+

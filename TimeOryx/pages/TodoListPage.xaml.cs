@@ -6,7 +6,6 @@ using System.Collections.Specialized;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
-using TimeOryx.pages;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Newtonsoft.Json;
@@ -20,12 +19,11 @@ namespace TimeOryx
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class TodoListPage : ContentPage
     {
-      public static string Temps = DateTime.Today.ToString("d");
+      public static string ToDay = DateTime.Today.ToString("d");
         private static List<DoList> TempCalendarEvents { get; set; }
         public static ObservableCollection<DoList> ToDoLists { get; set; }
         DoList _tempDoList = new DoList();
-       
-        private string[] _tempStrings = new string[5];
+        private static SfListView listView;
         public TodoListPage()
         {
             InitializeComponent();
@@ -35,7 +33,7 @@ namespace TimeOryx
             NotificationCenter.Current.NotificationTapped += Current_NotificationTapped;
 
             ToDoLists = new ObservableCollection<DoList>();
-            SfListView listView = new SfListView
+            listView = new SfListView
             {
                 ItemSpacing = new Thickness(0,2),
                 // Определяем источник данных
@@ -80,7 +78,7 @@ namespace TimeOryx
         {
             DoList tempDoList = (DoList) e.ItemData;
             string temps = "";
-            if (tempDoList.Description == String.Empty)
+            if (tempDoList.Description == null)
             {
                 temps += "Описание: " + "Отсутствует" + "\n";
             }
@@ -102,9 +100,9 @@ namespace TimeOryx
                 {
 
                     TempCalendarEvents = new List<DoList>(CalendarPage.CalendarEvents);
-                    while (TempCalendarEvents.Exists(list => list.Date == Temps))
+                    while (TempCalendarEvents.Exists(list => list.Date == ToDay))
                     {
-                        DoList tempDoList = TempCalendarEvents.Find(list => list.Date == Temps);
+                        DoList tempDoList = TempCalendarEvents.Find(list => list.Date == ToDay);
                         ToDoLists.Add(tempDoList);
                         TempCalendarEvents.Remove(tempDoList);
                     }
@@ -120,9 +118,9 @@ namespace TimeOryx
             {
 
                 TempCalendarEvents = new List<DoList>(CalendarPage.CalendarEvents);
-                while (TempCalendarEvents.Exists(list => list.Date == Temps))
+                while (TempCalendarEvents.Exists(list => list.Date == ToDay))
                 {
-                    DoList tempDoList = TempCalendarEvents.Find(list => list.Date == Temps);
+                    DoList tempDoList = TempCalendarEvents.Find(list => list.Date == ToDay);
                     ToDoLists.Add(tempDoList);
                     TempCalendarEvents.Remove(tempDoList);
                 }
@@ -138,11 +136,6 @@ namespace TimeOryx
             }
         }
 
-        public static void AddTask(DoList tempdolist)
-        {
-            CalendarPage.CalendarEvents.Add(tempdolist);
-            Refresh();
-        }
         private void MenuItem_OnClicked(object sender, EventArgs e)
         {
             Navigation.PushModalAsync(new AddEventPage());

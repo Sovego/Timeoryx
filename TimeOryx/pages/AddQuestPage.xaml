@@ -7,7 +7,7 @@
              x:Class="TimeOryx.AddQuestPage">
     <ContentPage.Resources>
         <ResourceDictionary>
-            <Style x:Key="lablestyle" TargetType='inputLayout:TextInputHintLabel'>
+            <Style x:Key="Lablestyle" TargetType='inputLayout:TextInputHintLabel'>
                 <Setter Property="TextColor" Value="AliceBlue"></Setter>
             </Style>
         </ResourceDictionary>
@@ -18,9 +18,9 @@
             <StackLayout HorizontalOptions="FillAndExpand" BackgroundColor="#7b7b7b">
                 <Label Text="Создание новой цели" FontSize="24" HeightRequest="60" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="AliceBlue"></Label>
             </StackLayout>
-            <inputLayout:SfTextInputLayout HintLabelStyle="{StaticResource lablestyle}" Hint="Название" Padding="0,10,0,0">
+            <inputLayout:SfTextInputLayout HintLabelStyle="{StaticResource Lablestyle}" Hint="Название" Padding="0,10,0,0">
                 
-                <Entry x:Name="EntryName" TextColor="AliceBlue"></Entry>
+                <Entry x:Name="EntryName" ></Entry>
             </inputLayout:SfTextInputLayout>
             <inputLayout:SfTextInputLayout Hint="Описание">
                 <Entry x:Name="EntryDescription"></Entry>

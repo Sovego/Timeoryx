@@ -137,7 +137,7 @@ namespace TimeOryx
         private void ListViewOnItemTapped(object sender, ItemTappedEventArgs e)
         {
             DateTime tempDateTime = Convert.ToDateTime(e.ItemData);
-            TodoListPage.Temps = tempDateTime.ToString("d");
+            TodoListPage.ToDay = tempDateTime.ToString("d");
             TodoListPage.Refresh();
         }
     }

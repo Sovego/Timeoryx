@@ -7,7 +7,7 @@
              Title="Календарь">
     <ContentPage.Content>
         <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
-            <xForms:SfCalendar x:Name="sfCalendar" InlineViewMode="Agenda"  ShowInlineEvents="True" VerticalOptions="FillAndExpand">
+            <xForms:SfCalendar x:Name="SfCalendar" InlineViewMode="Agenda"  ShowInlineEvents="True" VerticalOptions="FillAndExpand">
 
             </xForms:SfCalendar>
         </StackLayout>

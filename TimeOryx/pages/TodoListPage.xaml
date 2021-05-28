@@ -23,7 +23,6 @@
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout x:Name="StackLayout">
-            <Button Text="Notification" Clicked="Button_Clicked" />
             <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand" BackgroundColor="#7b7b7b" >
                 <local:CalendarMini ></local:CalendarMini> 
             </StackLayout>

@@ -26,13 +26,15 @@ namespace TimeOryx
                 ItemTemplate = new DataTemplate(() =>
                 {
                     Label titleLabel = new Label { FontSize=18};
-                    titleLabel.TextColor = Color.Black;
+                    titleLabel.TextColor = Color.AliceBlue;
                     titleLabel.SetBinding(Label.TextProperty, "Title");
+                    titleLabel.HorizontalTextAlignment = TextAlignment.Center;
                     // создаем объект ViewCell.
                     return new ViewCell
                     {
                         View = new StackLayout
                         {
+                            BackgroundColor = Color.FromHex("8d8d8d"),
                             Padding = new Thickness(0, 5),
                             Orientation = StackOrientation.Vertical,
                             Children = { titleLabel}
@@ -65,16 +67,27 @@ namespace TimeOryx
                 }
             }
         }
-        public static void Refresh(Quests teQuests)
-        {
-            QuestsList.Add(teQuests);
-        }
         private void ListViewOnItemTapped(object sender, ItemTappedEventArgs e)
         {
             Quests teQuests = (Quests)e.Item;
             string message = "";
-            message += "Описание: " + teQuests.Task + "\n";
-            message += "Срок: " + teQuests.DateStart + " - " + teQuests.DateEnd + "\n";
+            if (teQuests.Task == null)
+            {
+                message += "Описание: Отсутствует \n" ;
+            }
+            else
+            {
+                message += "Описание: " + teQuests.Task + "\n";
+            }
+            if (teQuests.DateStart == null)
+            {
+                message += "Срок: Бессрочно \n";
+            }
+            else
+            {
+                message += "Срок: " + teQuests.DateStart + " - " + teQuests.DateEnd + "\n";
+            }
+            
             DisplayAlert(teQuests.Title, message, "Ok");
         }
 
@@ -82,6 +95,24 @@ namespace TimeOryx
         private void MenuItem_OnClicked(object sender, EventArgs e)
         {
             Navigation.PushModalAsync(new AddQuestPage());
+        }
+
+        private void SelectDoneQuest(object sender, EventArgs e)
+        {
+            Navigation.PushModalAsync(new SelectDoneQuest());
+        }
+
+        public static void Refresh()
+        {
+            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath, "Quests.json"), false))
+            {
+                if (QuestsList != null)
+                    foreach (var iQuests in QuestsList)
+                    {
+                        var jsonstr = JsonConvert.SerializeObject(iQuests);
+                        fs.WriteLine(jsonstr);
+                    }
+            }
         }
     }
 }

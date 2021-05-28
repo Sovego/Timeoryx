@@ -25,9 +25,10 @@ namespace TimeOryx
         {
 
             Quests teQuests = new Quests();
-            if (EntryName.Text == String.Empty)
+            if (EntryName.Text == null)
             {
                 Navigation.PopModalAsync();
+                return;
             }
             teQuests.Title = EntryName.Text;
             teQuests.Task = EntryDescription.Text;
@@ -41,7 +42,7 @@ namespace TimeOryx
                 var jsonstr = JsonConvert.SerializeObject(teQuests);
                 fs.WriteLine(jsonstr);
             }
-            QuestsPage.Refresh(teQuests);
+            QuestsPage.QuestsList.Add(teQuests);
             Navigation.PopModalAsync();
         }
 

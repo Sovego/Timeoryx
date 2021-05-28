@@ -59,7 +59,7 @@ namespace TimeOryx
                 }
             }
 
-            sfCalendar.DataSource = CalendarCollection;
+            SfCalendar.DataSource = CalendarCollection;
         }
     }
 }

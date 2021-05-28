@@ -4,6 +4,7 @@ using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Newtonsoft.Json;
+using Syncfusion.SfCalendar.XForms;
 
 
 namespace TimeOryx
@@ -21,6 +22,8 @@ namespace TimeOryx
         }
        private void Save_OnClicked(object sender, EventArgs e)
         {
+            _tempdolist[2] = DatePicker.Date.ToString("d");
+            _tempdolist[3] = TimePicker.Time.ToString("c");
             DoList temp = new DoList();
             temp.Name = EntryName.Text;
             temp.Description = EntryDescription.Text;
@@ -32,15 +35,19 @@ namespace TimeOryx
                 fs.WriteLine(jsonstr);
                
             }
-            //_tempdolist[5] = "///////////";
-            //teStreamWriter = File.AppendText(Path.Combine(_folderpath, "Todo.dat"));
-            //foreach (var i in _tempdolist)
-            //{
-            //    teStreamWriter.WriteLine(i);
-            //}
-            //teStreamWriter.Close();
-
-            TodoListPage.AddTask(temp);
+            CalendarInlineEvent calendarInlineEvent = new CalendarInlineEvent();
+            calendarInlineEvent.Subject = temp.Name;
+            DateTime time = DateTime.Parse(temp.Time);
+            DateTime date = DateTime.Parse(temp.Date);
+            date = date.AddHours(time.Hour);
+            date = date.AddMinutes(time.Minute);
+            date = date.AddSeconds(time.Second);
+            calendarInlineEvent.StartTime = date;
+            calendarInlineEvent.EndTime = date;
+            CalendarPage.CalendarCollection.Add(calendarInlineEvent);
+            CalendarPage.CalendarEvents.Add(temp);
+            CalendarPage.CalendarEvents.Sort(new TimeComparer());
+            TodoListPage.Refresh();
             Navigation.PopModalAsync();
 
         }
@@ -51,14 +58,14 @@ namespace TimeOryx
             Navigation.PopModalAsync();
         }
 
-        private void DatePicker_OnDateSelected(object sender, DateChangedEventArgs e)
-        {
-            _tempdolist[2] = e.NewDate.ToString("d");
-        }
-
         private void TimePicker_OnPropertyChanged(object sender, PropertyChangedEventArgs e)
         {
-            _tempdolist[3] = TimePicker.Time.ToString("c");
+           
+        }
+
+        private void DatePicker_OnDateSelected(object sender, DateChangedEventArgs e)
+        {
+            
         }
     }
 }

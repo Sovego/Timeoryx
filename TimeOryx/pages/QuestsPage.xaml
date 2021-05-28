@@ -6,7 +6,8 @@
              Title="Ваши цели">
     
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Добавить цель" Clicked="MenuItem_OnClicked"></ToolbarItem>
+        <ToolbarItem Order="Secondary" Text="Добавить цель" Clicked="MenuItem_OnClicked"></ToolbarItem>
+        <ToolbarItem Order="Secondary" Text="Отметить выполненные" Clicked="SelectDoneQuest"></ToolbarItem>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         

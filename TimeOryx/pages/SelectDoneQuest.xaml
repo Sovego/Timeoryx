@@ -3,13 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
              BackgroundColor="#efefef"
-             x:Class="TimeOryx.SelectDone">
+             x:Class="TimeOryx.SelectDoneQuest">
     <ContentPage.Content>
         <StackLayout x:Name="StackLayout">
-           <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+            <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="FillAndExpand" Orientation="Horizontal">
                 <buttons:SfButton Text="Сохранить" Clicked="Save" BackgroundColor="#7b7b7b" HorizontalOptions="FillAndExpand"></buttons:SfButton>
                 <buttons:SfButton Text="Отмена" Clicked="Cancel" BackgroundColor="#7b7b7b" HorizontalOptions="FillAndExpand"></buttons:SfButton>
-           </StackLayout>
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
