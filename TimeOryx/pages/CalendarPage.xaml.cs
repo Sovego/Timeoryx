@@ -31,9 +31,9 @@ namespace TimeOryx
             CalendarInlineEvent calendarInlineEvent = new CalendarInlineEvent();
             if (CalendarEvents.Count == 0)
             {
-                if (File.Exists(Path.Combine(_folderpath, "Todo.json")))
+                if (File.Exists(Path.Combine(_folderpath, "Todo1.json")))
                 {
-                    var temp = File.OpenText(Path.Combine(_folderpath, "Todo.json"));
+                    var temp = File.OpenText(Path.Combine(_folderpath, "Todo1.json"));
                     while (!temp.EndOfStream)
                     {
                         var str = temp.ReadLine();

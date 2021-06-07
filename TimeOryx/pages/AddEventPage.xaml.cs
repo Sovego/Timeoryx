@@ -22,6 +22,7 @@ namespace TimeOryx
         }
        private void Save_OnClicked(object sender, EventArgs e)
         {
+
             _tempdolist[2] = DatePicker.Date.ToString("d");
             _tempdolist[3] = TimePicker.Time.ToString("c");
             DoList temp = new DoList();
@@ -29,7 +30,7 @@ namespace TimeOryx
             temp.Description = EntryDescription.Text;
             temp.Date = _tempdolist[2];
             temp.Time = _tempdolist[3];
-            using (StreamWriter fs = new StreamWriter(Path.Combine(_folderpath,"Todo.json"),true))
+            using (StreamWriter fs = new StreamWriter(Path.Combine(_folderpath,"Todo1.json"),true))
             {
                var jsonstr = JsonConvert.SerializeObject(temp);
                 fs.WriteLine(jsonstr);

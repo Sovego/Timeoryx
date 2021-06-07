@@ -125,7 +125,7 @@ namespace TimeOryx
                     TempCalendarEvents.Remove(tempDoList);
                 }
             }
-            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath, "Todo.json"), false))
+            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath, "Todo1.json"), false))
             {
                 if (CalendarPage.CalendarEvents != null)
                     foreach (var iDoList in CalendarPage.CalendarEvents)
