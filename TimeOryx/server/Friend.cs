@@ -1,21 +1,5 @@
-﻿using Xamarin.Forms;
-
-namespace TimeOryx
+﻿namespace MobileClient
 {
-
-
-
-    public partial class MainPage : Shell
-    {
-        public MainPage()
-        {
-            InitializeComponent();
-
-        }
-
-
-    }
-
     public class Friend
     {
         public int Id { get; set; }
@@ -29,5 +13,4 @@ namespace TimeOryx
             return this.Id == friend.Id;
         }
     }
-
 }
