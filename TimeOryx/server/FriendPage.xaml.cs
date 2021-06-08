@@ -1,4 +1,6 @@
-﻿using Xamarin.Forms;
+﻿using MobileClient;
+using System;
+using Xamarin.Forms;
 
 namespace TimeOryx
 {
@@ -12,6 +14,11 @@ namespace TimeOryx
             Model = model;
             ViewModel = viewModel;
             this.BindingContext = this;
+        }
+
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
         }
     }
 }

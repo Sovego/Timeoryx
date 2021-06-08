@@ -1,16 +1,17 @@
-﻿using System.Collections.Generic;
+﻿using MobileClient;
+using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
 using System.Text;
-using System.Text.Json;
-using System.Text.Json.Serialization;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
 
 namespace TimeOryx
 {
     public class FriendsService
     {
-        const string Url = "????"; // Ссылку на сервер надо вставить
+        const string Url = "http://localhost:9181"; // Ссылку на сервер надо вставить
 
         // настройки для десериализации для нечувствительности к регистру символов
         JsonSerializerOptions options = new JsonSerializerOptions
