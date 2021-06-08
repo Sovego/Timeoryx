@@ -27,13 +27,13 @@
             </inputLayout:SfTextInputLayout>
             <StackLayout Orientation="Horizontal">
                 <buttons:SfSwitch x:Name="SfSwitch" HorizontalOptions="FillAndExpand"  IsEnabled="True" StateChanged="DatePickerOnOff"></buttons:SfSwitch>
-                <Label HorizontalOptions="FillAndExpand" Text="Добавить ограничения по времени" FontSize="18"></Label>
+                <Label HorizontalOptions="FillAndExpand" Text="Добавить ограничения по времени" FontSize="18" TextColor="Gray"></Label>
             </StackLayout>
                <inputLayout:SfTextInputLayout x:Name="InputLayoutStart" IsVisible="False" Hint="Дата начала">
-                   <DatePicker x:Name="DatePickerStart"></DatePicker>
+                   <DatePicker x:Name="DatePickerStart" TextColor="Gray"></DatePicker>
                </inputLayout:SfTextInputLayout>
             <inputLayout:SfTextInputLayout x:Name="InputLayoutEnd" IsVisible="False" Hint="Дата конца">
-                <DatePicker x:Name="DatePickerEnd"></DatePicker>
+                <DatePicker x:Name="DatePickerEnd" TextColor="Gray"></DatePicker>
             </inputLayout:SfTextInputLayout>
 
             <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand">

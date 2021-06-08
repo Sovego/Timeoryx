@@ -18,10 +18,10 @@
                     <Entry x:Name="EntryDescription"></Entry>
                 </inputLayout:SfTextInputLayout>
                 <inputLayout:SfTextInputLayout Hint="Дата">
-                    <DatePicker x:Name="DatePicker" DateSelected="DatePicker_OnDateSelected"></DatePicker>
+                    <DatePicker x:Name="DatePicker" DateSelected="DatePicker_OnDateSelected" TextColor="Gray"></DatePicker>
                 </inputLayout:SfTextInputLayout>
                 <inputLayout:SfTextInputLayout Hint="Время">
-                    <TimePicker x:Name="TimePicker" PropertyChanged="TimePicker_OnPropertyChanged"></TimePicker>
+                    <TimePicker x:Name="TimePicker" PropertyChanged="TimePicker_OnPropertyChanged" TextColor="Gray"></TimePicker>
                 </inputLayout:SfTextInputLayout>
             </StackLayout>
             <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal">
