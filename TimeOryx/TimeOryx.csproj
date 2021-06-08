@@ -25,11 +25,23 @@
     <Compile Update="Achivment_master.xaml.cs">
       <DependentUpon>Achivment_master.xaml</DependentUpon>
     </Compile>
+    <Compile Update="server\FriendService.cs">
+      <DependentUpon>%(Filename)</DependentUpon>
+    </Compile>
+    <Compile Update="server\Friend.cs">
+      <DependentUpon>%(Filename)</DependentUpon>
+    </Compile>
+    <Compile Update="server\ApplicationViewModel.xaml.cs">
+      <DependentUpon>ApplicationViewModel.xaml</DependentUpon>
+    </Compile>
     <Compile Update="pages\Achievements.xaml.cs">
       <DependentUpon>Achievements.xaml</DependentUpon>
     </Compile>
     <Compile Update="pages\AddAchievementsPage.xaml.cs">
       <DependentUpon>AddAchievementsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="server\FriendPage.xaml.cs">
+      <DependentUpon>FriendPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
