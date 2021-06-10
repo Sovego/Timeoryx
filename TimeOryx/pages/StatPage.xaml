@@ -1,12 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TimeOryx.StatPage">
+             BackgroundColor="#efefef"
+             x:Class="TimeOryx.StatPage"
+             Title="Статистика">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout x:Name="StackLayout" Padding="0,5,0,0">
+            <Frame BackgroundColor="#8d8d8d" BorderColor="#bdbdbd" CornerRadius="8">
+                <Label x:Name="AllDo" FontSize="24" TextColor="Black" ></Label>
+            </Frame >
+            <Frame BackgroundColor="#8d8d8d" BorderColor="#bdbdbd" CornerRadius="8">
+                <Label x:Name="DoneDo" FontSize="24" TextColor="Black" ></Label>
+            </Frame>
+           <Frame BackgroundColor="#8d8d8d" BorderColor="#bdbdbd" CornerRadius="8">
+               <Label x:Name="AllQuest" FontSize="24" TextColor="Black" ></Label>
+           </Frame>
+            <Frame BackgroundColor="#8d8d8d" BorderColor="#bdbdbd" CornerRadius="8">
+                <Label x:Name="DoneQuest" FontSize="24" TextColor="Black"></Label>
+            </Frame>
+           
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

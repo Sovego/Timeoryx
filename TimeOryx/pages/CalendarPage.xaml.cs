@@ -15,13 +15,13 @@ namespace TimeOryx
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CalendarPage : ContentPage
     {
-        private string _folderpath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
         private string[] _tempStrings = new string[5];
         private DoList _tempDoList = new DoList();
         public static List<DoList> CalendarEvents { get; set; }
         public static CalendarEventCollection CalendarCollection { get; set; }
         public CalendarPage()
         {
+            StatPage.ReadStat();
             InitializeComponent();
             _tempDoList = new DoList();
             int i = 0;
@@ -31,9 +31,9 @@ namespace TimeOryx
             CalendarInlineEvent calendarInlineEvent = new CalendarInlineEvent();
             if (CalendarEvents.Count == 0)
             {
-                if (File.Exists(Path.Combine(_folderpath, "Todo1.json")))
+                if (File.Exists(Path.Combine(PathFile.Folderpath, "Todo.json")))
                 {
-                    var temp = File.OpenText(Path.Combine(_folderpath, "Todo1.json"));
+                    var temp = File.OpenText(Path.Combine(PathFile.Folderpath, "Todo.json"));
                     while (!temp.EndOfStream)
                     {
                         var str = temp.ReadLine();

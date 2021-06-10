@@ -62,6 +62,8 @@ namespace TimeOryx
 
             Navigation.PopModalAsync();
             QuestsPage.Refresh();
+            StatPage.StatInfo.NumbQuestDone += selectedList.Count;
+            StatPage.Refresh();
         }
 
         private void Cancel(object sender, EventArgs e)

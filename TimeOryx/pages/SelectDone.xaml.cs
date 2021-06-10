@@ -78,6 +78,8 @@ namespace TimeOryx
 
             Navigation.PopModalAsync();
             TodoListPage.Refresh();
+            StatPage.StatInfo.NumbDoDone+= selectedList.Count;
+            StatPage.Refresh();
         }
 
         private void Cancel(object sender, EventArgs e)

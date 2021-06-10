@@ -12,7 +12,7 @@ namespace TimeOryx
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AddEventPage : ContentPage
     {
-        private string _folderpath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
+       
        // private List<DoList> eventDoLists = new List<DoList>();
        private string[] _tempdolist =new string[6];
 
@@ -30,7 +30,7 @@ namespace TimeOryx
             temp.Description = EntryDescription.Text;
             temp.Date = _tempdolist[2];
             temp.Time = _tempdolist[3];
-            using (StreamWriter fs = new StreamWriter(Path.Combine(_folderpath,"Todo1.json"),true))
+            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath,"Todo.json"),true))
             {
                var jsonstr = JsonConvert.SerializeObject(temp);
                 fs.WriteLine(jsonstr);
@@ -49,6 +49,8 @@ namespace TimeOryx
             CalendarPage.CalendarEvents.Add(temp);
             CalendarPage.CalendarEvents.Sort(new TimeComparer());
             TodoListPage.Refresh();
+            StatPage.StatInfo.AllDo++;
+            StatPage.Refresh();
             Navigation.PopModalAsync();
 
         }

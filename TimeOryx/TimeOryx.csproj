@@ -3,12 +3,20 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    <SignAssembly>false</SignAssembly>
+    <ApplicationIcon>-1.ico</ApplicationIcon>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebugType>portable</DebugType>
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="server\**" />
+    <EmbeddedResource Remove="server\**" />
+    <None Remove="server\**" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
@@ -24,24 +32,6 @@
   <ItemGroup>
     <Compile Update="Achivment_master.xaml.cs">
       <DependentUpon>Achivment_master.xaml</DependentUpon>
-    </Compile>
-    <Compile Update="server\FriendService.cs">
-      <DependentUpon>%(Filename)</DependentUpon>
-    </Compile>
-    <Compile Update="server\Friend.cs">
-      <DependentUpon>%(Filename)</DependentUpon>
-    </Compile>
-    <Compile Update="server\ApplicationViewModel.xaml.cs">
-      <DependentUpon>ApplicationViewModel.xaml</DependentUpon>
-    </Compile>
-    <Compile Update="pages\Achievements.xaml.cs">
-      <DependentUpon>Achievements.xaml</DependentUpon>
-    </Compile>
-    <Compile Update="pages\AddAchievementsPage.xaml.cs">
-      <DependentUpon>AddAchievementsPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Update="server\FriendPage.xaml.cs">
-      <DependentUpon>FriendPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
@@ -63,12 +53,6 @@
     </EmbeddedResource>
     <EmbeddedResource Update="pages\AddQuestPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="pages\Achievements.xaml">
-      <Generator>MSBuild:Compile</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="pages\Options.xaml">
-      <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="pages\QuestsPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>

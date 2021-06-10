@@ -37,12 +37,14 @@ namespace TimeOryx
                 teQuests.DateStart = DatePickerStart.Date.ToString("d");
                 teQuests.DateEnd = DatePickerEnd.Date.ToString("d");
             }
-            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath, "Quests1.json"), true))
+            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath, "Quests.json"), true))
             {
                 var jsonstr = JsonConvert.SerializeObject(teQuests);
                 fs.WriteLine(jsonstr);
             }
             QuestsPage.QuestsList.Add(teQuests);
+            StatPage.StatInfo.AllQuest++;
+            StatPage.Refresh();
             Navigation.PopModalAsync();
         }
 

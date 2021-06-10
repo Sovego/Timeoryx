@@ -125,7 +125,7 @@ namespace TimeOryx
                     TempCalendarEvents.Remove(tempDoList);
                 }
             }
-            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath, "Todo1.json"), false))
+            using (StreamWriter fs = new StreamWriter(Path.Combine(PathFile.Folderpath, "Todo.json"), false))
             {
                 if (CalendarPage.CalendarEvents != null)
                     foreach (var iDoList in CalendarPage.CalendarEvents)
@@ -143,7 +143,16 @@ namespace TimeOryx
 
         private void SelectDone(object sender, EventArgs e)
         {
-            Navigation.PushModalAsync(new SelectDone());
+            if (ToDoLists.Count == 0)
+            {
+                DisplayAlert("Ошибка", "Нет задач на сегодня", "Ok");
+
+            }
+            else
+            {
+                Navigation.PushModalAsync(new SelectDone());
+            }
+            
         }
 
 

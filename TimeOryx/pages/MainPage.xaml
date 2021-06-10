@@ -29,22 +29,10 @@
         
     </FlyoutItem>
 
-    <FlyoutItem Title="Достижения [WIP]">
+    <FlyoutItem Title="Статистика">
         <Tab>
-            <ShellContent ContentTemplate="{DataTemplate views:Achievements}">
-
-            </ShellContent>
+            <ShellContent ContentTemplate="{DataTemplate views:StatPage}"></ShellContent>
         </Tab>
-
-    </FlyoutItem>
-
-    <FlyoutItem Title="Настройки [WIP]">
-        <Tab>
-            <ShellContent ContentTemplate="{DataTemplate views:Options}">
-
-            </ShellContent>
-        </Tab>
-
     </FlyoutItem>
 
 </Shell>
